@@ -1,0 +1,2351 @@
+{
+"source": "U.S. Census Bureau, 2020-based relationship files: 2024 state legislative districts and 118th Congress districts to 2020 counties (share = share of district land area)",
+"source_url": "https://www2.census.gov/geo/docs/maps-data/data/rel2020/cd-sld/",
+"built_at": "2026-11-04T19:33:39Z",
+"districts": {
+"SD-1": [
+[
+"Philadelphia",
+1.0
+]
+],
+"SD-2": [
+[
+"Philadelphia",
+1.0
+]
+],
+"SD-3": [
+[
+"Philadelphia",
+1.0
+]
+],
+"SD-4": [
+[
+"Montgomery",
+0.7161
+],
+[
+"Philadelphia",
+0.2839
+]
+],
+"SD-5": [
+[
+"Philadelphia",
+1.0
+]
+],
+"SD-6": [
+[
+"Bucks",
+1.0
+]
+],
+"SD-7": [
+[
+"Philadelphia",
+0.6042
+],
+[
+"Montgomery",
+0.3958
+]
+],
+"SD-8": [
+[
+"Delaware",
+0.5569
+],
+[
+"Philadelphia",
+0.4431
+]
+],
+"SD-9": [
+[
+"Chester",
+0.5743
+],
+[
+"Delaware",
+0.4257
+]
+],
+"SD-10": [
+[
+"Bucks",
+1.0
+]
+],
+"SD-11": [
+[
+"Berks",
+1.0
+]
+],
+"SD-12": [
+[
+"Montgomery",
+1.0
+]
+],
+"SD-13": [
+[
+"Lancaster",
+0.8861
+],
+[
+"Berks",
+0.1139
+]
+],
+"SD-14": [
+[
+"Northampton",
+0.7017
+],
+[
+"Lehigh",
+0.2983
+]
+],
+"SD-15": [
+[
+"Dauphin",
+1.0
+]
+],
+"SD-16": [
+[
+"Lehigh",
+0.522
+],
+[
+"Bucks",
+0.478
+]
+],
+"SD-17": [
+[
+"Montgomery",
+0.7099
+],
+[
+"Delaware",
+0.2901
+]
+],
+"SD-18": [
+[
+"Northampton",
+0.9825
+],
+[
+"Lehigh",
+0.0175
+]
+],
+"SD-19": [
+[
+"Chester",
+1.0
+]
+],
+"SD-20": [
+[
+"Susquehanna",
+0.3135
+],
+[
+"Pike",
+0.2074
+],
+[
+"Wayne",
+0.1996
+],
+[
+"Wyoming",
+0.1513
+],
+[
+"Luzerne",
+0.1282
+]
+],
+"SD-21": [
+[
+"Warren",
+0.2669
+],
+[
+"Venango",
+0.2035
+],
+[
+"Butler",
+0.1956
+],
+[
+"Clarion",
+0.1813
+],
+[
+"Forest",
+0.129
+],
+[
+"Erie",
+0.0237
+]
+],
+"SD-22": [
+[
+"Lackawanna",
+0.7515
+],
+[
+"Luzerne",
+0.2485
+]
+],
+"SD-23": [
+[
+"Lycoming",
+0.2874
+],
+[
+"Bradford",
+0.2683
+],
+[
+"Tioga",
+0.2651
+],
+[
+"Sullivan",
+0.1052
+],
+[
+"Union",
+0.0739
+]
+],
+"SD-24": [
+[
+"Montgomery",
+0.5682
+],
+[
+"Berks",
+0.4318
+]
+],
+"SD-25": [
+[
+"Potter",
+0.2
+],
+[
+"McKean",
+0.1812
+],
+[
+"Clinton",
+0.1643
+],
+[
+"Elk",
+0.153
+],
+[
+"Centre",
+0.1453
+],
+[
+"Jefferson",
+0.083
+],
+[
+"Cameron",
+0.0733
+]
+],
+"SD-26": [
+[
+"Delaware",
+1.0
+]
+],
+"SD-27": [
+[
+"Columbia",
+0.2908
+],
+[
+"Northumberland",
+0.2754
+],
+[
+"Snyder",
+0.1978
+],
+[
+"Luzerne",
+0.1576
+],
+[
+"Montour",
+0.0784
+]
+],
+"SD-28": [
+[
+"York",
+1.0
+]
+],
+"SD-29": [
+[
+"Schuylkill",
+0.5638
+],
+[
+"Carbon",
+0.2762
+],
+[
+"Luzerne",
+0.16
+]
+],
+"SD-30": [
+[
+"Huntingdon",
+0.3313
+],
+[
+"Blair",
+0.199
+],
+[
+"Fulton",
+0.1657
+],
+[
+"Mifflin",
+0.1557
+],
+[
+"Juniata",
+0.1483
+]
+],
+"SD-31": [
+[
+"York",
+0.9123
+],
+[
+"Cumberland",
+0.0877
+]
+],
+"SD-32": [
+[
+"Somerset",
+0.3734
+],
+[
+"Bedford",
+0.3516
+],
+[
+"Fayette",
+0.2746
+],
+[
+"Westmoreland",
+0.0004
+]
+],
+"SD-33": [
+[
+"Franklin",
+0.5982
+],
+[
+"Adams",
+0.4018
+]
+],
+"SD-34": [
+[
+"Perry",
+0.4195
+],
+[
+"Cumberland",
+0.3927
+],
+[
+"Dauphin",
+0.1877
+]
+],
+"SD-35": [
+[
+"Clearfield",
+0.5312
+],
+[
+"Cambria",
+0.3188
+],
+[
+"Centre",
+0.15
+]
+],
+"SD-36": [
+[
+"Lancaster",
+1.0
+]
+],
+"SD-37": [
+[
+"Allegheny",
+1.0
+]
+],
+"SD-38": [
+[
+"Allegheny",
+1.0
+]
+],
+"SD-39": [
+[
+"Westmoreland",
+1.0
+]
+],
+"SD-40": [
+[
+"Monroe",
+0.5756
+],
+[
+"Lackawanna",
+0.2338
+],
+[
+"Wayne",
+0.1906
+]
+],
+"SD-41": [
+[
+"Indiana",
+0.3926
+],
+[
+"Armstrong",
+0.31
+],
+[
+"Westmoreland",
+0.2006
+],
+[
+"Jefferson",
+0.0968
+]
+],
+"SD-42": [
+[
+"Allegheny",
+1.0
+]
+],
+"SD-43": [
+[
+"Allegheny",
+1.0
+]
+],
+"SD-44": [
+[
+"Chester",
+0.836
+],
+[
+"Montgomery",
+0.0947
+],
+[
+"Berks",
+0.0693
+]
+],
+"SD-45": [
+[
+"Allegheny",
+1.0
+]
+],
+"SD-46": [
+[
+"Washington",
+0.5709
+],
+[
+"Greene",
+0.3836
+],
+[
+"Beaver",
+0.0455
+]
+],
+"SD-47": [
+[
+"Beaver",
+0.6306
+],
+[
+"Butler",
+0.2435
+],
+[
+"Lawrence",
+0.1259
+]
+],
+"SD-48": [
+[
+"Berks",
+0.4734
+],
+[
+"Lebanon",
+0.4152
+],
+[
+"Lancaster",
+0.1114
+]
+],
+"SD-49": [
+[
+"Erie",
+1.0
+]
+],
+"SD-50": [
+[
+"Crawford",
+0.5141
+],
+[
+"Mercer",
+0.3415
+],
+[
+"Lawrence",
+0.1443
+]
+],
+"HD-1": [
+[
+"Erie",
+1.0
+]
+],
+"HD-2": [
+[
+"Erie",
+1.0
+]
+],
+"HD-3": [
+[
+"Erie",
+1.0
+]
+],
+"HD-4": [
+[
+"Erie",
+1.0
+]
+],
+"HD-5": [
+[
+"Berks",
+1.0
+]
+],
+"HD-6": [
+[
+"Crawford",
+0.8309
+],
+[
+"Erie",
+0.1691
+]
+],
+"HD-7": [
+[
+"Mercer",
+1.0
+]
+],
+"HD-8": [
+[
+"Butler",
+0.6262
+],
+[
+"Lawrence",
+0.3738
+]
+],
+"HD-9": [
+[
+"Lawrence",
+1.0
+]
+],
+"HD-10": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-11": [
+[
+"Butler",
+1.0
+]
+],
+"HD-12": [
+[
+"Butler",
+1.0
+]
+],
+"HD-13": [
+[
+"Chester",
+1.0
+]
+],
+"HD-14": [
+[
+"Beaver",
+1.0
+]
+],
+"HD-15": [
+[
+"Washington",
+0.5818
+],
+[
+"Beaver",
+0.4182
+]
+],
+"HD-16": [
+[
+"Beaver",
+1.0
+]
+],
+"HD-17": [
+[
+"Mercer",
+0.6603
+],
+[
+"Butler",
+0.3397
+]
+],
+"HD-18": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-19": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-20": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-21": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-22": [
+[
+"Lehigh",
+1.0
+]
+],
+"HD-23": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-24": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-25": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-26": [
+[
+"Chester",
+1.0
+]
+],
+"HD-27": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-28": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-29": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-30": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-31": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-32": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-33": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-34": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-35": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-36": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-37": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-38": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-39": [
+[
+"Allegheny",
+0.7563
+],
+[
+"Washington",
+0.2437
+]
+],
+"HD-40": [
+[
+"Washington",
+0.5419
+],
+[
+"Allegheny",
+0.4581
+]
+],
+"HD-41": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-42": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-43": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-44": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-45": [
+[
+"Allegheny",
+1.0
+]
+],
+"HD-46": [
+[
+"Washington",
+0.8164
+],
+[
+"Allegheny",
+0.1836
+]
+],
+"HD-47": [
+[
+"York",
+1.0
+]
+],
+"HD-48": [
+[
+"Washington",
+1.0
+]
+],
+"HD-49": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-50": [
+[
+"Greene",
+0.8271
+],
+[
+"Washington",
+0.1729
+]
+],
+"HD-51": [
+[
+"Fayette",
+1.0
+]
+],
+"HD-52": [
+[
+"Fayette",
+1.0
+]
+],
+"HD-53": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-54": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-55": [
+[
+"Westmoreland",
+1.0
+]
+],
+"HD-56": [
+[
+"Westmoreland",
+1.0
+]
+],
+"HD-57": [
+[
+"Westmoreland",
+1.0
+]
+],
+"HD-58": [
+[
+"Westmoreland",
+1.0
+]
+],
+"HD-59": [
+[
+"Westmoreland",
+1.0
+]
+],
+"HD-60": [
+[
+"Armstrong",
+0.8503
+],
+[
+"Westmoreland",
+0.1497
+]
+],
+"HD-61": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-62": [
+[
+"Indiana",
+1.0
+]
+],
+"HD-63": [
+[
+"Clarion",
+0.5894
+],
+[
+"Armstrong",
+0.4106
+]
+],
+"HD-64": [
+[
+"Venango",
+0.833
+],
+[
+"Crawford",
+0.167
+]
+],
+"HD-65": [
+[
+"Warren",
+0.5484
+],
+[
+"Forest",
+0.265
+],
+[
+"Crawford",
+0.1867
+]
+],
+"HD-66": [
+[
+"Jefferson",
+0.6614
+],
+[
+"Indiana",
+0.3386
+]
+],
+"HD-67": [
+[
+"Potter",
+0.44
+],
+[
+"McKean",
+0.3987
+],
+[
+"Cameron",
+0.1613
+]
+],
+"HD-68": [
+[
+"Tioga",
+0.6619
+],
+[
+"Bradford",
+0.3381
+]
+],
+"HD-69": [
+[
+"Somerset",
+1.0
+]
+],
+"HD-70": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-71": [
+[
+"Cambria",
+0.8368
+],
+[
+"Somerset",
+0.1632
+]
+],
+"HD-72": [
+[
+"Cambria",
+1.0
+]
+],
+"HD-73": [
+[
+"Clearfield",
+0.8705
+],
+[
+"Cambria",
+0.1295
+]
+],
+"HD-74": [
+[
+"Chester",
+1.0
+]
+],
+"HD-75": [
+[
+"Elk",
+0.6832
+],
+[
+"Clearfield",
+0.3168
+]
+],
+"HD-76": [
+[
+"Clinton",
+0.7953
+],
+[
+"Union",
+0.2047
+]
+],
+"HD-77": [
+[
+"Centre",
+1.0
+]
+],
+"HD-78": [
+[
+"Bedford",
+0.6982
+],
+[
+"Fulton",
+0.3018
+]
+],
+"HD-79": [
+[
+"Blair",
+1.0
+]
+],
+"HD-80": [
+[
+"Blair",
+0.8782
+],
+[
+"Huntingdon",
+0.1218
+]
+],
+"HD-81": [
+[
+"Huntingdon",
+0.7263
+],
+[
+"Franklin",
+0.2737
+]
+],
+"HD-82": [
+[
+"Centre",
+1.0
+]
+],
+"HD-83": [
+[
+"Lycoming",
+0.7089
+],
+[
+"Union",
+0.2911
+]
+],
+"HD-84": [
+[
+"Lycoming",
+0.706
+],
+[
+"Sullivan",
+0.294
+]
+],
+"HD-85": [
+[
+"Snyder",
+0.669
+],
+[
+"Mifflin",
+0.1564
+],
+[
+"Juniata",
+0.1209
+],
+[
+"Union",
+0.0537
+]
+],
+"HD-86": [
+[
+"Perry",
+0.6242
+],
+[
+"Juniata",
+0.3758
+]
+],
+"HD-87": [
+[
+"Cumberland",
+1.0
+]
+],
+"HD-88": [
+[
+"Cumberland",
+1.0
+]
+],
+"HD-89": [
+[
+"Franklin",
+1.0
+]
+],
+"HD-90": [
+[
+"Franklin",
+1.0
+]
+],
+"HD-91": [
+[
+"Adams",
+1.0
+]
+],
+"HD-92": [
+[
+"York",
+1.0
+]
+],
+"HD-93": [
+[
+"York",
+1.0
+]
+],
+"HD-94": [
+[
+"York",
+1.0
+]
+],
+"HD-95": [
+[
+"York",
+1.0
+]
+],
+"HD-96": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-97": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-98": [
+[
+"Lancaster",
+0.6602
+],
+[
+"Lebanon",
+0.3398
+]
+],
+"HD-99": [
+[
+"Lancaster",
+0.7951
+],
+[
+"Berks",
+0.2049
+]
+],
+"HD-100": [
+[
+"Lancaster",
+1.0
+]
+],
+"HD-101": [
+[
+"Lebanon",
+1.0
+]
+],
+"HD-102": [
+[
+"Lebanon",
+1.0
+]
+],
+"HD-103": [
+[
+"Cumberland",
+0.7309
+],
+[
+"Dauphin",
+0.2691
+]
+],
+"HD-104": [
+[
+"Dauphin",
+1.0
+]
+],
+"HD-105": [
+[
+"Dauphin",
+1.0
+]
+],
+"HD-106": [
+[
+"Dauphin",
+1.0
+]
+],
+"HD-107": [
+[
+"Northumberland",
+0.5071
+],
+[
+"Schuylkill",
+0.4929
+]
+],
+"HD-108": [
+[
+"Northumberland",
+0.606
+],
+[
+"Montour",
+0.394
+]
+],
+"HD-109": [
+[
+"Columbia",
+1.0
+]
+],
+"HD-110": [
+[
+"Bradford",
+0.5885
+],
+[
+"Wyoming",
+0.4115
+]
+],
+"HD-111": [
+[
+"Susquehanna",
+0.6129
+],
+[
+"Wayne",
+0.3871
+]
+],
+"HD-112": [
+[
+"Lackawanna",
+1.0
+]
+],
+"HD-113": [
+[
+"Lackawanna",
+1.0
+]
+],
+"HD-114": [
+[
+"Lackawanna",
+1.0
+]
+],
+"HD-115": [
+[
+"Monroe",
+1.0
+]
+],
+"HD-116": [
+[
+"Schuylkill",
+0.6644
+],
+[
+"Luzerne",
+0.3356
+]
+],
+"HD-117": [
+[
+"Luzerne",
+1.0
+]
+],
+"HD-118": [
+[
+"Lackawanna",
+0.6372
+],
+[
+"Luzerne",
+0.3628
+]
+],
+"HD-119": [
+[
+"Luzerne",
+1.0
+]
+],
+"HD-120": [
+[
+"Luzerne",
+1.0
+]
+],
+"HD-121": [
+[
+"Luzerne",
+1.0
+]
+],
+"HD-122": [
+[
+"Carbon",
+1.0
+]
+],
+"HD-123": [
+[
+"Schuylkill",
+1.0
+]
+],
+"HD-124": [
+[
+"Schuylkill",
+0.5665
+],
+[
+"Berks",
+0.4335
+]
+],
+"HD-125": [
+[
+"Dauphin",
+1.0
+]
+],
+"HD-126": [
+[
+"Berks",
+1.0
+]
+],
+"HD-127": [
+[
+"Berks",
+1.0
+]
+],
+"HD-128": [
+[
+"Berks",
+1.0
+]
+],
+"HD-129": [
+[
+"Berks",
+1.0
+]
+],
+"HD-130": [
+[
+"Berks",
+1.0
+]
+],
+"HD-131": [
+[
+"Lehigh",
+0.5409
+],
+[
+"Montgomery",
+0.3691
+],
+[
+"Northampton",
+0.09
+]
+],
+"HD-132": [
+[
+"Lehigh",
+1.0
+]
+],
+"HD-133": [
+[
+"Lehigh",
+1.0
+]
+],
+"HD-134": [
+[
+"Lehigh",
+1.0
+]
+],
+"HD-135": [
+[
+"Northampton",
+1.0
+]
+],
+"HD-136": [
+[
+"Northampton",
+1.0
+]
+],
+"HD-137": [
+[
+"Northampton",
+1.0
+]
+],
+"HD-138": [
+[
+"Northampton",
+1.0
+]
+],
+"HD-139": [
+[
+"Pike",
+0.657
+],
+[
+"Wayne",
+0.343
+]
+],
+"HD-140": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-141": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-142": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-143": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-144": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-145": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-146": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-147": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-148": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-149": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-150": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-151": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-152": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-153": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-154": [
+[
+"Montgomery",
+1.0
+]
+],
+"HD-155": [
+[
+"Chester",
+1.0
+]
+],
+"HD-156": [
+[
+"Chester",
+1.0
+]
+],
+"HD-157": [
+[
+"Chester",
+1.0
+]
+],
+"HD-158": [
+[
+"Chester",
+1.0
+]
+],
+"HD-159": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-160": [
+[
+"Delaware",
+0.5766
+],
+[
+"Chester",
+0.4234
+]
+],
+"HD-161": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-162": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-163": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-164": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-165": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-166": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-167": [
+[
+"Chester",
+1.0
+]
+],
+"HD-168": [
+[
+"Delaware",
+1.0
+]
+],
+"HD-169": [
+[
+"York",
+1.0
+]
+],
+"HD-170": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-171": [
+[
+"Mifflin",
+0.5084
+],
+[
+"Centre",
+0.4916
+]
+],
+"HD-172": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-173": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-174": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-175": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-176": [
+[
+"Monroe",
+1.0
+]
+],
+"HD-177": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-178": [
+[
+"Bucks",
+1.0
+]
+],
+"HD-179": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-180": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-181": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-182": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-183": [
+[
+"Northampton",
+0.6438
+],
+[
+"Lehigh",
+0.3562
+]
+],
+"HD-184": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-185": [
+[
+"Philadelphia",
+0.6736
+],
+[
+"Delaware",
+0.3264
+]
+],
+"HD-186": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-187": [
+[
+"Lehigh",
+1.0
+]
+],
+"HD-188": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-189": [
+[
+"Pike",
+0.6737
+],
+[
+"Monroe",
+0.3263
+]
+],
+"HD-190": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-191": [
+[
+"Delaware",
+0.5443
+],
+[
+"Philadelphia",
+0.4557
+]
+],
+"HD-192": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-193": [
+[
+"Adams",
+0.5471
+],
+[
+"Cumberland",
+0.4529
+]
+],
+"HD-194": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-195": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-196": [
+[
+"York",
+1.0
+]
+],
+"HD-197": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-198": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-199": [
+[
+"Cumberland",
+1.0
+]
+],
+"HD-200": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-201": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-202": [
+[
+"Philadelphia",
+1.0
+]
+],
+"HD-203": [
+[
+"Philadelphia",
+1.0
+]
+],
+"PA-1": [
+[
+"Bucks",
+0.864
+],
+[
+"Montgomery",
+0.136
+]
+],
+"PA-2": [
+[
+"Philadelphia",
+1.0
+]
+],
+"PA-3": [
+[
+"Philadelphia",
+1.0
+]
+],
+"PA-4": [
+[
+"Berks",
+0.5043
+],
+[
+"Montgomery",
+0.4957
+]
+],
+"PA-5": [
+[
+"Delaware",
+0.802
+],
+[
+"Montgomery",
+0.1221
+],
+[
+"Philadelphia",
+0.0752
+],
+[
+"Chester",
+0.0007
+]
+],
+"PA-6": [
+[
+"Chester",
+0.8112
+],
+[
+"Berks",
+0.1888
+]
+],
+"PA-7": [
+[
+"Carbon",
+0.3266
+],
+[
+"Northampton",
+0.3167
+],
+[
+"Lehigh",
+0.2957
+],
+[
+"Monroe",
+0.061
+]
+],
+"PA-8": [
+[
+"Wayne",
+0.2621
+],
+[
+"Pike",
+0.1967
+],
+[
+"Monroe",
+0.1939
+],
+[
+"Luzerne",
+0.1815
+],
+[
+"Lackawanna",
+0.1657
+]
+],
+"PA-9": [
+[
+"Bradford",
+0.1889
+],
+[
+"Susquehanna",
+0.1356
+],
+[
+"Schuylkill",
+0.1282
+],
+[
+"Columbia",
+0.0796
+],
+[
+"Northumberland",
+0.0754
+],
+[
+"Sullivan",
+0.0741
+],
+[
+"Wyoming",
+0.0654
+],
+[
+"Luzerne",
+0.0637
+],
+[
+"Lebanon",
+0.0596
+],
+[
+"Lycoming",
+0.0561
+],
+[
+"Berks",
+0.052
+],
+[
+"Montour",
+0.0214
+]
+],
+"PA-10": [
+[
+"Dauphin",
+0.4183
+],
+[
+"Cumberland",
+0.3051
+],
+[
+"York",
+0.2766
+]
+],
+"PA-11": [
+[
+"Lancaster",
+0.6288
+],
+[
+"York",
+0.3712
+]
+],
+"PA-12": [
+[
+"Allegheny",
+0.6378
+],
+[
+"Westmoreland",
+0.3622
+]
+],
+"PA-13": [
+[
+"Bedford",
+0.1591
+],
+[
+"Huntingdon",
+0.1375
+],
+[
+"Franklin",
+0.1214
+],
+[
+"Cambria",
+0.1081
+],
+[
+"Perry",
+0.0867
+],
+[
+"Blair",
+0.0826
+],
+[
+"Adams",
+0.0815
+],
+[
+"Fulton",
+0.0688
+],
+[
+"Mifflin",
+0.0646
+],
+[
+"Juniata",
+0.0615
+],
+[
+"Cumberland",
+0.0256
+],
+[
+"Somerset",
+0.0028
+]
+],
+"PA-14": [
+[
+"Somerset",
+0.2214
+],
+[
+"Westmoreland",
+0.1829
+],
+[
+"Washington",
+0.1795
+],
+[
+"Fayette",
+0.1656
+],
+[
+"Indiana",
+0.1299
+],
+[
+"Greene",
+0.1206
+]
+],
+"PA-15": [
+[
+"Clearfield",
+0.0882
+],
+[
+"Tioga",
+0.0873
+],
+[
+"Centre",
+0.0854
+],
+[
+"Potter",
+0.0833
+],
+[
+"McKean",
+0.0755
+],
+[
+"Lycoming",
+0.0684
+],
+[
+"Clinton",
+0.0684
+],
+[
+"Warren",
+0.0681
+],
+[
+"Elk",
+0.0637
+],
+[
+"Armstrong",
+0.0503
+],
+[
+"Jefferson",
+0.0503
+],
+[
+"Clarion",
+0.0463
+],
+[
+"Venango",
+0.0357
+],
+[
+"Forest",
+0.0329
+],
+[
+"Cameron",
+0.0305
+],
+[
+"Snyder",
+0.0253
+],
+[
+"Union",
+0.0243
+],
+[
+"Indiana",
+0.016
+]
+],
+"PA-16": [
+[
+"Crawford",
+0.2636
+],
+[
+"Erie",
+0.208
+],
+[
+"Butler",
+0.2055
+],
+[
+"Mercer",
+0.1751
+],
+[
+"Lawrence",
+0.093
+],
+[
+"Venango",
+0.0547
+]
+],
+"PA-17": [
+[
+"Allegheny",
+0.5133
+],
+[
+"Beaver",
+0.4867
+]
+]
+}
+}
