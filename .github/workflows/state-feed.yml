@@ -11,9 +11,15 @@ on:
         description: 'Save full copies of the data the state site loaded (for troubleshooting)'
         type: boolean
         default: false
+      task:
+        description: 'What to run'
+        type: choice
+        options: [state-count, fetch-sources]
+        default: state-count
 
 permissions:
   contents: write
+  actions: read
 
 concurrency:
   group: state-feed
@@ -21,6 +27,7 @@ concurrency:
 
 jobs:
   read-state-site:
+    if: github.event_name == 'schedule' || inputs.task != 'fetch-sources'
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
@@ -52,3 +59,80 @@ jobs:
             sleep 7
           done
           exit 1
+
+  fetch-sources:
+    # One-time helper: downloads public reference data (Census district-to-county
+    # files, Wikipedia candidate lists, a results summary page) as a 1-day artifact.
+    if: github.event_name == 'workflow_dispatch' && inputs.task == 'fetch-sources'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Download
+        run: |
+          set -u
+          mkdir -p out
+          UA="PA-Election-Desk-data-fetch/1.0 (GitHub Actions; public results tracker)"
+          get() { curl -sSL -A "$UA" --retry 2 -m 120 -o "out/$2" -w "$2 %{http_code} %{size_download}\n" "$1" | tee -a out/_log.txt || echo "$2 FAILED" | tee -a out/_log.txt; }
+
+          # Census 2020-based relationship files (district parts by county)
+          REL=https://www2.census.gov/geo/docs/maps-data/data/rel2020/cd-sld/
+          get "$REL" census_index.html
+          grep -oE 'href="[^"]+\.txt"' out/census_index.html | sed 's/href="//;s/"$//' | sort -u > out/census_files.txt || true
+          while read -r f; do
+            case "$f" in *county*) get "$REL$f" "census_$f";; esac
+          done < out/census_files.txt
+          # Keep only Pennsylvania rows (state FIPS 42) to stay small
+          for f in out/census_*.txt; do
+            [ -f "$f" ] || continue
+            case "$f" in *census_files.txt) continue;; esac
+            head -1 "$f" > "$f.pa"; grep -E '(^|\|)42[0-9]{3,}' "$f" >> "$f.pa" || true; mv "$f.pa" "$f"
+          done
+
+          # TIGER/Line 2024 shapes as a fallback (state legislative and congressional districts, counties)
+          get https://www2.census.gov/geo/tiger/TIGER2024/SLDU/tl_2024_42_sldu.zip tl_2024_42_sldu.zip
+          get https://www2.census.gov/geo/tiger/TIGER2024/SLDL/tl_2024_42_sldl.zip tl_2024_42_sldl.zip
+          get https://www2.census.gov/geo/tiger/TIGER2024/CD/tl_2024_42_cd119.zip tl_2024_42_cd119.zip
+          get https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip tl_2024_us_county.zip
+
+          # Candidate lists (Wikipedia wikitext)
+          get "https://en.wikipedia.org/w/index.php?title=2026_Pennsylvania_House_of_Representatives_election&action=raw" wiki_pa_house_2026.wikitext
+          get "https://en.wikipedia.org/w/index.php?title=2026_Pennsylvania_State_Senate_election&action=raw" wiki_pa_senate_2026.wikitext
+
+          # Results summary page
+          get "https://www.multistate.us/elections/results/pennsylvania-2026" multistate_pa_2026.html
+          ls -la out
+
+      - name: Compute district-to-county shares from shapes
+        run: |
+          pip install --quiet geopandas==1.0.1 pyogrio==0.10.0 shapely==2.0.6 pandas==2.2.3
+          python - <<'EOF'
+          import json, os
+          import geopandas as gpd
+          out = {}
+          try:
+              cty = gpd.read_file('zip://out/tl_2024_us_county.zip')
+              cty = cty[cty.STATEFP == '42'][['NAME', 'geometry']].to_crs(5070)
+              for kind, f, col in [('SD', 'tl_2024_42_sldu.zip', 'SLDUST'), ('HD', 'tl_2024_42_sldl.zip', 'SLDLST'), ('PA', 'tl_2024_42_cd119.zip', 'CD119FP')]:
+                  d = gpd.read_file('zip://out/' + f).to_crs(5070)
+                  d = d[d[col].str.isdigit()]
+                  ov = gpd.overlay(d[[col, 'geometry']], cty, how='intersection', keep_geom_type=True)
+                  ov['a'] = ov.geometry.area
+                  tot = d.set_index(col).geometry.area
+                  for (dist, name), a in ov.groupby([col, 'NAME'])['a'].sum().items():
+                      share = a / tot[dist]
+                      if share >= 0.001:
+                          out.setdefault(f'{kind}-{int(dist)}', []).append([name, round(float(share), 4)])
+              for k in out:
+                  out[k].sort(key=lambda x: -x[1])
+          except Exception as e:
+              out = {'error': repr(e)}
+          json.dump(out, open('out/district_counties_from_shapes.json', 'w'), indent=1)
+          print(len(out), 'districts')
+          EOF
+          rm -f out/*.zip
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reference-sources
+          path: out/
+          retention-days: 1
