@@ -1036,19 +1036,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Democrat from Pittston Township; incumbent representative for parts of Lackawanna and Luzerne counties, seeking a third term in 2026 (Sunday Dispatch).",
+  "platform": "Affordability and 'kitchen-table' issues; criticized federal tariffs and high gas prices; says he voted for tax cuts seven times; more school funding; backed the Working Families Tax Credit with Gov. Shapiro; expanded property tax and rent rebate eligibility; lower prescription drug costs for seniors; veterans' benefits (Sunday Dispatch, April 2026).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Says he has secured more than $46 million in grants and that his office handled 57,000 state-related cases; these are his own figures (Sunday Dispatch).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Sunday Dispatch: Haddock announces bid for third term",
+    "url": "https://www.psdispatch.com/news/103080/haddock-announces-bid-for-third-term-in-118th-legislative-district"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T23:28:36Z"
  },
  {
   "id": "HD-118-john-lombardo",
@@ -1487,19 +1491,27 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Holds a Northeast Philadelphia seat Trump carried by 15 points.",
+  "background": "Republican from Northeast Philadelphia; financial advisor; B.S. in business administration, Elizabethtown College (2010). First elected in a March 2015 special election after Brendan Boyle went to Congress. Has served on the House Rules Committee (Ballotpedia).",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Ballotpedia lists past campaign totals: $694,729 raised and $862,436 spent in 2024; $827,626 raised in 2022. No 2026 figures listed there yet.",
+  "notes": "Won the May 19, 2026 Republican primary with 99.2% of the vote (Ballotpedia). Ran unopposed in 2022 and 2024 (Northeast Times).",
   "sources": [
    {
     "name": "Northeast Times",
     "url": "https://northeasttimes.com/?p=165071"
+   },
+   {
+    "name": "Ballotpedia: Martina White",
+    "url": "https://ballotpedia.org/Martina_White"
+   },
+   {
+    "name": "Northeast Times: Democrat Gurtcheff enters race in 170th district",
+    "url": "https://northeasttimes.com/2025/11/16/democrat-gurtcheff-enters-race-in-170th-district/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T23:28:36Z"
  },
  {
   "id": "HD-170-rob-gurtcheff-ii",
@@ -1508,19 +1520,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Democrat, 51, of Walton Park; Army veteran who served in Iraq and Afghanistan; fraud investigator for a health insurance company; Democratic committeeman in the 66th Ward (Northeast Times, Nov. 2025).",
+  "platform": "Raise Pennsylvania's $7.25 minimum wage; treat PTSD as a line-of-duty disability for first responders; pledged to knock on every door in the district at least three times (Northeast Times).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Said 'No office should go unopposed' in challenging White; asked supporters at his launch to donate to a church food pantry instead of his campaign. Won the May 2026 Democratic primary with 98.7% (Ballotpedia).",
   "sources": [
    {
     "name": "Northeast Times",
     "url": "https://northeasttimes.com/?p=165071"
+   },
+   {
+    "name": "Northeast Times: Democrat Gurtcheff enters race in 170th district",
+    "url": "https://northeasttimes.com/2025/11/16/democrat-gurtcheff-enters-race-in-170th-district/"
+   },
+   {
+    "name": "Ballotpedia: Martina White (2026 race)",
+    "url": "https://ballotpedia.org/Martina_White"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T23:28:36Z"
  },
  {
   "id": "HD-187-rachel-cuevas",
