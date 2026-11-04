@@ -13,10 +13,48 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.187,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"OLD_CITY",
+"LOWER_MOYAMENSING",
+"CALLOWHILL",
+"PENNSPORT",
+"WHITMAN",
+"EAST_PASSYUNK",
+"GREENWICH",
+"BELLA_VISTA",
+"CENTER_CITY",
+"CHINATOWN",
+"SOCIETY_HILL",
+"QUEEN_VILLAGE",
+"DICKINSON_NARROWS",
+"HAWTHORNE",
+"WASHINGTON_SQUARE",
+"RITTENHOUSE",
+"FITLER_SQUARE",
+"STADIUM_DISTRICT",
+"GRADUATE_HOSPITAL",
+"PASSYUNK_SQUARE",
+"OLD_KENSINGTON",
+"PACKER_PARK",
+"EAST_KENSINGTON",
+"LOGAN_SQUARE",
+"NAVY_YARD",
+"PORT_RICHMOND",
+"RIVERFRONT",
+"AIRPORT",
+"FISHTOWN",
+"NORTHERN_LIBERTIES",
+"EASTWICK",
+"INDUSTRIAL",
+"WEST_KENSINGTON",
+"SPRING_GARDEN"
 ]
+}
 },
 "SD-2": {
 "counties": [
@@ -30,10 +68,32 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.121,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"MCGUIRE",
+"HARROWGATE",
+"SUMMERDALE",
+"UPPER_KENSINGTON",
+"FRANKFORD",
+"OXFORD_CIRCLE",
+"NORTHWOOD",
+"FAIRHILL",
+"BRIDESBURG",
+"RICHMOND",
+"JUNIATA_PARK",
+"MAYFAIR",
+"WISSINOMING",
+"CRESCENTVILLE",
+"WEST_KENSINGTON",
+"HUNTING_PARK",
+"BURHOLME",
+"LAWNDALE"
 ]
+}
 },
 "SD-3": {
 "counties": [
@@ -47,10 +107,41 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.099,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"NICETOWN",
+"SHARSWOOD",
+"NORTH_CENTRAL",
+"FRANCISVILLE",
+"YORKTOWN",
+"OLNEY",
+"FAIRMOUNT",
+"GLENWOOD",
+"STANTON",
+"HARTRANFT",
+"BREWERYTOWN",
+"MELROSE_PARK_GARDENS",
+"LUDLOW",
+"FERN_ROCK",
+"EAST_OAK_LANE",
+"EAST_POPLAR",
+"WEST_POPLAR",
+"FRANKLINVILLE",
+"FELTONVILLE",
+"TIOGA",
+"SPRING_GARDEN",
+"LAWNDALE",
+"LOGAN",
+"GERMANTOWN_SOUTHWEST",
+"HUNTING_PARK",
+"STRAWBERRY_MANSION",
+"CRESCENTVILLE"
 ]
+}
 },
 "SD-4": {
 "counties": [
@@ -69,7 +160,7 @@
 "t": "township",
 "c": "Montgomery",
 "share": 1.0,
-"pop": 59075
+"pop": 59071
 },
 {
 "n": "Cheltenham",
@@ -77,13 +168,6 @@
 "c": "Montgomery",
 "share": 1.0,
 "pop": 38840
-},
-{
-"n": "Upper Dublin",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 27489
 },
 {
 "n": "Springfield",
@@ -110,10 +194,26 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.09,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"GERMANTOWN_EAST",
+"WEST_OAK_LANE",
+"CEDARBROOK",
+"MOUNT_AIRY_EAST",
+"OGONTZ",
+"GERMANTOWN_MORTON",
+"GERMANTOWN_WEST_CENT",
+"CHESTNUT_HILL",
+"WISTER",
+"MOUNT_AIRY_WEST",
+"LOGAN",
+"GERMANTOWN_SOUTHWEST"
 ]
+}
 },
 "SD-5": {
 "counties": [
@@ -127,10 +227,42 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.252,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"WINCHESTER_PARK",
+"ASTON_WOODBRIDGE",
+"PENNYPACK_WOODS",
+"PENNYPACK",
+"NORMANDY_VILLAGE",
+"NORTHEAST_AIRPORT",
+"LEXINGTON_PARK",
+"ACADEMY_GARDENS",
+"MODENA",
+"WEST_TORRESDALE",
+"MORRELL_PARK",
+"PENNYPACK_PARK",
+"BUSTLETON",
+"RHAWNHURST",
+"FOX_CHASE",
+"SOMERTON",
+"MILLBROOK",
+"BYBERRY",
+"PARKWOOD_MANOR",
+"HOLMESBURG",
+"FRANKLIN_MILLS",
+"CRESTMONT_FARMS",
+"TORRESDALE",
+"MECHANICSVILLE",
+"TACONY",
+"BURHOLME",
+"WISSINOMING",
+"MAYFAIR"
 ]
+}
 },
 "SD-6": {
 "counties": [
@@ -270,10 +402,50 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.174,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"ROXBOROUGH",
+"WEST_PARKSIDE",
+"POWELTON",
+"WEST_POWELTON",
+"WALNUT_HILL",
+"CARROLL_PARK",
+"BELMONT",
+"HAVERFORD_NORTH",
+"MILL_CREEK",
+"DUNLAP",
+"EAST_PARKSIDE",
+"WISSAHICKON_HILLS",
+"UPPER_ROXBOROUGH",
+"WYNNEFIELD",
+"GARDEN_COURT",
+"OVERBROOK",
+"WYNNEFIELD_HEIGHTS",
+"HADDINGTON",
+"EAST_FALLS",
+"WEST_PARK",
+"ANDORRA",
+"DEARNLEY_PARK",
+"ROXBOROUGH_PARK",
+"MANAYUNK",
+"GERMANTOWN_WESTSIDE",
+"GERMANY_HILL",
+"GERMANTOWN_PENN_KNOX",
+"WISSAHICKON",
+"MANTUA",
+"ALLEGHENY_WEST",
+"WISSAHICKON_PARK",
+"BLUE_BELL_HILL",
+"EAST_PARK",
+"STRAWBERRY_MANSION",
+"UNIVERSITY_CITY",
+"SPRUCE_HILL"
 ]
+}
 },
 "SD-8": {
 "counties": [
@@ -354,10 +526,32 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.078,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"KINGSESSING",
+"BARTRAM_VILLAGE",
+"SOUTHWEST_SCHUYLKILL",
+"WOODLAND_TERRACE",
+"PENROSE",
+"WEST_PASSYUNK",
+"ELMWOOD",
+"PASCHALL",
+"CLEARVIEW",
+"POINT_BREEZE",
+"GIRARD_ESTATES",
+"CEDAR_PARK",
+"GRAYS_FERRY",
+"NEWBOLD",
+"COBBS_CREEK",
+"SPRUCE_HILL",
+"UNIVERSITY_CITY",
+"INDUSTRIAL"
 ]
+}
 },
 "SD-9": {
 "counties": [
@@ -941,13 +1135,6 @@
 ],
 "places": [
 {
-"n": "Abington",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 59075
-},
-{
 "n": "Horsham",
 "t": "township",
 "c": "Montgomery",
@@ -959,7 +1146,7 @@
 "t": "township",
 "c": "Montgomery",
 "share": 1.0,
-"pop": 27489
+"pop": 27484
 },
 {
 "n": "Montgomery",
@@ -1343,8 +1530,8 @@
 "n": "Allentown",
 "t": "city",
 "c": "Lehigh",
-"share": 1.0,
-"pop": 127138
+"share": 0.932,
+"pop": 118435
 },
 {
 "n": "Whitehall",
@@ -1352,13 +1539,6 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 29656
-},
-{
-"n": "South Whitehall",
-"t": "township",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 21818
 },
 {
 "n": "Salisbury",
@@ -1415,6 +1595,13 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 6625
+},
+{
+"n": "South Whitehall",
+"t": "township",
+"c": "Lehigh",
+"share": 0.282,
+"pop": 6143
 },
 {
 "n": "Allen",
@@ -1644,13 +1831,6 @@
 ],
 "places": [
 {
-"n": "Allentown",
-"t": "city",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 127138
-},
-{
 "n": "Lower Macungie",
 "t": "township",
 "c": "Lehigh",
@@ -1663,13 +1843,6 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 29284
-},
-{
-"n": "South Whitehall",
-"t": "township",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 21818
 },
 {
 "n": "Upper Saucon",
@@ -1691,6 +1864,13 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 16057
+},
+{
+"n": "South Whitehall",
+"t": "township",
+"c": "Lehigh",
+"share": 0.718,
+"pop": 15675
 },
 {
 "n": "Richland",
@@ -1719,6 +1899,13 @@
 "c": "Bucks",
 "share": 1.0,
 "pop": 9302
+},
+{
+"n": "Allentown",
+"t": "city",
+"c": "Lehigh",
+"share": 0.068,
+"pop": 8703
 },
 {
 "n": "Upper Milford",
@@ -2625,13 +2812,6 @@
 "pop": 3375
 },
 {
-"n": "Wyoming",
-"t": "borough",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 3151
-},
-{
 "n": "Harveys Lake",
 "t": "borough",
 "c": "Luzerne",
@@ -2726,8 +2906,8 @@
 "n": "Union",
 "t": "township",
 "c": "Luzerne",
-"share": 1.0,
-"pop": 2071
+"share": 0.999,
+"pop": 2069
 },
 {
 "n": "Clinton",
@@ -6201,20 +6381,6 @@
 "pop": 41228
 },
 {
-"n": "Ferguson",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 19139
-},
-{
-"n": "Patton",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 15887
-},
-{
 "n": "St. Marys",
 "t": "city",
 "c": "Elk",
@@ -7670,13 +7836,6 @@
 "c": "Luzerne",
 "share": 1.0,
 "pop": 2094
-},
-{
-"n": "Union",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 2071
 },
 {
 "n": "Middlecreek",
@@ -12334,7 +12493,7 @@
 "t": "township",
 "c": "Centre",
 "share": 1.0,
-"pop": 19139
+"pop": 19138
 },
 {
 "n": "Johnstown",
@@ -12348,7 +12507,7 @@
 "t": "township",
 "c": "Centre",
 "share": 1.0,
-"pop": 15887
+"pop": 15883
 },
 {
 "n": "Richland",
@@ -12363,13 +12522,6 @@
 "c": "Clearfield",
 "share": 1.0,
 "pop": 11618
-},
-{
-"n": "College",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 10564
 },
 {
 "n": "Lawrence",
@@ -13658,8 +13810,8 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.113,
+"pop": 34678
 },
 {
 "n": "Ross",
@@ -13836,7 +13988,20 @@
 "share": 1.0,
 "pop": 1226
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Highland Park",
+"Upper Lawrenceville",
+"Morningside",
+"Lincoln-Lemington-Belmar",
+"Homewood West",
+"Larimer",
+"Stanton Heights",
+"Garfield",
+"East Liberty"
 ]
+}
 },
 "SD-39": {
 "counties": [
@@ -15377,8 +15542,8 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.464,
+"pop": 142763
 },
 {
 "n": "Mount Lebanon",
@@ -15499,7 +15664,55 @@
 "share": 1.0,
 "pop": 1065
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Esplen",
+"Sheraden",
+"Central Business District",
+"Strip District",
+"Fineview",
+"Duquesne Heights",
+"Ridgemont",
+"Crafton Heights",
+"Westwood",
+"East Allegheny",
+"Oakwood",
+"Perry South",
+"Spring Hill-City View",
+"Banksville",
+"California-Kirkbride",
+"Chateau",
+"Marshall-Shadeland",
+"Windgap",
+"Allegheny Center",
+"West End",
+"Beechview",
+"Spring Garden",
+"Chartiers City",
+"North Shore",
+"Troy Hill",
+"Central Northside",
+"Allegheny West",
+"Manchester",
+"Northview Heights",
+"Elliott",
+"Fairywood",
+"Brookline",
+"Perry North",
+"East Carnegie",
+"Brighton Heights",
+"Summer Hill",
+"Polish Hill",
+"Lower Lawrenceville",
+"Crawford-Roberts",
+"Overbrook",
+"Central Lawrenceville",
+"Bluff",
+"Mount Washington",
+"South Shore"
 ]
+}
 },
 "SD-43": {
 "counties": [
@@ -15513,8 +15726,8 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.423,
+"pop": 130228
 },
 {
 "n": "Penn Hills",
@@ -15607,7 +15820,49 @@
 "share": 1.0,
 "pop": 718
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"South Side Slopes",
+"Knoxville",
+"Glen Hazel",
+"South Oakland",
+"Squirrel Hill North",
+"West Oakland",
+"South Side Flats",
+"Hazelwood",
+"Swisshelm Park",
+"Regent Square",
+"St. Clair",
+"Middle Hill",
+"Squirrel Hill South",
+"Central Oakland",
+"East Hills",
+"Arlington",
+"Mt. Oliver",
+"Arlington Heights",
+"Greenfield",
+"Point Breeze",
+"North Oakland",
+"Bon Air",
+"Allentown",
+"Shadyside",
+"Beltzhoover",
+"Lincoln Place",
+"New Homestead",
+"Upper Hill",
+"Hays",
+"Point Breeze North",
+"Friendship",
+"Homewood South",
+"Homewood North",
+"Terrace Village",
+"Carrick",
+"Bloomfield",
+"Bedford Dwellings",
+"South Shore"
 ]
+}
 },
 "SD-44": {
 "counties": [
@@ -18888,8 +19143,8 @@
 "n": "Erie",
 "t": "city",
 "c": "Erie",
-"share": 1.0,
-"pop": 92940
+"share": 0.648,
+"pop": 60262
 },
 {
 "n": "Lawrence Park",
@@ -18912,8 +19167,8 @@
 "n": "Erie",
 "t": "city",
 "c": "Erie",
-"share": 1.0,
-"pop": 92940
+"share": 0.352,
+"pop": 32678
 },
 {
 "n": "Harborcreek",
@@ -19163,13 +19418,6 @@
 ],
 "places": [
 {
-"n": "Spring",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 28859
-},
-{
 "n": "South Heidelberg",
 "t": "township",
 "c": "Berks",
@@ -19189,6 +19437,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 6787
+},
+{
+"n": "Spring",
+"t": "township",
+"c": "Berks",
+"share": 0.194,
+"pop": 5593
 },
 {
 "n": "Centre",
@@ -20015,10 +20270,26 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.021,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"POWELTON",
+"HAVERFORD_NORTH",
+"DUNLAP",
+"WEST_POWELTON",
+"MANTUA",
+"BELMONT",
+"MILL_CREEK",
+"LOGAN_SQUARE",
+"EAST_PARKSIDE",
+"COBBS_CREEK",
+"HADDINGTON",
+"UNIVERSITY_CITY"
 ]
+}
 },
 "HD-11": {
 "counties": [
@@ -20507,13 +20778,6 @@
 ],
 "places": [
 {
-"n": "Center",
-"t": "township",
-"c": "Beaver",
-"share": 1.0,
-"pop": 11765
-},
-{
 "n": "Brighton",
 "t": "township",
 "c": "Beaver",
@@ -20692,8 +20956,8 @@
 "n": "Potter",
 "t": "township",
 "c": "Beaver",
-"share": 1.0,
-"pop": 522
+"share": 0.991,
+"pop": 517
 },
 {
 "n": "Georgetown",
@@ -20701,6 +20965,13 @@
 "c": "Beaver",
 "share": 1.0,
 "pop": 203
+},
+{
+"n": "Center",
+"t": "township",
+"c": "Beaver",
+"share": 0.014,
+"pop": 165
 },
 {
 "n": "Shippingport",
@@ -20758,8 +21029,8 @@
 "n": "Center",
 "t": "township",
 "c": "Beaver",
-"share": 1.0,
-"pop": 11765
+"share": 0.986,
+"pop": 11600
 },
 {
 "n": "Aliquippa",
@@ -20830,13 +21101,6 @@
 "c": "Beaver",
 "share": 1.0,
 "pop": 548
-},
-{
-"n": "Potter",
-"t": "township",
-"c": "Beaver",
-"share": 1.0,
-"pop": 522
 },
 {
 "n": "South Heights",
@@ -21247,10 +21511,46 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.223,
+"pop": 68652
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Bluff",
+"California-Kirkbride",
+"Chateau",
+"Allegheny Center",
+"Allegheny West",
+"Central Northside",
+"Manchester",
+"Allentown",
+"Knoxville",
+"Northview Heights",
+"Esplen",
+"Central Business District",
+"Perry South",
+"Crawford-Roberts",
+"Chartiers City",
+"Marshall-Shadeland",
+"Glen Hazel",
+"Fineview",
+"Summer Hill",
+"South Oakland",
+"Beltzhoover",
+"North Shore",
+"Hazelwood",
+"Sheraden",
+"East Allegheny",
+"Elliott",
+"Spring Hill-City View",
+"South Side Flats",
+"West Oakland",
+"Bedford Dwellings",
+"Perry North",
+"South Shore"
 ]
+}
 },
 "HD-20": {
 "counties": [
@@ -21261,18 +21561,18 @@
 ],
 "places": [
 {
-"n": "Pittsburgh",
-"t": "city",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 307668
-},
-{
 "n": "Ross",
 "t": "township",
 "c": "Allegheny",
 "share": 1.0,
 "pop": 32457
+},
+{
+"n": "Pittsburgh",
+"t": "city",
+"c": "Allegheny",
+"share": 0.034,
+"pop": 10312
 },
 {
 "n": "Bellevue",
@@ -21295,7 +21595,13 @@
 "share": 1.0,
 "pop": 4594
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Brighton Heights",
+"Perry North"
 ]
+}
 },
 "HD-21": {
 "counties": [
@@ -21309,8 +21615,8 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.091,
+"pop": 28043
 },
 {
 "n": "Shaler",
@@ -21340,7 +21646,23 @@
 "share": 1.0,
 "pop": 3147
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Upper Lawrenceville",
+"Spring Garden",
+"Troy Hill",
+"Strip District",
+"Polish Hill",
+"Lower Lawrenceville",
+"Central Lawrenceville",
+"Spring Hill-City View",
+"East Allegheny",
+"Stanton Heights",
+"Morningside",
+"North Shore"
 ]
+}
 },
 "HD-22": {
 "counties": [
@@ -21354,22 +21676,15 @@
 "n": "Allentown",
 "t": "city",
 "c": "Lehigh",
-"share": 1.0,
-"pop": 127138
+"share": 0.332,
+"pop": 42237
 },
 {
 "n": "Salisbury",
 "t": "township",
 "c": "Lehigh",
-"share": 1.0,
-"pop": 13820
-},
-{
-"n": "Hanover",
-"t": "township",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 1709
+"share": 0.542,
+"pop": 7486
 }
 ]
 },
@@ -21385,10 +21700,24 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.127,
+"pop": 39039
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Squirrel Hill North",
+"Swisshelm Park",
+"Squirrel Hill South",
+"Greenfield",
+"Central Oakland",
+"Regent Square",
+"Shadyside",
+"North Oakland",
+"Hazelwood",
+"Point Breeze"
 ]
+}
 },
 "HD-24": {
 "counties": [
@@ -21402,10 +21731,34 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.157,
+"pop": 48364
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Highland Park",
+"East Liberty",
+"Homewood West",
+"Friendship",
+"Larimer",
+"Lincoln-Lemington-Belmar",
+"Homewood North",
+"Upper Hill",
+"Garfield",
+"East Hills",
+"Terrace Village",
+"Bloomfield",
+"Middle Hill",
+"West Oakland",
+"Morningside",
+"Bedford Dwellings",
+"North Oakland",
+"Shadyside",
+"Stanton Heights",
+"Homewood South"
 ]
+}
 },
 "HD-25": {
 "counties": [
@@ -21423,18 +21776,18 @@
 "pop": 27966
 },
 {
-"n": "Plum",
-"t": "borough",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 26420
-},
-{
 "n": "North Versailles",
 "t": "township",
 "c": "Allegheny",
 "share": 1.0,
 "pop": 9694
+},
+{
+"n": "Plum",
+"t": "borough",
+"c": "Allegheny",
+"share": 0.281,
+"pop": 7411
 },
 {
 "n": "Turtle Creek",
@@ -21579,8 +21932,8 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.135,
+"pop": 41480
 },
 {
 "n": "Scott",
@@ -21631,7 +21984,26 @@
 "share": 1.0,
 "pop": 425
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"East Carnegie",
+"Westwood",
+"Duquesne Heights",
+"Ridgemont",
+"Oakwood",
+"West End",
+"Banksville",
+"Fairywood",
+"Windgap",
+"Crafton Heights",
+"South Shore",
+"Elliott",
+"Mount Washington",
+"Sheraden",
+"Beechview"
 ]
+}
 },
 "HD-28": {
 "counties": [
@@ -21642,18 +22014,18 @@
 ],
 "places": [
 {
-"n": "Hampton",
-"t": "township",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 17960
-},
-{
 "n": "Pine",
 "t": "township",
 "c": "Allegheny",
 "share": 1.0,
 "pop": 15537
+},
+{
+"n": "Hampton",
+"t": "township",
+"c": "Allegheny",
+"share": 0.684,
+"pop": 12286
 },
 {
 "n": "West Deer",
@@ -21760,13 +22132,6 @@
 "pop": 28684
 },
 {
-"n": "Hampton",
-"t": "township",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 17960
-},
-{
 "n": "Franklin Park",
 "t": "borough",
 "c": "Allegheny",
@@ -21779,6 +22144,13 @@
 "c": "Allegheny",
 "share": 1.0,
 "pop": 7330
+},
+{
+"n": "Hampton",
+"t": "township",
+"c": "Allegheny",
+"share": 0.316,
+"pop": 5674
 },
 {
 "n": "Emsworth",
@@ -21874,8 +22246,8 @@
 "n": "Plum",
 "t": "borough",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 26420
+"share": 0.719,
+"pop": 19009
 },
 {
 "n": "Oakmont",
@@ -22024,13 +22396,6 @@
 ],
 "places": [
 {
-"n": "Pittsburgh",
-"t": "city",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 307668
-},
-{
 "n": "Wilkinsburg",
 "t": "borough",
 "c": "Allegheny",
@@ -22043,6 +22408,13 @@
 "c": "Allegheny",
 "share": 1.0,
 "pop": 8280
+},
+{
+"n": "Pittsburgh",
+"t": "city",
+"c": "Allegheny",
+"share": 0.022,
+"pop": 6815
 },
 {
 "n": "Forest Hills",
@@ -22114,7 +22486,14 @@
 "share": 1.0,
 "pop": 718
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Point Breeze North",
+"Homewood South",
+"Point Breeze"
 ]
+}
 },
 "HD-35": {
 "counties": [
@@ -22124,13 +22503,6 @@
 ]
 ],
 "places": [
-{
-"n": "West Mifflin",
-"t": "borough",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 18902
-},
 {
 "n": "McKeesport",
 "t": "city",
@@ -22202,6 +22574,13 @@
 "pop": 1424
 },
 {
+"n": "West Mifflin",
+"t": "borough",
+"c": "Allegheny",
+"share": 0.063,
+"pop": 1190
+},
+{
 "n": "Whitaker",
 "t": "borough",
 "c": "Allegheny",
@@ -22236,8 +22615,8 @@
 "n": "Pittsburgh",
 "t": "city",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 307668
+"share": 0.151,
+"pop": 46378
 },
 {
 "n": "Brentwood",
@@ -22253,7 +22632,22 @@
 "share": 1.0,
 "pop": 3259
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"St. Clair",
+"Arlington",
+"Mt. Oliver",
+"Arlington Heights",
+"Brookline",
+"Overbrook",
+"Carrick",
+"Bon Air",
+"South Side Slopes",
+"Beechview",
+"South Side Flats"
 ]
+}
 },
 "HD-37": {
 "counties": [
@@ -22323,13 +22717,6 @@
 ],
 "places": [
 {
-"n": "Pittsburgh",
-"t": "city",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 307668
-},
-{
 "n": "Baldwin",
 "t": "borough",
 "c": "Allegheny",
@@ -22337,11 +22724,18 @@
 "pop": 20712
 },
 {
+"n": "Pittsburgh",
+"t": "city",
+"c": "Allegheny",
+"share": 0.06,
+"pop": 18585
+},
+{
 "n": "West Mifflin",
 "t": "borough",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 18902
+"share": 0.937,
+"pop": 17712
 },
 {
 "n": "Whitehall",
@@ -22364,7 +22758,14 @@
 "share": 1.0,
 "pop": 1552
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"Hays",
+"Lincoln Place",
+"New Homestead"
 ]
+}
 },
 "HD-39": {
 "counties": [
@@ -22410,15 +22811,8 @@
 "n": "Union",
 "t": "township",
 "c": "Washington",
-"share": 1.0,
-"pop": 5492
-},
-{
-"n": "Carroll",
-"t": "township",
-"c": "Washington",
-"share": 1.0,
-"pop": 5300
+"share": 0.999,
+"pop": 5486
 },
 {
 "n": "Monongahela",
@@ -22440,6 +22834,13 @@
 "c": "Washington",
 "share": 1.0,
 "pop": 2018
+},
+{
+"n": "Carroll",
+"t": "township",
+"c": "Washington",
+"share": 0.337,
+"pop": 1788
 },
 {
 "n": "Elizabeth",
@@ -22494,15 +22895,8 @@
 "n": "Upper St. Clair",
 "t": "township",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 20621
-},
-{
-"n": "Union",
-"t": "township",
-"c": "Washington",
-"share": 1.0,
-"pop": 5492
+"share": 0.489,
+"pop": 10075
 }
 ]
 },
@@ -22520,13 +22914,6 @@
 "c": "Lancaster",
 "share": 1.0,
 "pop": 27247
-},
-{
-"n": "Manor",
-"t": "township",
-"c": "Lancaster",
-"share": 1.0,
-"pop": 22062
 },
 {
 "n": "West Hempfield",
@@ -22548,6 +22935,13 @@
 "c": "Lancaster",
 "share": 1.0,
 "pop": 3000
+},
+{
+"n": "Manor",
+"t": "township",
+"c": "Lancaster",
+"share": 0.071,
+"pop": 1576
 }
 ]
 },
@@ -22570,8 +22964,8 @@
 "n": "Upper St. Clair",
 "t": "township",
 "c": "Allegheny",
-"share": 1.0,
-"pop": 20621
+"share": 0.511,
+"pop": 10546
 },
 {
 "n": "Castle Shannon",
@@ -22877,13 +23271,6 @@
 "pop": 18586
 },
 {
-"n": "North Strabane",
-"t": "township",
-"c": "Washington",
-"share": 1.0,
-"pop": 17093
-},
-{
 "n": "Cecil",
 "t": "township",
 "c": "Washington",
@@ -22910,6 +23297,13 @@
 "c": "Washington",
 "share": 1.0,
 "pop": 3338
+},
+{
+"n": "North Strabane",
+"t": "township",
+"c": "Washington",
+"share": 0.134,
+"pop": 2289
 },
 {
 "n": "McDonald",
@@ -22950,18 +23344,18 @@
 ],
 "places": [
 {
-"n": "Springettsbury",
-"t": "township",
-"c": "York",
-"share": 1.0,
-"pop": 27711
-},
-{
 "n": "Manchester",
 "t": "township",
 "c": "York",
 "share": 1.0,
 "pop": 19979
+},
+{
+"n": "Springettsbury",
+"t": "township",
+"c": "York",
+"share": 0.679,
+"pop": 18815
 },
 {
 "n": "Conewago",
@@ -23026,8 +23420,8 @@
 "n": "North Strabane",
 "t": "township",
 "c": "Washington",
-"share": 1.0,
-"pop": 17093
+"share": 0.866,
+"pop": 14804
 },
 {
 "n": "Washington",
@@ -23042,13 +23436,6 @@
 "c": "Washington",
 "share": 1.0,
 "pop": 9610
-},
-{
-"n": "Carroll",
-"t": "township",
-"c": "Washington",
-"share": 1.0,
-"pop": 5300
 },
 {
 "n": "North Franklin",
@@ -23077,6 +23464,13 @@
 "c": "Washington",
 "share": 1.0,
 "pop": 3655
+},
+{
+"n": "Carroll",
+"t": "township",
+"c": "Washington",
+"share": 0.663,
+"pop": 3512
 },
 {
 "n": "Nottingham",
@@ -23148,8 +23542,8 @@
 "n": "Lancaster",
 "t": "city",
 "c": "Lancaster",
-"share": 1.0,
-"pop": 58441
+"share": 0.46,
+"pop": 26878
 },
 {
 "n": "Lancaster",
@@ -23861,13 +24255,6 @@
 ],
 "places": [
 {
-"n": "Montgomery",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 26280
-},
-{
 "n": "Hatfield",
 "t": "township",
 "c": "Montgomery",
@@ -23882,11 +24269,11 @@
 "pop": 19154
 },
 {
-"n": "Franconia",
+"n": "Montgomery",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 13790
+"share": 0.342,
+"pop": 8980
 },
 {
 "n": "Souderton",
@@ -23908,6 +24295,13 @@
 "c": "Montgomery",
 "share": 1.0,
 "pop": 2772
+},
+{
+"n": "Franconia",
+"t": "township",
+"c": "Montgomery",
+"share": 0.185,
+"pop": 2558
 }
 ]
 },
@@ -23958,25 +24352,11 @@
 "pop": 20729
 },
 {
-"n": "Derry",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 13387
-},
-{
 "n": "New Kensington",
 "t": "city",
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 11877
-},
-{
-"n": "Lower Burrell",
-"t": "city",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 11542
 },
 {
 "n": "Washington",
@@ -23998,6 +24378,20 @@
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 4657
+},
+{
+"n": "Derry",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.344,
+"pop": 4608
+},
+{
+"n": "Lower Burrell",
+"t": "city",
+"c": "Westmoreland",
+"share": 0.323,
+"pop": 3730
 },
 {
 "n": "Delmont",
@@ -24069,8 +24463,8 @@
 "n": "North Huntingdon",
 "t": "township",
 "c": "Westmoreland",
-"share": 1.0,
-"pop": 31810
+"share": 0.766,
+"pop": 24366
 },
 {
 "n": "Penn",
@@ -24198,13 +24592,6 @@
 ],
 "places": [
 {
-"n": "North Huntingdon",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 31810
-},
-{
 "n": "Rostraver",
 "t": "township",
 "c": "Westmoreland",
@@ -24212,18 +24599,18 @@
 "pop": 11445
 },
 {
-"n": "Mount Pleasant",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 9982
-},
-{
 "n": "East Huntingdon",
 "t": "township",
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 7576
+},
+{
+"n": "North Huntingdon",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.234,
+"pop": 7444
 },
 {
 "n": "Monessen",
@@ -24266,6 +24653,13 @@
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 2598
+},
+{
+"n": "Mount Pleasant",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.246,
+"pop": 2455
 },
 {
 "n": "North Belle Vernon",
@@ -24323,15 +24717,8 @@
 "n": "Derry",
 "t": "township",
 "c": "Westmoreland",
-"share": 1.0,
-"pop": 13387
-},
-{
-"n": "Mount Pleasant",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 9982
+"share": 0.656,
+"pop": 8779
 },
 {
 "n": "Latrobe",
@@ -24339,6 +24726,13 @@
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 7906
+},
+{
+"n": "Mount Pleasant",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.754,
+"pop": 7527
 },
 {
 "n": "Ligonier",
@@ -24446,18 +24840,18 @@
 ],
 "places": [
 {
-"n": "Lower Burrell",
-"t": "city",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 11542
-},
-{
 "n": "Allegheny",
 "t": "township",
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 8193
+},
+{
+"n": "Lower Burrell",
+"t": "city",
+"c": "Westmoreland",
+"share": 0.677,
+"pop": 7812
 },
 {
 "n": "Vandergrift",
@@ -24638,13 +25032,6 @@
 ],
 "places": [
 {
-"n": "Whitpain",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 20626
-},
-{
 "n": "Towamencin",
 "t": "township",
 "c": "Montgomery",
@@ -24657,6 +25044,13 @@
 "c": "Montgomery",
 "share": 1.0,
 "pop": 17407
+},
+{
+"n": "Whitpain",
+"t": "township",
+"c": "Montgomery",
+"share": 0.724,
+"pop": 14938
 },
 {
 "n": "Lower Gwynedd",
@@ -27525,20 +27919,6 @@
 ],
 "places": [
 {
-"n": "Whitpain",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 20626
-},
-{
-"n": "West Norriton",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 16417
-},
-{
 "n": "Skippack",
 "t": "township",
 "c": "Montgomery",
@@ -27560,11 +27940,25 @@
 "pop": 11258
 },
 {
+"n": "West Norriton",
+"t": "township",
+"c": "Montgomery",
+"share": 0.62,
+"pop": 10180
+},
+{
 "n": "Perkiomen",
 "t": "township",
 "c": "Montgomery",
 "share": 1.0,
 "pop": 9026
+},
+{
+"n": "Whitpain",
+"t": "township",
+"c": "Montgomery",
+"share": 0.276,
+"pop": 5688
 },
 {
 "n": "Schwenksville",
@@ -27591,29 +27985,15 @@
 "n": "Richland",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 12004
-},
-{
-"n": "Cambria",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 5726
+"share": 0.999,
+"pop": 11991
 },
 {
 "n": "Adams",
 "t": "township",
 "c": "Cambria",
 "share": 1.0,
-"pop": 5624
-},
-{
-"n": "Upper Yoder",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 5023
+"pop": 5623
 },
 {
 "n": "Windber",
@@ -27647,15 +28027,15 @@
 "n": "Allegheny",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 2754
+"share": 0.999,
+"pop": 2752
 },
 {
 "n": "Stonycreek",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 2667
+"share": 0.997,
+"pop": 2659
 },
 {
 "n": "Portage",
@@ -27672,46 +28052,25 @@
 "pop": 2296
 },
 {
-"n": "Croyle",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 2268
-},
-{
 "n": "Summerhill",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 2238
-},
-{
-"n": "Conemaugh",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1888
-},
-{
-"n": "Patton",
-"t": "borough",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1677
+"share": 0.999,
+"pop": 2236
 },
 {
 "n": "Clearfield",
 "t": "township",
 "c": "Cambria",
 "share": 1.0,
-"pop": 1572
+"pop": 1571
 },
 {
 "n": "Ferndale",
 "t": "borough",
 "c": "Cambria",
-"share": 1.0,
-"pop": 1501
+"share": 0.997,
+"pop": 1496
 },
 {
 "n": "Cresson",
@@ -27735,13 +28094,6 @@
 "pop": 1411
 },
 {
-"n": "East Carroll",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1402
-},
-{
 "n": "Gallitzin",
 "t": "township",
 "c": "Cambria",
@@ -27754,13 +28106,6 @@
 "c": "Cambria",
 "share": 1.0,
 "pop": 1145
-},
-{
-"n": "Elder",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1017
 },
 {
 "n": "South Fork",
@@ -27808,8 +28153,8 @@
 "n": "Munster",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 644
+"share": 0.98,
+"pop": 631
 },
 {
 "n": "Sankertown",
@@ -27861,13 +28206,6 @@
 "pop": 200
 },
 {
-"n": "Ehrenfeld",
-"t": "borough",
-"c": "Cambria",
-"share": 1.0,
-"pop": 198
-},
-{
 "n": "Cassandra",
 "t": "borough",
 "c": "Cambria",
@@ -27899,25 +28237,11 @@
 "pop": 17853
 },
 {
-"n": "Richland",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 12004
-},
-{
 "n": "Cambria",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 5726
-},
-{
-"n": "Adams",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 5624
+"share": 0.999,
+"pop": 5722
 },
 {
 "n": "Upper Yoder",
@@ -27948,20 +28272,6 @@
 "pop": 3278
 },
 {
-"n": "Allegheny",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 2754
-},
-{
-"n": "Stonycreek",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 2667
-},
-{
 "n": "Nanty-Glo",
 "t": "borough",
 "c": "Cambria",
@@ -27986,22 +28296,8 @@
 "n": "Croyle",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 2268
-},
-{
-"n": "Summerhill",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 2238
-},
-{
-"n": "Barr",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 2001
+"share": 0.993,
+"pop": 2253
 },
 {
 "n": "Southmont",
@@ -28015,35 +28311,14 @@
 "t": "township",
 "c": "Cambria",
 "share": 1.0,
-"pop": 1888
+"pop": 1887
 },
 {
 "n": "Blacklick",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 1863
-},
-{
-"n": "Ferndale",
-"t": "borough",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1501
-},
-{
-"n": "East Carroll",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1402
-},
-{
-"n": "West Carroll",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1152
+"share": 0.995,
+"pop": 1853
 },
 {
 "n": "East Conemaugh",
@@ -28060,13 +28335,6 @@
 "pop": 960
 },
 {
-"n": "South Fork",
-"t": "borough",
-"c": "Cambria",
-"share": 1.0,
-"pop": 917
-},
-{
 "n": "West Taylor",
 "t": "township",
 "c": "Cambria",
@@ -28079,13 +28347,6 @@
 "c": "Cambria",
 "share": 1.0,
 "pop": 672
-},
-{
-"n": "Munster",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 644
 },
 {
 "n": "Middle Taylor",
@@ -28135,6 +28396,13 @@
 "c": "Cambria",
 "share": 1.0,
 "pop": 198
+},
+{
+"n": "Munster",
+"t": "township",
+"c": "Cambria",
+"share": 0.02,
+"pop": 13
 }
 ]
 },
@@ -28165,13 +28433,6 @@
 "pop": 5794
 },
 {
-"n": "Cambria",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 5726
-},
-{
 "n": "Decatur",
 "t": "township",
 "c": "Clearfield",
@@ -28200,13 +28461,6 @@
 "pop": 2804
 },
 {
-"n": "Allegheny",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 2754
-},
-{
 "n": "Morris",
 "t": "township",
 "c": "Clearfield",
@@ -28224,15 +28478,8 @@
 "n": "Barr",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 2001
-},
-{
-"n": "Blacklick",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1863
+"share": 0.999,
+"pop": 2000
 },
 {
 "n": "Susquehanna",
@@ -28263,18 +28510,11 @@
 "pop": 1621
 },
 {
-"n": "Clearfield",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 1572
-},
-{
 "n": "East Carroll",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 1402
+"share": 0.998,
+"pop": 1400
 },
 {
 "n": "Graham",
@@ -28308,8 +28548,8 @@
 "n": "West Carroll",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 1152
+"share": 0.999,
+"pop": 1151
 },
 {
 "n": "Burnside",
@@ -28322,8 +28562,8 @@
 "n": "Elder",
 "t": "township",
 "c": "Cambria",
-"share": 1.0,
-"pop": 1017
+"share": 0.999,
+"pop": 1016
 },
 {
 "n": "Osceola Mills",
@@ -28403,13 +28643,6 @@
 "pop": 476
 },
 {
-"n": "Chest",
-"t": "township",
-"c": "Cambria",
-"share": 1.0,
-"pop": 472
-},
-{
 "n": "Ramey",
 "t": "borough",
 "c": "Clearfield",
@@ -28483,18 +28716,18 @@
 ],
 "places": [
 {
-"n": "Caln",
-"t": "township",
-"c": "Chester",
-"share": 1.0,
-"pop": 15203
-},
-{
 "n": "Coatesville",
 "t": "city",
 "c": "Chester",
 "share": 1.0,
 "pop": 13390
+},
+{
+"n": "Caln",
+"t": "township",
+"c": "Chester",
+"share": 0.742,
+"pop": 11288
 },
 {
 "n": "West Caln",
@@ -29088,32 +29321,25 @@
 ],
 "places": [
 {
-"n": "State College",
-"t": "borough",
-"c": "Centre",
-"share": 1.0,
-"pop": 41228
-},
-{
 "n": "Ferguson",
 "t": "township",
 "c": "Centre",
 "share": 1.0,
-"pop": 19139
+"pop": 19138
 },
 {
 "n": "Patton",
 "t": "township",
 "c": "Centre",
 "share": 1.0,
-"pop": 15887
+"pop": 15883
 },
 {
-"n": "College",
-"t": "township",
+"n": "State College",
+"t": "borough",
 "c": "Centre",
-"share": 1.0,
-"pop": 10564
+"share": 0.324,
+"pop": 13372
 },
 {
 "n": "Rush",
@@ -30154,22 +30380,8 @@
 "n": "State College",
 "t": "borough",
 "c": "Centre",
-"share": 1.0,
-"pop": 41228
-},
-{
-"n": "Ferguson",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 19139
-},
-{
-"n": "Patton",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 15887
+"share": 0.676,
+"pop": 27856
 },
 {
 "n": "College",
@@ -30186,39 +30398,18 @@
 "pop": 9406
 },
 {
-"n": "Spring",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 8205
-},
-{
 "n": "Harris",
 "t": "township",
 "c": "Centre",
-"share": 1.0,
-"pop": 5984
-},
-{
-"n": "Walker",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 4744
-},
-{
-"n": "Potter",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 3636
+"share": 0.99,
+"pop": 5923
 },
 {
 "n": "Boggs",
 "t": "township",
 "c": "Centre",
-"share": 1.0,
-"pop": 2717
+"share": 0.993,
+"pop": 2698
 },
 {
 "n": "Liberty",
@@ -31366,18 +31557,18 @@
 "pop": 21465
 },
 {
-"n": "Lower Allen",
-"t": "township",
-"c": "Cumberland",
-"share": 1.0,
-"pop": 20873
-},
-{
 "n": "South Middleton",
 "t": "township",
 "c": "Cumberland",
-"share": 1.0,
-"pop": 17562
+"share": 0.722,
+"pop": 12681
+},
+{
+"n": "Lower Allen",
+"t": "township",
+"c": "Cumberland",
+"share": 0.417,
+"pop": 8707
 },
 {
 "n": "Monroe",
@@ -31414,8 +31605,8 @@
 "n": "Lower Allen",
 "t": "township",
 "c": "Cumberland",
-"share": 1.0,
-"pop": 20873
+"share": 0.583,
+"pop": 12166
 },
 {
 "n": "Mechanicsburg",
@@ -31703,13 +31894,6 @@
 ],
 "places": [
 {
-"n": "Dover",
-"t": "township",
-"c": "York",
-"share": 1.0,
-"pop": 24064
-},
-{
 "n": "Fairview",
 "t": "township",
 "c": "York",
@@ -31722,6 +31906,13 @@
 "c": "York",
 "share": 1.0,
 "pop": 16251
+},
+{
+"n": "Dover",
+"t": "township",
+"c": "York",
+"share": 0.573,
+"pop": 13800
 },
 {
 "n": "Carroll",
@@ -31926,18 +32117,18 @@
 ],
 "places": [
 {
-"n": "Springettsbury",
-"t": "township",
-"c": "York",
-"share": 1.0,
-"pop": 27711
-},
-{
 "n": "Windsor",
 "t": "township",
 "c": "York",
 "share": 1.0,
 "pop": 18155
+},
+{
+"n": "Springettsbury",
+"t": "township",
+"c": "York",
+"share": 0.321,
+"pop": 8896
 },
 {
 "n": "Lower Windsor",
@@ -32061,15 +32252,15 @@
 "n": "Lancaster",
 "t": "city",
 "c": "Lancaster",
-"share": 1.0,
-"pop": 58441
+"share": 0.54,
+"pop": 31563
 },
 {
 "n": "Manheim",
 "t": "township",
 "c": "Lancaster",
-"share": 1.0,
-"pop": 44443
+"share": 0.68,
+"pop": 30230
 },
 {
 "n": "East Petersburg",
@@ -32089,18 +32280,11 @@
 ],
 "places": [
 {
-"n": "Manheim",
-"t": "township",
-"c": "Lancaster",
-"share": 1.0,
-"pop": 44443
-},
-{
 "n": "Manor",
 "t": "township",
 "c": "Lancaster",
-"share": 1.0,
-"pop": 22062
+"share": 0.929,
+"pop": 20486
 },
 {
 "n": "East Lampeter",
@@ -32115,6 +32299,13 @@
 "c": "Lancaster",
 "share": 1.0,
 "pop": 17345
+},
+{
+"n": "Manheim",
+"t": "township",
+"c": "Lancaster",
+"share": 0.32,
+"pop": 14213
 },
 {
 "n": "Pequea",
@@ -32232,22 +32423,8 @@
 "n": "Spring",
 "t": "township",
 "c": "Berks",
-"share": 1.0,
-"pop": 28859
-},
-{
-"n": "Cumru",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 15879
-},
-{
-"n": "Salisbury",
-"t": "township",
-"c": "Lancaster",
-"share": 1.0,
-"pop": 11560
+"share": 0.592,
+"pop": 17083
 },
 {
 "n": "East Cocalico",
@@ -32292,11 +32469,25 @@
 "pop": 4609
 },
 {
+"n": "Cumru",
+"t": "township",
+"c": "Berks",
+"share": 0.27,
+"pop": 4292
+},
+{
 "n": "Denver",
 "t": "borough",
 "c": "Lancaster",
 "share": 1.0,
 "pop": 3760
+},
+{
+"n": "Salisbury",
+"t": "township",
+"c": "Lancaster",
+"share": 0.314,
+"pop": 3628
 },
 {
 "n": "Mohnton",
@@ -32340,8 +32531,8 @@
 "n": "Salisbury",
 "t": "township",
 "c": "Lancaster",
-"share": 1.0,
-"pop": 11560
+"share": 0.686,
+"pop": 7932
 },
 {
 "n": "Providence",
@@ -32647,8 +32838,8 @@
 "n": "Harrisburg",
 "t": "city",
 "c": "Dauphin",
-"share": 1.0,
-"pop": 50649
+"share": 0.758,
+"pop": 38395
 },
 {
 "n": "East Pennsboro",
@@ -32689,13 +32880,6 @@
 ],
 "places": [
 {
-"n": "Harrisburg",
-"t": "city",
-"c": "Dauphin",
-"share": 1.0,
-"pop": 50649
-},
-{
 "n": "Swatara",
 "t": "township",
 "c": "Dauphin",
@@ -32703,11 +32887,11 @@
 "pop": 28006
 },
 {
-"n": "Lower Swatara",
-"t": "township",
+"n": "Harrisburg",
+"t": "city",
 "c": "Dauphin",
-"share": 1.0,
-"pop": 10008
+"share": 0.242,
+"pop": 12254
 },
 {
 "n": "Steelton",
@@ -32715,6 +32899,13 @@
 "c": "Dauphin",
 "share": 1.0,
 "pop": 6358
+},
+{
+"n": "Lower Swatara",
+"t": "township",
+"c": "Dauphin",
+"share": 0.366,
+"pop": 3660
 },
 {
 "n": "Highspire",
@@ -32741,18 +32932,18 @@
 ],
 "places": [
 {
-"n": "Lower Paxton",
-"t": "township",
-"c": "Dauphin",
-"share": 1.0,
-"pop": 55465
-},
-{
 "n": "Susquehanna",
 "t": "township",
 "c": "Dauphin",
 "share": 1.0,
-"pop": 28214
+"pop": 28213
+},
+{
+"n": "Lower Paxton",
+"t": "township",
+"c": "Dauphin",
+"share": 0.477,
+"pop": 26433
 },
 {
 "n": "Penbrook",
@@ -32779,13 +32970,6 @@
 "pop": 25181
 },
 {
-"n": "Lower Swatara",
-"t": "township",
-"c": "Dauphin",
-"share": 1.0,
-"pop": 10008
-},
-{
 "n": "Middletown",
 "t": "borough",
 "c": "Dauphin",
@@ -32798,6 +32982,13 @@
 "c": "Dauphin",
 "share": 1.0,
 "pop": 7368
+},
+{
+"n": "Lower Swatara",
+"t": "township",
+"c": "Dauphin",
+"share": 0.634,
+"pop": 6348
 },
 {
 "n": "East Hanover",
@@ -33734,13 +33925,6 @@
 "pop": 1060
 },
 {
-"n": "Towanda",
-"t": "township",
-"c": "Bradford",
-"share": 1.0,
-"pop": 1029
-},
-{
 "n": "Warren",
 "t": "township",
 "c": "Bradford",
@@ -34450,8 +34634,8 @@
 "n": "Scranton",
 "t": "city",
 "c": "Lackawanna",
-"share": 1.0,
-"pop": 75905
+"share": 0.584,
+"pop": 44343
 },
 {
 "n": "Spring Brook",
@@ -34523,8 +34707,8 @@
 "n": "Scranton",
 "t": "city",
 "c": "Lackawanna",
-"share": 1.0,
-"pop": 75905
+"share": 0.416,
+"pop": 31562
 },
 {
 "n": "South Abington",
@@ -34607,25 +34791,25 @@
 "pop": 20577
 },
 {
-"n": "Stroud",
-"t": "township",
-"c": "Monroe",
-"share": 1.0,
-"pop": 19600
-},
-{
-"n": "Middle Smithfield",
-"t": "township",
-"c": "Monroe",
-"share": 1.0,
-"pop": 15922
-},
-{
 "n": "Pocono",
 "t": "township",
 "c": "Monroe",
 "share": 1.0,
 "pop": 10772
+},
+{
+"n": "Middle Smithfield",
+"t": "township",
+"c": "Monroe",
+"share": 0.516,
+"pop": 8213
+},
+{
+"n": "Stroud",
+"t": "township",
+"c": "Monroe",
+"share": 0.416,
+"pop": 8149
 },
 {
 "n": "Barrett",
@@ -35272,13 +35456,6 @@
 "c": "Luzerne",
 "share": 1.0,
 "pop": 4281
-},
-{
-"n": "Lehman",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 3444
 },
 {
 "n": "Wyoming",
@@ -35968,15 +36145,8 @@
 "n": "Lower Paxton",
 "t": "township",
 "c": "Dauphin",
-"share": 1.0,
-"pop": 55465
-},
-{
-"n": "Susquehanna",
-"t": "township",
-"c": "Dauphin",
-"share": 1.0,
-"pop": 28214
+"share": 0.523,
+"pop": 29032
 },
 {
 "n": "West Hanover",
@@ -36153,15 +36323,8 @@
 "n": "Reading",
 "t": "city",
 "c": "Berks",
-"share": 1.0,
-"pop": 96000
-},
-{
-"n": "Exeter",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 25981
+"share": 0.275,
+"pop": 26417
 },
 {
 "n": "Muhlenberg",
@@ -36169,6 +36332,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 22464
+},
+{
+"n": "Exeter",
+"t": "township",
+"c": "Berks",
+"share": 0.189,
+"pop": 4919
 },
 {
 "n": "Lower Alsace",
@@ -36212,15 +36382,8 @@
 "n": "Reading",
 "t": "city",
 "c": "Berks",
-"share": 1.0,
-"pop": 96000
-},
-{
-"n": "Cumru",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 15879
+"share": 0.466,
+"pop": 44779
 },
 {
 "n": "Shillington",
@@ -36235,6 +36398,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 3034
+},
+{
+"n": "Cumru",
+"t": "township",
+"c": "Berks",
+"share": 0.049,
+"pop": 781
 }
 ]
 },
@@ -36250,15 +36420,8 @@
 "n": "Exeter",
 "t": "township",
 "c": "Berks",
-"share": 1.0,
-"pop": 25981
-},
-{
-"n": "Cumru",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 15879
+"share": 0.811,
+"pop": 21062
 },
 {
 "n": "Amity",
@@ -36266,6 +36429,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 13567
+},
+{
+"n": "Cumru",
+"t": "township",
+"c": "Berks",
+"share": 0.681,
+"pop": 10806
 },
 {
 "n": "Robeson",
@@ -36323,15 +36493,8 @@
 "n": "Reading",
 "t": "city",
 "c": "Berks",
-"share": 1.0,
-"pop": 96000
-},
-{
-"n": "Spring",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 28859
+"share": 0.258,
+"pop": 24804
 },
 {
 "n": "Wyomissing",
@@ -36339,6 +36502,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 11292
+},
+{
+"n": "Spring",
+"t": "township",
+"c": "Berks",
+"share": 0.214,
+"pop": 6183
 },
 {
 "n": "West Reading",
@@ -36523,20 +36693,6 @@
 "pop": 18233
 },
 {
-"n": "Salisbury",
-"t": "township",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 13820
-},
-{
-"n": "Lower Saucon",
-"t": "township",
-"c": "Northampton",
-"share": 1.0,
-"pop": 11089
-},
-{
 "n": "Upper Hanover",
 "t": "township",
 "c": "Montgomery",
@@ -36549,6 +36705,13 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 8304
+},
+{
+"n": "Lower Saucon",
+"t": "township",
+"c": "Northampton",
+"share": 0.446,
+"pop": 4948
 },
 {
 "n": "Pennsburg",
@@ -36586,6 +36749,13 @@
 "pop": 3096
 },
 {
+"n": "Salisbury",
+"t": "township",
+"c": "Lehigh",
+"share": 0.207,
+"pop": 2864
+},
+{
 "n": "Coopersburg",
 "t": "borough",
 "c": "Lehigh",
@@ -36620,15 +36790,8 @@
 "n": "Allentown",
 "t": "city",
 "c": "Lehigh",
-"share": 1.0,
-"pop": 127138
-},
-{
-"n": "Upper Macungie",
-"t": "township",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 29284
+"share": 0.245,
+"pop": 31182
 },
 {
 "n": "South Whitehall",
@@ -36636,6 +36799,13 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 21818
+},
+{
+"n": "Upper Macungie",
+"t": "township",
+"c": "Lehigh",
+"share": 0.502,
+"pop": 14707
 }
 ]
 },
@@ -36647,13 +36817,6 @@
 ]
 ],
 "places": [
-{
-"n": "Allentown",
-"t": "city",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 127138
-},
 {
 "n": "Whitehall",
 "t": "township",
@@ -36710,15 +36873,8 @@
 "n": "Allentown",
 "t": "city",
 "c": "Lehigh",
-"share": 1.0,
-"pop": 127138
-},
-{
-"n": "Salisbury",
-"t": "township",
-"c": "Lehigh",
-"share": 1.0,
-"pop": 13820
+"share": 0.423,
+"pop": 53719
 },
 {
 "n": "Emmaus",
@@ -36726,6 +36882,13 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 12314
+},
+{
+"n": "Salisbury",
+"t": "township",
+"c": "Lehigh",
+"share": 0.251,
+"pop": 3470
 }
 ]
 },
@@ -36748,8 +36911,8 @@
 "n": "Hanover",
 "t": "township",
 "c": "Northampton",
-"share": 1.0,
-"pop": 11690
+"share": 0.81,
+"pop": 9472
 }
 ]
 },
@@ -36767,20 +36930,6 @@
 "c": "Northampton",
 "share": 1.0,
 "pop": 30432
-},
-{
-"n": "Palmer",
-"t": "township",
-"c": "Northampton",
-"share": 1.0,
-"pop": 22606
-},
-{
-"n": "Lower Saucon",
-"t": "township",
-"c": "Northampton",
-"share": 1.0,
-"pop": 11089
 },
 {
 "n": "Wilson",
@@ -36802,6 +36951,20 @@
 "c": "Northampton",
 "share": 1.0,
 "pop": 6145
+},
+{
+"n": "Lower Saucon",
+"t": "township",
+"c": "Northampton",
+"share": 0.554,
+"pop": 6141
+},
+{
+"n": "Palmer",
+"t": "township",
+"c": "Northampton",
+"share": 0.19,
+"pop": 4299
 },
 {
 "n": "Freemansburg",
@@ -36845,15 +37008,8 @@
 "n": "Palmer",
 "t": "township",
 "c": "Northampton",
-"share": 1.0,
-"pop": 22606
-},
-{
-"n": "Hanover",
-"t": "township",
-"c": "Northampton",
-"share": 1.0,
-"pop": 11690
+"share": 0.81,
+"pop": 18307
 },
 {
 "n": "Upper Nazareth",
@@ -36875,6 +37031,13 @@
 "c": "Northampton",
 "share": 1.0,
 "pop": 6088
+},
+{
+"n": "Hanover",
+"t": "township",
+"c": "Northampton",
+"share": 0.19,
+"pop": 2218
 },
 {
 "n": "Tatamy",
@@ -36899,13 +37062,6 @@
 "c": "Northampton",
 "share": 1.0,
 "pop": 16663
-},
-{
-"n": "Moore",
-"t": "township",
-"c": "Northampton",
-"share": 1.0,
-"pop": 9435
 },
 {
 "n": "Bushkill",
@@ -36941,6 +37097,13 @@
 "c": "Northampton",
 "share": 1.0,
 "pop": 5171
+},
+{
+"n": "Moore",
+"t": "township",
+"c": "Northampton",
+"share": 0.491,
+"pop": 4636
 },
 {
 "n": "Wind Gap",
@@ -37163,13 +37326,6 @@
 ],
 "places": [
 {
-"n": "Middletown",
-"t": "township",
-"c": "Bucks",
-"share": 1.0,
-"pop": 45847
-},
-{
 "n": "Falls",
 "t": "township",
 "c": "Bucks",
@@ -37182,6 +37338,13 @@
 "c": "Bucks",
 "share": 1.0,
 "pop": 9745
+},
+{
+"n": "Middletown",
+"t": "township",
+"c": "Bucks",
+"share": 0.193,
+"pop": 8828
 },
 {
 "n": "Tullytown",
@@ -37228,15 +37391,8 @@
 "n": "Middletown",
 "t": "township",
 "c": "Bucks",
-"share": 1.0,
-"pop": 45847
-},
-{
-"n": "Northampton",
-"t": "township",
-"c": "Bucks",
-"share": 1.0,
-"pop": 40114
+"share": 0.807,
+"pop": 37019
 },
 {
 "n": "Lower Southampton",
@@ -37244,6 +37400,13 @@
 "c": "Bucks",
 "share": 1.0,
 "pop": 20525
+},
+{
+"n": "Northampton",
+"t": "township",
+"c": "Bucks",
+"share": 0.137,
+"pop": 5500
 },
 {
 "n": "Penndel",
@@ -37294,8 +37457,8 @@
 "n": "New Britain",
 "t": "township",
 "c": "Bucks",
-"share": 1.0,
-"pop": 12354
+"share": 0.866,
+"pop": 10693
 },
 {
 "n": "Perkasie",
@@ -37367,8 +37530,8 @@
 "n": "New Britain",
 "t": "township",
 "c": "Bucks",
-"share": 1.0,
-"pop": 12354
+"share": 0.134,
+"pop": 1661
 },
 {
 "n": "Ivyland",
@@ -37548,18 +37711,18 @@
 "pop": 16425
 },
 {
-"n": "Franconia",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 13790
-},
-{
 "n": "New Hanover",
 "t": "township",
 "c": "Montgomery",
 "share": 1.0,
 "pop": 13650
+},
+{
+"n": "Franconia",
+"t": "township",
+"c": "Montgomery",
+"share": 0.815,
+"pop": 11232
 },
 {
 "n": "Douglass",
@@ -37610,8 +37773,8 @@
 "n": "Lower Merion",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 64702
+"share": 0.618,
+"pop": 39986
 },
 {
 "n": "Whitemarsh",
@@ -37638,18 +37801,18 @@
 ],
 "places": [
 {
-"n": "Lower Merion",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 64702
-},
-{
 "n": "Upper Merion",
 "t": "township",
 "c": "Montgomery",
 "share": 1.0,
 "pop": 36414
+},
+{
+"n": "Lower Merion",
+"t": "township",
+"c": "Montgomery",
+"share": 0.382,
+"pop": 24716
 },
 {
 "n": "Bridgeport",
@@ -37693,8 +37856,8 @@
 "n": "West Norriton",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 16417
+"share": 0.38,
+"pop": 6237
 },
 {
 "n": "Collegeville",
@@ -37728,18 +37891,18 @@
 "pop": 27735
 },
 {
-"n": "Upper Dublin",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 27489
-},
-{
 "n": "Montgomery",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 26280
+"share": 0.658,
+"pop": 17300
+},
+{
+"n": "Upper Dublin",
+"t": "township",
+"c": "Montgomery",
+"share": 0.5,
+"pop": 13747
 },
 {
 "n": "Ambler",
@@ -37758,20 +37921,6 @@
 ]
 ],
 "places": [
-{
-"n": "Abington",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 59075
-},
-{
-"n": "Upper Dublin",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 27489
-},
 {
 "n": "Upper Moreland",
 "t": "township",
@@ -37794,6 +37943,13 @@
 "pop": 8341
 },
 {
+"n": "Abington",
+"t": "township",
+"c": "Montgomery",
+"share": 0.129,
+"pop": 7628
+},
+{
 "n": "Bryn Athyn",
 "t": "borough",
 "c": "Montgomery",
@@ -37814,22 +37970,15 @@
 "n": "Abington",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 59075
+"share": 0.871,
+"pop": 51441
 },
 {
 "n": "Upper Dublin",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 27489
-},
-{
-"n": "Jenkintown",
-"t": "borough",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 4740
+"share": 0.5,
+"pop": 13739
 },
 {
 "n": "Rockledge",
@@ -37849,13 +37998,6 @@
 ],
 "places": [
 {
-"n": "Abington",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 59075
-},
-{
 "n": "Cheltenham",
 "t": "township",
 "c": "Montgomery",
@@ -37873,8 +38015,8 @@
 "n": "Jenkintown",
 "t": "borough",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 4740
+"share": 0.985,
+"pop": 4667
 }
 ]
 },
@@ -37892,13 +38034,6 @@
 "c": "Chester",
 "share": 1.0,
 "pop": 19772
-},
-{
-"n": "Caln",
-"t": "township",
-"c": "Chester",
-"share": 1.0,
-"pop": 15203
 },
 {
 "n": "Upper Uwchlan",
@@ -37927,6 +38062,13 @@
 "c": "Chester",
 "share": 1.0,
 "pop": 7946
+},
+{
+"n": "Caln",
+"t": "township",
+"c": "Chester",
+"share": 0.258,
+"pop": 3915
 },
 {
 "n": "Wallace",
@@ -37963,8 +38105,8 @@
 "n": "East Goshen",
 "t": "township",
 "c": "Chester",
-"share": 1.0,
-"pop": 18509
+"share": 0.745,
+"pop": 13788
 },
 {
 "n": "East Bradford",
@@ -38238,20 +38380,6 @@
 ],
 "places": [
 {
-"n": "Ridley",
-"t": "township",
-"c": "Delaware",
-"share": 1.0,
-"pop": 31139
-},
-{
-"n": "Middletown",
-"t": "township",
-"c": "Delaware",
-"share": 1.0,
-"pop": 17317
-},
-{
 "n": "Aston",
 "t": "township",
 "c": "Delaware",
@@ -38266,11 +38394,25 @@
 "pop": 14559
 },
 {
+"n": "Ridley",
+"t": "township",
+"c": "Delaware",
+"share": 0.337,
+"pop": 10506
+},
+{
 "n": "Brookhaven",
 "t": "borough",
 "c": "Delaware",
 "share": 1.0,
 "pop": 8407
+},
+{
+"n": "Middletown",
+"t": "township",
+"c": "Delaware",
+"share": 0.296,
+"pop": 5118
 },
 {
 "n": "Chester",
@@ -38307,15 +38449,8 @@
 "n": "Ridley",
 "t": "township",
 "c": "Delaware",
-"share": 1.0,
-"pop": 31139
-},
-{
-"n": "Darby",
-"t": "township",
-"c": "Delaware",
-"share": 1.0,
-"pop": 9261
+"share": 0.663,
+"pop": 20633
 },
 {
 "n": "Ridley Park",
@@ -38360,6 +38495,13 @@
 "pop": 5969
 },
 {
+"n": "Darby",
+"t": "township",
+"c": "Delaware",
+"share": 0.599,
+"pop": 5552
+},
+{
 "n": "Rutledge",
 "t": "borough",
 "c": "Delaware",
@@ -38380,15 +38522,8 @@
 "n": "Upper Darby",
 "t": "township",
 "c": "Delaware",
-"share": 1.0,
-"pop": 86045
-},
-{
-"n": "Darby",
-"t": "township",
-"c": "Delaware",
-"share": 1.0,
-"pop": 9261
+"share": 0.594,
+"pop": 51068
 },
 {
 "n": "Collingdale",
@@ -38410,6 +38545,13 @@
 "c": "Delaware",
 "share": 1.0,
 "pop": 4277
+},
+{
+"n": "Darby",
+"t": "township",
+"c": "Delaware",
+"share": 0.401,
+"pop": 3709
 }
 ]
 },
@@ -38425,8 +38567,8 @@
 "n": "Upper Darby",
 "t": "township",
 "c": "Delaware",
-"share": 1.0,
-"pop": 86045
+"share": 0.406,
+"pop": 34977
 },
 {
 "n": "Lansdowne",
@@ -38470,8 +38612,8 @@
 "n": "Marple",
 "t": "township",
 "c": "Delaware",
-"share": 1.0,
-"pop": 24423
+"share": 0.665,
+"pop": 16246
 },
 {
 "n": "Upper Providence",
@@ -38522,8 +38664,8 @@
 "n": "Marple",
 "t": "township",
 "c": "Delaware",
-"share": 1.0,
-"pop": 24423
+"share": 0.335,
+"pop": 8177
 }
 ]
 },
@@ -38541,13 +38683,6 @@
 "c": "Chester",
 "share": 1.0,
 "pop": 20885
-},
-{
-"n": "East Goshen",
-"t": "township",
-"c": "Chester",
-"share": 1.0,
-"pop": 18509
 },
 {
 "n": "East Whiteland",
@@ -38576,6 +38711,13 @@
 "c": "Chester",
 "share": 1.0,
 "pop": 5924
+},
+{
+"n": "East Goshen",
+"t": "township",
+"c": "Chester",
+"share": 0.255,
+"pop": 4721
 },
 {
 "n": "West Pikeland",
@@ -38609,18 +38751,18 @@
 "pop": 34130
 },
 {
-"n": "Middletown",
-"t": "township",
-"c": "Delaware",
-"share": 1.0,
-"pop": 17317
-},
-{
 "n": "Newtown",
 "t": "township",
 "c": "Delaware",
 "share": 1.0,
 "pop": 15494
+},
+{
+"n": "Middletown",
+"t": "township",
+"c": "Delaware",
+"share": 0.704,
+"pop": 12199
 },
 {
 "n": "Edgmont",
@@ -38723,10 +38865,23 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.077,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"NORMANDY_VILLAGE",
+"BYBERRY",
+"PARKWOOD_MANOR",
+"FRANKLIN_MILLS",
+"MECHANICSVILLE",
+"SOMERTON",
+"MODENA",
+"MILLBROOK",
+"NORTHEAST_AIRPORT"
 ]
+}
 },
 "HD-171": {
 "counties": [
@@ -38751,8 +38906,8 @@
 "n": "Spring",
 "t": "township",
 "c": "Centre",
-"share": 1.0,
-"pop": 8205
+"share": 0.999,
+"pop": 8198
 },
 {
 "n": "Bellefonte",
@@ -38760,13 +38915,6 @@
 "c": "Centre",
 "share": 1.0,
 "pop": 5986
-},
-{
-"n": "Harris",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 5984
 },
 {
 "n": "Walker",
@@ -38809,13 +38957,6 @@
 "c": "Centre",
 "share": 1.0,
 "pop": 3636
-},
-{
-"n": "Boggs",
-"t": "township",
-"c": "Centre",
-"share": 1.0,
-"pop": 2717
 },
 {
 "n": "Wayne",
@@ -38914,6 +39055,20 @@
 "c": "Mifflin",
 "share": 1.0,
 "pop": 198
+},
+{
+"n": "Harris",
+"t": "township",
+"c": "Centre",
+"share": 0.01,
+"pop": 61
+},
+{
+"n": "Boggs",
+"t": "township",
+"c": "Centre",
+"share": 0.007,
+"pop": 19
 }
 ]
 },
@@ -38929,10 +39084,19 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.056,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"FOX_CHASE",
+"BUSTLETON",
+"BURHOLME",
+"RHAWNHURST",
+"PENNYPACK_PARK"
 ]
+}
 },
 "HD-173": {
 "counties": [
@@ -38946,10 +39110,23 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.058,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"HOLMESBURG",
+"LEXINGTON_PARK",
+"TORRESDALE",
+"WINCHESTER_PARK",
+"PENNYPACK_WOODS",
+"ACADEMY_GARDENS",
+"TACONY",
+"PENNYPACK_PARK",
+"MAYFAIR"
 ]
+}
 },
 "HD-174": {
 "counties": [
@@ -38963,10 +39140,24 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.053,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"WEST_TORRESDALE",
+"PENNYPACK",
+"MORRELL_PARK",
+"CRESTMONT_FARMS",
+"ASTON_WOODBRIDGE",
+"ACADEMY_GARDENS",
+"RHAWNHURST",
+"NORTHEAST_AIRPORT",
+"PENNYPACK_WOODS",
+"MILLBROOK"
 ]
+}
 },
 "HD-175": {
 "counties": [
@@ -38980,10 +39171,23 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.027,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"OLD_CITY",
+"CHINATOWN",
+"SOCIETY_HILL",
+"CALLOWHILL",
+"NORTHERN_LIBERTIES",
+"QUEEN_VILLAGE",
+"CENTER_CITY",
+"FISHTOWN",
+"OLD_KENSINGTON"
 ]
+}
 },
 "HD-176": {
 "counties": [
@@ -39063,10 +39267,21 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.053,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"PORT_RICHMOND",
+"BRIDESBURG",
+"WISSINOMING",
+"RICHMOND",
+"EAST_KENSINGTON",
+"TACONY",
+"FISHTOWN"
 ]
+}
 },
 "HD-178": {
 "counties": [
@@ -39080,8 +39295,8 @@
 "n": "Northampton",
 "t": "township",
 "c": "Bucks",
-"share": 1.0,
-"pop": 40114
+"share": 0.863,
+"pop": 34614
 },
 {
 "n": "Upper Southampton",
@@ -39118,10 +39333,20 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.03,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"FRANKFORD",
+"NORTHWOOD",
+"SUMMERDALE",
+"CRESCENTVILLE",
+"OLNEY",
+"LAWNDALE"
 ]
+}
 },
 "HD-180": {
 "counties": [
@@ -39135,10 +39360,18 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.027,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"HARROWGATE",
+"UPPER_KENSINGTON",
+"JUNIATA_PARK",
+"HUNTING_PARK"
 ]
+}
 },
 "HD-181": {
 "counties": [
@@ -39152,10 +39385,24 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.02,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"YORKTOWN",
+"LUDLOW",
+"EAST_POPLAR",
+"WEST_POPLAR",
+"HARTRANFT",
+"FRANCISVILLE",
+"OLD_KENSINGTON",
+"SPRING_GARDEN",
+"NORTH_CENTRAL",
+"LOGAN_SQUARE"
 ]
+}
 },
 "HD-182": {
 "counties": [
@@ -39169,10 +39416,21 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.011,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"FITLER_SQUARE",
+"RITTENHOUSE",
+"HAWTHORNE",
+"BELLA_VISTA",
+"WASHINGTON_SQUARE",
+"PASSYUNK_SQUARE",
+"GRADUATE_HOSPITAL"
 ]
+}
 },
 "HD-183": {
 "counties": [
@@ -39208,13 +39466,6 @@
 "pop": 10587
 },
 {
-"n": "Moore",
-"t": "township",
-"c": "Northampton",
-"share": 1.0,
-"pop": 9435
-},
-{
 "n": "Allen",
 "t": "township",
 "c": "Northampton",
@@ -39227,6 +39478,13 @@
 "c": "Northampton",
 "share": 1.0,
 "pop": 5391
+},
+{
+"n": "Moore",
+"t": "township",
+"c": "Northampton",
+"share": 0.509,
+"pop": 4799
 },
 {
 "n": "Slatington",
@@ -39277,10 +39535,24 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.051,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"LOWER_MOYAMENSING",
+"WHITMAN",
+"EAST_PASSYUNK",
+"GREENWICH",
+"STADIUM_DISTRICT",
+"PENNSPORT",
+"RIVERFRONT",
+"DICKINSON_NARROWS",
+"NAVY_YARD",
+"PASSYUNK_SQUARE"
 ]
+}
 },
 "HD-185": {
 "counties": [
@@ -39312,10 +39584,26 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.102,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"PENROSE",
+"PACKER_PARK",
+"EASTWICK",
+"GIRARD_ESTATES",
+"ELMWOOD",
+"CLEARVIEW",
+"AIRPORT",
+"INDUSTRIAL",
+"BARTRAM_VILLAGE",
+"NAVY_YARD",
+"NEWBOLD",
+"WEST_PASSYUNK"
 ]
+}
 },
 "HD-186": {
 "counties": [
@@ -39329,10 +39617,21 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.024,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"GRAYS_FERRY",
+"POINT_BREEZE",
+"WEST_PASSYUNK",
+"NEWBOLD",
+"GRADUATE_HOSPITAL",
+"SOUTHWEST_SCHUYLKILL",
+"BARTRAM_VILLAGE"
 ]
+}
 },
 "HD-187": {
 "counties": [
@@ -39353,8 +39652,8 @@
 "n": "Upper Macungie",
 "t": "township",
 "c": "Lehigh",
-"share": 1.0,
-"pop": 29284
+"share": 0.498,
+"pop": 14577
 },
 {
 "n": "Washington",
@@ -39412,10 +39711,21 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.02,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"GARDEN_COURT",
+"WOODLAND_TERRACE",
+"CEDAR_PARK",
+"SPRUCE_HILL",
+"WALNUT_HILL",
+"UNIVERSITY_CITY",
+"SOUTHWEST_SCHUYLKILL"
 ]
+}
 },
 "HD-189": {
 "counties": [
@@ -39433,15 +39743,8 @@
 "n": "Stroud",
 "t": "township",
 "c": "Monroe",
-"share": 1.0,
-"pop": 19600
-},
-{
-"n": "Middle Smithfield",
-"t": "township",
-"c": "Monroe",
-"share": 1.0,
-"pop": 15922
+"share": 0.584,
+"pop": 11451
 },
 {
 "n": "Lehman",
@@ -39470,6 +39773,13 @@
 "c": "Pike",
 "share": 1.0,
 "pop": 7786
+},
+{
+"n": "Middle Smithfield",
+"t": "township",
+"c": "Monroe",
+"share": 0.484,
+"pop": 7709
 },
 {
 "n": "Stroudsburg",
@@ -39506,10 +39816,27 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.057,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"WEST_PARKSIDE",
+"WYNNEFIELD_HEIGHTS",
+"WEST_PARK",
+"GLENWOOD",
+"ALLEGHENY_WEST",
+"TIOGA",
+"EAST_PARK",
+"EAST_PARKSIDE",
+"WYNNEFIELD",
+"MILL_CREEK",
+"STRAWBERRY_MANSION",
+"CARROLL_PARK",
+"BELMONT"
 ]
+}
 },
 "HD-191": {
 "counties": [
@@ -39541,10 +39868,17 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.014,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"PASCHALL",
+"KINGSESSING",
+"COBBS_CREEK"
 ]
+}
 },
 "HD-192": {
 "counties": [
@@ -39558,10 +39892,18 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.028,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"OVERBROOK",
+"CARROLL_PARK",
+"HADDINGTON",
+"WYNNEFIELD"
 ]
+}
 },
 "HD-193": {
 "counties": [
@@ -39575,13 +39917,6 @@
 ]
 ],
 "places": [
-{
-"n": "Carlisle",
-"t": "borough",
-"c": "Cumberland",
-"share": 1.0,
-"pop": 22517
-},
 {
 "n": "Southampton",
 "t": "township",
@@ -39757,10 +40092,26 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.082,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"ROXBOROUGH",
+"WISSAHICKON_HILLS",
+"UPPER_ROXBOROUGH",
+"ANDORRA",
+"DEARNLEY_PARK",
+"ROXBOROUGH_PARK",
+"MANAYUNK",
+"GERMANY_HILL",
+"WISSAHICKON",
+"WISSAHICKON_PARK",
+"EAST_FALLS",
+"CHESTNUT_HILL"
 ]
+}
 },
 "HD-195": {
 "counties": [
@@ -39774,10 +40125,22 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.02,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"FAIRMOUNT",
+"BREWERYTOWN",
+"SHARSWOOD",
+"STANTON",
+"STRAWBERRY_MANSION",
+"NORTH_CENTRAL",
+"SPRING_GARDEN",
+"FRANCISVILLE"
 ]
+}
 },
 "HD-196": {
 "counties": [
@@ -39788,18 +40151,18 @@
 ],
 "places": [
 {
-"n": "Dover",
-"t": "township",
-"c": "York",
-"share": 1.0,
-"pop": 24064
-},
-{
 "n": "West Manchester",
 "t": "township",
 "c": "York",
 "share": 1.0,
 "pop": 19372
+},
+{
+"n": "Dover",
+"t": "township",
+"c": "York",
+"share": 0.427,
+"pop": 10264
 },
 {
 "n": "North Codorus",
@@ -39871,10 +40234,21 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.023,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"FAIRHILL",
+"FRANKLINVILLE",
+"WEST_KENSINGTON",
+"MCGUIRE",
+"FELTONVILLE",
+"HUNTING_PARK",
+"EAST_KENSINGTON"
 ]
+}
 },
 "HD-198": {
 "counties": [
@@ -39888,10 +40262,21 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.028,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"FERN_ROCK",
+"GERMANTOWN_SOUTHWEST",
+"EAST_OAK_LANE",
+"NICETOWN",
+"LOGAN",
+"GERMANTOWN_WESTSIDE",
+"OLNEY"
 ]
+}
 },
 "HD-199": {
 "counties": [
@@ -39905,15 +40290,8 @@
 "n": "Carlisle",
 "t": "borough",
 "c": "Cumberland",
-"share": 1.0,
-"pop": 22517
-},
-{
-"n": "South Middleton",
-"t": "township",
-"c": "Cumberland",
-"share": 1.0,
-"pop": 17562
+"share": 0.996,
+"pop": 22433
 },
 {
 "n": "North Middleton",
@@ -39935,6 +40313,13 @@
 "c": "Cumberland",
 "share": 1.0,
 "pop": 5707
+},
+{
+"n": "South Middleton",
+"t": "township",
+"c": "Cumberland",
+"share": 0.278,
+"pop": 4881
 },
 {
 "n": "North Newton",
@@ -40006,10 +40391,19 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.045,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"MOUNT_AIRY_WEST",
+"CEDARBROOK",
+"MOUNT_AIRY_EAST",
+"BLUE_BELL_HILL",
+"WEST_OAK_LANE"
 ]
+}
 },
 "HD-201": {
 "counties": [
@@ -40023,10 +40417,23 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.031,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"OGONTZ",
+"WISTER",
+"GERMANTOWN_MORTON",
+"GERMANTOWN_EAST",
+"GERMANTOWN_WEST_CENT",
+"GERMANTOWN_PENN_KNOX",
+"GERMANTOWN_WESTSIDE",
+"LOGAN",
+"WEST_OAK_LANE"
 ]
+}
 },
 "HD-202": {
 "counties": [
@@ -40040,10 +40447,16 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.018,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"MAYFAIR",
+"OXFORD_CIRCLE"
 ]
+}
 },
 "HD-203": {
 "counties": [
@@ -40057,10 +40470,20 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.025,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"MELROSE_PARK_GARDENS",
+"LAWNDALE",
+"OXFORD_CIRCLE",
+"CRESCENTVILLE",
+"BURHOLME",
+"SUMMERDALE"
 ]
+}
 },
 "PA-1": {
 "counties": [
@@ -40124,13 +40547,6 @@
 "pop": 33474
 },
 {
-"n": "Horsham",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 27735
-},
-{
 "n": "Warrington",
 "t": "township",
 "c": "Bucks",
@@ -40143,6 +40559,13 @@
 "c": "Montgomery",
 "share": 1.0,
 "pop": 26280
+},
+{
+"n": "Horsham",
+"t": "township",
+"c": "Montgomery",
+"share": 0.815,
+"pop": 22610
 },
 {
 "n": "Buckingham",
@@ -40557,10 +40980,80 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.471,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"WINCHESTER_PARK",
+"ASTON_WOODBRIDGE",
+"PENNYPACK_WOODS",
+"RHAWNHURST",
+"OLD_CITY",
+"NORMANDY_VILLAGE",
+"OXFORD_CIRCLE",
+"PENNYPACK",
+"MCGUIRE",
+"FELTONVILLE",
+"CRESCENTVILLE",
+"EAST_KENSINGTON",
+"OLD_KENSINGTON",
+"WEST_KENSINGTON",
+"YORKTOWN",
+"UPPER_KENSINGTON",
+"JUNIATA_PARK",
+"OLNEY",
+"HARROWGATE",
+"CHINATOWN",
+"WEST_POPLAR",
+"MAYFAIR",
+"NORTHEAST_AIRPORT",
+"SUMMERDALE",
+"FAIRHILL",
+"LUDLOW",
+"EAST_POPLAR",
+"NORTHWOOD",
+"ACADEMY_GARDENS",
+"LEXINGTON_PARK",
+"MODENA",
+"WEST_TORRESDALE",
+"MORRELL_PARK",
+"FRANKFORD",
+"PENNYPACK_PARK",
+"BUSTLETON",
+"LAWNDALE",
+"FOX_CHASE",
+"BURHOLME",
+"MELROSE_PARK_GARDENS",
+"FRANKLINVILLE",
+"HUNTING_PARK",
+"SOMERTON",
+"FERN_ROCK",
+"MILLBROOK",
+"EAST_OAK_LANE",
+"BYBERRY",
+"PARKWOOD_MANOR",
+"WISSINOMING",
+"HOLMESBURG",
+"RICHMOND",
+"CALLOWHILL",
+"HARTRANFT",
+"FRANKLIN_MILLS",
+"PORT_RICHMOND",
+"WASHINGTON_SQUARE",
+"BRIDESBURG",
+"TACONY",
+"FISHTOWN",
+"NORTHERN_LIBERTIES",
+"CRESTMONT_FARMS",
+"TORRESDALE",
+"MECHANICSVILLE",
+"CENTER_CITY",
+"SOCIETY_HILL",
+"LOGAN"
 ]
+}
 },
 "PA-3": {
 "counties": [
@@ -40574,10 +41067,98 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.385,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"ROXBOROUGH",
+"GERMANTOWN_EAST",
+"WEST_PARKSIDE",
+"BLUE_BELL_HILL",
+"BREWERYTOWN",
+"EAST_PARK",
+"WOODLAND_TERRACE",
+"WALNUT_HILL",
+"WEST_POWELTON",
+"POWELTON",
+"MANTUA",
+"GARDEN_COURT",
+"OGONTZ",
+"NICETOWN",
+"FITLER_SQUARE",
+"SHARSWOOD",
+"GERMANTOWN_WEST_CENT",
+"GERMANTOWN_SOUTHWEST",
+"GERMANTOWN_MORTON",
+"FAIRMOUNT",
+"PENNSPORT",
+"BELMONT",
+"CEDAR_PARK",
+"CARROLL_PARK",
+"HAVERFORD_NORTH",
+"EAST_PASSYUNK",
+"GERMANTOWN_WESTSIDE",
+"SPRUCE_HILL",
+"BELLA_VISTA",
+"PASSYUNK_SQUARE",
+"ALLEGHENY_WEST",
+"GREENWICH",
+"MILL_CREEK",
+"TIOGA",
+"DUNLAP",
+"WISTER",
+"NEWBOLD",
+"QUEEN_VILLAGE",
+"UNIVERSITY_CITY",
+"EAST_PARKSIDE",
+"DICKINSON_NARROWS",
+"HADDINGTON",
+"WISSAHICKON_HILLS",
+"GERMANTOWN_PENN_KNOX",
+"MOUNT_AIRY_WEST",
+"POINT_BREEZE",
+"GRADUATE_HOSPITAL",
+"STRAWBERRY_MANSION",
+"MOUNT_AIRY_EAST",
+"COBBS_CREEK",
+"WISSAHICKON_PARK",
+"RITTENHOUSE",
+"WYNNEFIELD",
+"LOGAN_SQUARE",
+"OVERBROOK",
+"WYNNEFIELD_HEIGHTS",
+"WEST_OAK_LANE",
+"CEDARBROOK",
+"HAWTHORNE",
+"CHESTNUT_HILL",
+"EAST_FALLS",
+"WEST_PASSYUNK",
+"WEST_PARK",
+"UPPER_ROXBOROUGH",
+"ANDORRA",
+"GRAYS_FERRY",
+"GLENWOOD",
+"DEARNLEY_PARK",
+"ROXBOROUGH_PARK",
+"MANAYUNK",
+"NORTH_CENTRAL",
+"FRANCISVILLE",
+"SPRING_GARDEN",
+"GERMANY_HILL",
+"WISSAHICKON",
+"STANTON",
+"LOWER_MOYAMENSING",
+"SOUTHWEST_SCHUYLKILL",
+"KINGSESSING",
+"WHITMAN",
+"LOGAN",
+"SOCIETY_HILL",
+"RIVERFRONT",
+"BARTRAM_VILLAGE"
 ]
+}
 },
 "PA-4": {
 "counties": [
@@ -40591,13 +41172,6 @@
 ]
 ],
 "places": [
-{
-"n": "Lower Merion",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 64702
-},
 {
 "n": "Abington",
 "t": "township",
@@ -40613,18 +41187,11 @@
 "pop": 38840
 },
 {
-"n": "Upper Merion",
+"n": "Lower Merion",
 "t": "township",
 "c": "Montgomery",
-"share": 1.0,
-"pop": 36414
-},
-{
-"n": "Horsham",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 27735
+"share": 0.595,
+"pop": 38523
 },
 {
 "n": "Upper Dublin",
@@ -40646,13 +41213,6 @@
 "c": "Montgomery",
 "share": 1.0,
 "pop": 26136
-},
-{
-"n": "Exeter",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 25981
 },
 {
 "n": "Upper Providence",
@@ -40844,18 +41404,18 @@
 "pop": 8341
 },
 {
+"n": "Upper Merion",
+"t": "township",
+"c": "Montgomery",
+"share": 0.197,
+"pop": 7168
+},
+{
 "n": "Ambler",
 "t": "borough",
 "c": "Montgomery",
 "share": 1.0,
 "pop": 6900
-},
-{
-"n": "Lower Heidelberg",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 6829
 },
 {
 "n": "Bern",
@@ -40893,6 +41453,13 @@
 "pop": 5185
 },
 {
+"n": "Horsham",
+"t": "township",
+"c": "Montgomery",
+"share": 0.185,
+"pop": 5125
+},
+{
 "n": "Royersford",
 "t": "borough",
 "c": "Montgomery",
@@ -40914,11 +41481,25 @@
 "pop": 4740
 },
 {
+"n": "Lower Heidelberg",
+"t": "township",
+"c": "Berks",
+"share": 0.69,
+"pop": 4711
+},
+{
 "n": "Washington",
 "t": "township",
 "c": "Berks",
 "share": 1.0,
 "pop": 4571
+},
+{
+"n": "Exeter",
+"t": "township",
+"c": "Berks",
+"share": 0.174,
+"pop": 4532
 },
 {
 "n": "Laureldale",
@@ -41061,13 +41642,6 @@
 "pop": 2641
 },
 {
-"n": "Perry",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 2526
-},
-{
 "n": "Topton",
 "t": "borough",
 "c": "Berks",
@@ -41080,6 +41654,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 1972
+},
+{
+"n": "Perry",
+"t": "township",
+"c": "Berks",
+"share": 0.737,
+"pop": 1861
 },
 {
 "n": "Pike",
@@ -41177,25 +41758,11 @@
 "pop": 86045
 },
 {
-"n": "Lower Merion",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 64702
-},
-{
 "n": "Haverford",
 "t": "township",
 "c": "Delaware",
 "share": 1.0,
 "pop": 51291
-},
-{
-"n": "Upper Merion",
-"t": "township",
-"c": "Montgomery",
-"share": 1.0,
-"pop": 36414
 },
 {
 "n": "Norristown",
@@ -41224,6 +41791,20 @@
 "c": "Delaware",
 "share": 1.0,
 "pop": 31139
+},
+{
+"n": "Upper Merion",
+"t": "township",
+"c": "Montgomery",
+"share": 0.803,
+"pop": 29246
+},
+{
+"n": "Lower Merion",
+"t": "township",
+"c": "Montgomery",
+"share": 0.405,
+"pop": 26179
 },
 {
 "n": "Springfield",
@@ -41436,13 +42017,6 @@
 "pop": 4277
 },
 {
-"n": "Birmingham",
-"t": "township",
-"c": "Chester",
-"share": 1.0,
-"pop": 4133
-},
-{
 "n": "Chester",
 "t": "township",
 "c": "Delaware",
@@ -41558,10 +42132,30 @@
 "n": "Philadelphia",
 "t": "city",
 "c": "Philadelphia",
-"share": 1.0,
+"share": 0.144,
 "pop": null
 }
+],
+"neighborhoods": {
+"Philadelphia": [
+"EASTWICK",
+"PENROSE",
+"ELMWOOD",
+"PASCHALL",
+"PACKER_PARK",
+"CLEARVIEW",
+"STADIUM_DISTRICT",
+"NAVY_YARD",
+"AIRPORT",
+"INDUSTRIAL",
+"GIRARD_ESTATES",
+"BARTRAM_VILLAGE",
+"RIVERFRONT",
+"WHITMAN",
+"KINGSESSING",
+"SOUTHWEST_SCHUYLKILL"
 ]
+}
 },
 "PA-6": {
 "counties": [
@@ -41597,13 +42191,6 @@
 "pop": 28859
 },
 {
-"n": "Exeter",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 25981
-},
-{
 "n": "West Goshen",
 "t": "township",
 "c": "Chester",
@@ -41616,6 +42203,13 @@
 "c": "Chester",
 "share": 1.0,
 "pop": 22758
+},
+{
+"n": "Exeter",
+"t": "township",
+"c": "Berks",
+"share": 0.826,
+"pop": 21449
 },
 {
 "n": "West Whiteland",
@@ -41975,13 +42569,6 @@
 "pop": 4327
 },
 {
-"n": "Birmingham",
-"t": "township",
-"c": "Chester",
-"share": 1.0,
-"pop": 4133
-},
-{
 "n": "West Pikeland",
 "t": "township",
 "c": "Chester",
@@ -41994,6 +42581,13 @@
 "c": "Berks",
 "share": 1.0,
 "pop": 4030
+},
+{
+"n": "Birmingham",
+"t": "township",
+"c": "Chester",
+"share": 0.972,
+"pop": 4018
 },
 {
 "n": "Parkesburg",
@@ -42501,13 +43095,6 @@
 "pop": 5594
 },
 {
-"n": "Ross",
-"t": "township",
-"c": "Monroe",
-"share": 1.0,
-"pop": 5471
-},
-{
 "n": "East Allen",
 "t": "township",
 "c": "Northampton",
@@ -42604,6 +43191,13 @@
 "c": "Lehigh",
 "share": 1.0,
 "pop": 3913
+},
+{
+"n": "Ross",
+"t": "township",
+"c": "Monroe",
+"share": 0.697,
+"pop": 3814
 },
 {
 "n": "Wind Gap",
@@ -43003,13 +43597,6 @@
 "pop": 10399
 },
 {
-"n": "Butler",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 10141
-},
-{
 "n": "Plains",
 "t": "township",
 "c": "Luzerne",
@@ -43064,6 +43651,13 @@
 "c": "Monroe",
 "share": 1.0,
 "pop": 8326
+},
+{
+"n": "Butler",
+"t": "township",
+"c": "Luzerne",
+"share": 0.789,
+"pop": 8002
 },
 {
 "n": "Smithfield",
@@ -43178,13 +43772,6 @@
 "pop": 5590
 },
 {
-"n": "Ross",
-"t": "township",
-"c": "Monroe",
-"share": 1.0,
-"pop": 5471
-},
-{
 "n": "Lackawaxen",
 "t": "township",
 "c": "Pike",
@@ -43267,13 +43854,6 @@
 "c": "Luzerne",
 "share": 1.0,
 "pop": 4582
-},
-{
-"n": "Newport",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 4510
 },
 {
 "n": "Jessup",
@@ -43395,13 +43975,6 @@
 "pop": 3501
 },
 {
-"n": "Lehman",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 3444
-},
-{
 "n": "Westfall",
 "t": "township",
 "c": "Pike",
@@ -43477,6 +44050,13 @@
 "c": "Lackawanna",
 "share": 1.0,
 "pop": 2802
+},
+{
+"n": "Newport",
+"t": "township",
+"c": "Luzerne",
+"share": 0.617,
+"pop": 2781
 },
 {
 "n": "Luzerne",
@@ -43659,6 +44239,13 @@
 "c": "Luzerne",
 "share": 1.0,
 "pop": 1740
+},
+{
+"n": "Ross",
+"t": "township",
+"c": "Monroe",
+"share": 0.303,
+"pop": 1657
 },
 {
 "n": "Milford",
@@ -44044,18 +44631,18 @@
 ],
 "places": [
 {
-"n": "Williamsport",
-"t": "city",
-"c": "Lycoming",
-"share": 1.0,
-"pop": 27628
-},
-{
 "n": "Lebanon",
 "t": "city",
 "c": "Lebanon",
 "share": 1.0,
 "pop": 26456
+},
+{
+"n": "Williamsport",
+"t": "city",
+"c": "Lycoming",
+"share": 0.818,
+"pop": 22586
 },
 {
 "n": "Pottsville",
@@ -44098,13 +44685,6 @@
 "c": "Columbia",
 "share": 1.0,
 "pop": 10332
-},
-{
-"n": "Butler",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 10141
 },
 {
 "n": "Coal",
@@ -44168,13 +44748,6 @@
 "c": "Schuylkill",
 "share": 1.0,
 "pop": 6944
-},
-{
-"n": "Lower Heidelberg",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 6829
 },
 {
 "n": "Shamokin",
@@ -44294,13 +44867,6 @@
 "c": "Montour",
 "share": 1.0,
 "pop": 4521
-},
-{
-"n": "Newport",
-"t": "township",
-"c": "Luzerne",
-"share": 1.0,
-"pop": 4510
 },
 {
 "n": "Millcreek",
@@ -44646,13 +45212,6 @@
 "pop": 2561
 },
 {
-"n": "Perry",
-"t": "township",
-"c": "Berks",
-"share": 1.0,
-"pop": 2526
-},
-{
 "n": "Ryan",
 "t": "township",
 "c": "Schuylkill",
@@ -44793,11 +45352,25 @@
 "pop": 2145
 },
 {
+"n": "Butler",
+"t": "township",
+"c": "Luzerne",
+"share": 0.211,
+"pop": 2139
+},
+{
 "n": "Hughesville",
 "t": "borough",
 "c": "Lycoming",
 "share": 1.0,
 "pop": 2120
+},
+{
+"n": "Lower Heidelberg",
+"t": "township",
+"c": "Berks",
+"share": 0.31,
+"pop": 2118
 },
 {
 "n": "Dorrance",
@@ -45015,6 +45588,13 @@
 "c": "Susquehanna",
 "share": 1.0,
 "pop": 1748
+},
+{
+"n": "Newport",
+"t": "township",
+"c": "Luzerne",
+"share": 0.383,
+"pop": 1729
 },
 {
 "n": "Tunkhannock",
@@ -45969,6 +46549,13 @@
 "pop": 676
 },
 {
+"n": "Perry",
+"t": "township",
+"c": "Berks",
+"share": 0.263,
+"pop": 665
+},
+{
 "n": "Turbotville",
 "t": "borough",
 "c": "Northumberland",
@@ -46806,13 +47393,6 @@
 "pop": 9748
 },
 {
-"n": "Jackson",
-"t": "township",
-"c": "York",
-"share": 1.0,
-"pop": 9188
-},
-{
 "n": "Conewago",
 "t": "township",
 "c": "York",
@@ -46832,6 +47412,13 @@
 "c": "Cumberland",
 "share": 1.0,
 "pop": 8231
+},
+{
+"n": "Jackson",
+"t": "township",
+"c": "York",
+"share": 0.836,
+"pop": 7681
 },
 {
 "n": "New Cumberland",
@@ -47023,13 +47610,6 @@
 "pop": 2638
 },
 {
-"n": "North Newton",
-"t": "township",
-"c": "Cumberland",
-"share": 1.0,
-"pop": 2613
-},
-{
 "n": "Millersburg",
 "t": "borough",
 "c": "Dauphin",
@@ -47174,6 +47754,13 @@
 "t": "borough",
 "c": "York",
 "share": 1.0,
+"pop": 936
+},
+{
+"n": "North Newton",
+"t": "township",
+"c": "Cumberland",
+"share": 0.358,
 "pop": 936
 },
 {
@@ -47469,13 +48056,6 @@
 "c": "Lancaster",
 "share": 1.0,
 "pop": 9290
-},
-{
-"n": "Jackson",
-"t": "township",
-"c": "York",
-"share": 1.0,
-"pop": 9188
 },
 {
 "n": "West Donegal",
@@ -47919,6 +48499,13 @@
 "pop": 1839
 },
 {
+"n": "Jackson",
+"t": "township",
+"c": "York",
+"share": 0.164,
+"pop": 1507
+},
+{
 "n": "Loganville",
 "t": "borough",
 "c": "York",
@@ -48052,13 +48639,6 @@
 "pop": 307668
 },
 {
-"n": "Hempfield",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 41579
-},
-{
 "n": "Bethel Park",
 "t": "municipality",
 "c": "Allegheny",
@@ -48157,6 +48737,13 @@
 "pop": 12291
 },
 {
+"n": "Hempfield",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.294,
+"pop": 12205
+},
+{
 "n": "Munhall",
 "t": "borough",
 "c": "Allegheny",
@@ -48192,13 +48779,6 @@
 "pop": 8318
 },
 {
-"n": "Swissvale",
-"t": "borough",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 8280
-},
-{
 "n": "White Oak",
 "t": "borough",
 "c": "Allegheny",
@@ -48220,18 +48800,18 @@
 "pop": 5945
 },
 {
+"n": "Swissvale",
+"t": "borough",
+"c": "Allegheny",
+"share": 0.693,
+"pop": 5742
+},
+{
 "n": "Sewickley",
 "t": "township",
 "c": "Westmoreland",
 "share": 1.0,
 "pop": 5553
-},
-{
-"n": "South Huntingdon",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 5318
 },
 {
 "n": "Duquesne",
@@ -48479,6 +49059,13 @@
 "pop": 247
 },
 {
+"n": "South Huntingdon",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.03,
+"pop": 160
+},
+{
 "n": "Adamsburg",
 "t": "borough",
 "c": "Westmoreland",
@@ -48492,7 +49079,101 @@
 "share": 1.0,
 "pop": 89
 }
+],
+"neighborhoods": {
+"Pittsburgh": [
+"South Side Slopes",
+"Hays",
+"Sheraden",
+"Mount Washington",
+"Fineview",
+"Strip District",
+"Central Business District",
+"East Liberty",
+"Glen Hazel",
+"Duquesne Heights",
+"Knoxville",
+"Highland Park",
+"East Allegheny",
+"Polish Hill",
+"Shadyside",
+"Perry South",
+"South Oakland",
+"Crawford-Roberts",
+"Bluff",
+"Squirrel Hill North",
+"Central Lawrenceville",
+"Marshall-Shadeland",
+"Bloomfield",
+"Garfield",
+"Morningside",
+"Upper Hill",
+"Upper Lawrenceville",
+"West Oakland",
+"South Side Flats",
+"Chateau",
+"California-Kirkbride",
+"West End",
+"Allegheny Center",
+"Carrick",
+"Bon Air",
+"Point Breeze North",
+"Hazelwood",
+"Bedford Dwellings",
+"Chartiers City",
+"Swisshelm Park",
+"New Homestead",
+"Homewood South",
+"North Shore",
+"Homewood West",
+"South Shore",
+"Beltzhoover",
+"Friendship",
+"Middle Hill",
+"St. Clair",
+"Allegheny West",
+"Central Northside",
+"Squirrel Hill South",
+"Central Oakland",
+"Stanton Heights",
+"Manchester",
+"Arlington",
+"Lincoln Place",
+"Elliott",
+"Mt. Oliver",
+"Terrace Village",
+"Point Breeze",
+"North Oakland",
+"Allentown",
+"Arlington Heights",
+"Larimer",
+"Lower Lawrenceville",
+"Greenfield",
+"Regent Square",
+"Beechview",
+"Brookline",
+"Overbrook",
+"Spring Hill-City View",
+"Crafton Heights",
+"Lincoln-Lemington-Belmar",
+"Westwood",
+"Perry North",
+"Fairywood",
+"Banksville",
+"Northview Heights",
+"Homewood North",
+"Ridgemont",
+"Troy Hill",
+"Brighton Heights",
+"Windgap",
+"Spring Garden",
+"East Hills",
+"Summer Hill",
+"East Carnegie",
+"Oakwood",
+"Esplen"
 ]
+}
 },
 "PA-13": {
 "counties": [
@@ -48685,13 +49366,6 @@
 "c": "Huntingdon",
 "share": 1.0,
 "pop": 6857
-},
-{
-"n": "Conemaugh",
-"t": "township",
-"c": "Somerset",
-"share": 1.0,
-"pop": 6591
 },
 {
 "n": "Allegheny",
@@ -49044,6 +49718,13 @@
 "pop": 2843
 },
 {
+"n": "Conemaugh",
+"t": "township",
+"c": "Somerset",
+"share": 0.43,
+"pop": 2835
+},
+{
 "n": "Cresson",
 "t": "township",
 "c": "Cambria",
@@ -49105,13 +49786,6 @@
 "c": "Adams",
 "share": 1.0,
 "pop": 2624
-},
-{
-"n": "North Newton",
-"t": "township",
-"c": "Cumberland",
-"share": 1.0,
-"pop": 2613
 },
 {
 "n": "Hopewell",
@@ -49496,6 +50170,13 @@
 "t": "borough",
 "c": "Cambria",
 "share": 1.0,
+"pop": 1677
+},
+{
+"n": "North Newton",
+"t": "township",
+"c": "Cumberland",
+"share": 0.642,
 "pop": 1677
 },
 {
@@ -50792,8 +51473,8 @@
 "n": "Hempfield",
 "t": "township",
 "c": "Westmoreland",
-"share": 1.0,
-"pop": 41579
+"share": 0.706,
+"pop": 29374
 },
 {
 "n": "Peters",
@@ -50992,13 +51673,6 @@
 "pop": 6624
 },
 {
-"n": "Conemaugh",
-"t": "township",
-"c": "Somerset",
-"share": 1.0,
-"pop": 6591
-},
-{
 "n": "Bullskin",
 "t": "township",
 "c": "Fayette",
@@ -51062,18 +51736,18 @@
 "pop": 5384
 },
 {
-"n": "South Huntingdon",
-"t": "township",
-"c": "Westmoreland",
-"share": 1.0,
-"pop": 5318
-},
-{
 "n": "Carroll",
 "t": "township",
 "c": "Washington",
 "share": 1.0,
 "pop": 5300
+},
+{
+"n": "South Huntingdon",
+"t": "township",
+"c": "Westmoreland",
+"share": 0.97,
+"pop": 5158
 },
 {
 "n": "Vandergrift",
@@ -51186,6 +51860,13 @@
 "c": "Somerset",
 "share": 1.0,
 "pop": 3807
+},
+{
+"n": "Conemaugh",
+"t": "township",
+"c": "Somerset",
+"share": 0.57,
+"pop": 3756
 },
 {
 "n": "Waynesburg",
@@ -51622,13 +52303,6 @@
 "pop": 1821
 },
 {
-"n": "South Mahoning",
-"t": "township",
-"c": "Indiana",
-"share": 1.0,
-"pop": 1817
-},
-{
 "n": "Fairchance",
 "t": "borough",
 "c": "Fayette",
@@ -51690,6 +52364,13 @@
 "c": "Fayette",
 "share": 1.0,
 "pop": 1660
+},
+{
+"n": "South Mahoning",
+"t": "township",
+"c": "Indiana",
+"share": 0.912,
+"pop": 1658
 },
 {
 "n": "Washington",
@@ -52715,13 +53396,6 @@
 "pop": 41228
 },
 {
-"n": "Williamsport",
-"t": "city",
-"c": "Lycoming",
-"share": 1.0,
-"pop": 27628
-},
-{
 "n": "Ferguson",
 "t": "township",
 "c": "Centre",
@@ -52874,6 +53548,13 @@
 "c": "Union",
 "share": 1.0,
 "pop": 5253
+},
+{
+"n": "Williamsport",
+"t": "city",
+"c": "Lycoming",
+"share": 0.182,
+"pop": 5042
 },
 {
 "n": "Old Lycoming",
@@ -53490,13 +54171,6 @@
 "c": "Clarion",
 "share": 1.0,
 "pop": 1829
-},
-{
-"n": "South Mahoning",
-"t": "township",
-"c": "Indiana",
-"share": 1.0,
-"pop": 1817
 },
 {
 "n": "Greene",
@@ -55347,13 +56021,6 @@
 "pop": 388
 },
 {
-"n": "Victory",
-"t": "township",
-"c": "Venango",
-"share": 1.0,
-"pop": 373
-},
-{
 "n": "Bloom",
 "t": "township",
 "c": "Clearfield",
@@ -55767,6 +56434,13 @@
 "pop": 159
 },
 {
+"n": "South Mahoning",
+"t": "township",
+"c": "Indiana",
+"share": 0.088,
+"pop": 159
+},
+{
 "n": "Portage",
 "t": "township",
 "c": "Potter",
@@ -55778,6 +56452,13 @@
 "t": "township",
 "c": "Clinton",
 "share": 1.0,
+"pop": 153
+},
+{
+"n": "Victory",
+"t": "township",
+"c": "Venango",
+"share": 0.411,
 "pop": 153
 },
 {
@@ -57484,13 +58165,6 @@
 "pop": 384
 },
 {
-"n": "Victory",
-"t": "township",
-"c": "Venango",
-"share": 1.0,
-"pop": 373
-},
-{
 "n": "Springboro",
 "t": "borough",
 "c": "Crawford",
@@ -57559,6 +58233,13 @@
 "c": "Butler",
 "share": 1.0,
 "pop": 225
+},
+{
+"n": "Victory",
+"t": "township",
+"c": "Venango",
+"share": 0.589,
+"pop": 220
 },
 {
 "n": "Venango",
@@ -57874,13 +58555,6 @@
 "c": "Allegheny",
 "share": 1.0,
 "pop": 8439
-},
-{
-"n": "Swissvale",
-"t": "borough",
-"c": "Allegheny",
-"share": 1.0,
-"pop": 8280
 },
 {
 "n": "Castle Shannon",
@@ -58217,6 +58891,13 @@
 "c": "Beaver",
 "share": 1.0,
 "pop": 2636
+},
+{
+"n": "Swissvale",
+"t": "borough",
+"c": "Allegheny",
+"share": 0.307,
+"pop": 2538
 },
 {
 "n": "Emsworth",
