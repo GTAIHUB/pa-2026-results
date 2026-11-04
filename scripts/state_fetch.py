@@ -31,8 +31,10 @@ MAX_RAW_BYTES = 4_000_000  # per saved response
 
 # The site's summary call as used by its own pages ("undefined" = the active election).
 API_GUESSES = [
-    '/api/ElectionReturn/Get?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=undefined',
+    '/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1',
 ]
+# Office pages on the state site, opened by clicking their names (the links are JavaScript, not URLs).
+OFFICE_NAMES = ['Senator in the General Assembly', 'Representative in the General Assembly', 'Representative in Congress', 'Governor']
 OFFICE_RX = re.compile(r'(general assembly|representative in congress|governor|state senat|state house|congress)', re.I)
 BLOCK_RX = re.compile(r'(access denied|request blocked|unusual traffic|captcha|forbidden|not authorized)', re.I)
 COUNTIES = set('''adams allegheny armstrong beaver bedford berks blair bradford bucks butler cambria cameron carbon
@@ -48,7 +50,7 @@ KEYS = {
     'party': ('partyname', 'party', 'partycode', 'partyabbreviation', 'partyabbr'),
     'pct': ('percentage', 'percent', 'votepercentage', 'pct'),
     'office': ('officename', 'office', 'contestname', 'racename', 'officetitle'),
-    'district': ('districtname', 'district', 'districtnumber', 'districtno'),
+    'district': ('districtname', 'district', 'districtnumber', 'districtno', 'districtid'),
     'county': ('countyname', 'county'),
 }
 
@@ -269,20 +271,35 @@ def fetch():
 
             links = page.evaluate('''() => [...document.querySelectorAll('a[href]')].map(a => ({t: (a.innerText || '').trim().slice(0, 120), h: a.href}))''')
             pages['home']['links'] = links[:300]
-            seen, todo = set(), []
-            for ln in links:
-                h = ln['h'].split('#')[0]
-                if h.startswith(BASE) and OFFICE_RX.search(ln['t'] or '') and h not in seen:
-                    seen.add(h)
-                    todo.append(ln)
-            for ln in todo[:MAX_PAGES]:
+            # Which data calls does the site's own code know about? (for troubleshooting)
+            try:
+                srcs = page.evaluate('''() => [...document.scripts].map(s => s.src).filter(Boolean)''')
+                found = {}
+                for src in srcs[:30]:
+                    if not src.startswith(BASE):
+                        continue
+                    js = page.evaluate('async (u) => (await fetch(u)).text()', src)
+                    for m in re.finditer(r'methodName=([A-Za-z]+)', js):
+                        found.setdefault(m.group(1), js[max(0, m.start() - 160):m.end() + 200])
+                pages['home']['js_methods'] = found
+            except Exception as e:
+                log.append(f'script scan failed: {e}')
+            for name in OFFICE_NAMES:
                 try:
-                    r = page.goto(ln['h'], wait_until='networkidle', timeout=60_000)
+                    page.goto(BASE + '/', wait_until='networkidle', timeout=60_000)
                     page.wait_for_timeout(1500)
+                    loc = page.get_by_text(name, exact=True).first
+                    if loc.count() == 0:
+                        log.append(f'no link named {name!r}')
+                        continue
+                    loc.click(timeout=15_000)
+                    page.wait_for_load_state('networkidle', timeout=60_000)
+                    page.wait_for_timeout(2500)
                     t = page.evaluate('document.body ? document.body.innerText : ""')
-                    pages[ln['t'][:80] or ln['h']] = {'status': r.status if r else None, 'url': page.url, 'text': t[:20000]}
+                    sel = page.evaluate('''() => [...document.querySelectorAll('select')].map(s => ({id: s.id, name: s.name, n: s.options.length, first: [...s.options].slice(0, 6).map(o => o.text + '=' + o.value)}))''')
+                    pages[name] = {'status': 200, 'url': page.url, 'text': t[:20000], 'selects': sel}
                 except Exception as e:
-                    log.append(f'page failed {ln["h"]}: {e}')
+                    log.append(f'office page failed {name}: {e}')
         browser.close()
     return caps, pages, status, detail, log
 
@@ -319,6 +336,16 @@ def main():
         detail = (f'The site loaded ({len(caps)} data responses) but no legislative, congressional or governor '
                   'results were recognized. See state/discovery.json.')
     flag, upd = banner(pages)
+    reporting = None
+    for c in caps:
+        if 'GetDashboardMessage' in c['url']:
+            try:
+                m = decode(json.loads(c['body']))
+                if isinstance(m, dict):
+                    reporting = {'message': (m.get('DistrictMessage') or '').strip(), 'reporting': to_int(m.get('ReportingDistrict')),
+                                 'total': to_int(m.get('VotingDistrict')), 'pct': to_pct(m.get('Percentage'))}
+            except Exception:
+                pass
     out = {
         'source': 'Pennsylvania Department of State, electionreturns.pa.gov (unofficial returns until certified)',
         'source_url': BASE + '/',
@@ -327,6 +354,7 @@ def main():
         'status_detail': detail,
         'site_status_text': flag,
         'site_updated_text': upd,
+        'precincts': reporting,
         'race_count': len(races),
         'races': races,
     }
@@ -354,7 +382,8 @@ def main():
         'status': status,
         'detail': detail,
         'responses': [{'url': c['url'], 'status': c['status'], 'ctype': c['ctype'], 'bytes': len(c['body'] or '')} for c in caps],
-        'pages': {k: {'status': v.get('status'), 'url': v.get('url'), 'text_start': (v.get('text') or '')[:1500]} for k, v in pages.items()},
+        'pages': {k: {'status': v.get('status'), 'url': v.get('url'), 'selects': v.get('selects'), 'text_start': (v.get('text') or '')[:3000]} for k, v in pages.items()},
+        'js_methods': (pages.get('home') or {}).get('js_methods'),
         'office_links': [ln for ln in (pages.get('home') or {}).get('links', []) if OFFICE_RX.search(ln.get('t') or '')][:60],
         'records_found': len(records),
         'races_found': sorted(races.keys()),
@@ -366,7 +395,7 @@ def main():
         raw_dir.mkdir(parents=True, exist_ok=True)
         for f in raw_dir.glob('*'):
             f.unlink()
-        for i, c in enumerate(caps[:25]):
+        for i, c in enumerate(caps[:60]):
             (raw_dir / f'{i:02d}.json').write_text(json.dumps({'url': c['url'], 'status': c['status'], 'body': (c['body'] or '')[:MAX_RAW_BYTES]}, ensure_ascii=False))
         for i, (k, v) in enumerate(pages.items()):
             (raw_dir / f'page-{i:02d}.txt').write_text(f"{k}\n{v.get('url')}\n\n{v.get('text') or ''}")
