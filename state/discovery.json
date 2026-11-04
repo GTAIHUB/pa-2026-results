@@ -9,12 +9,6 @@
    "bytes": 3046
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 39134
-  },
-  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -33,16 +27,16 @@
    "bytes": 1490
   },
   {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 39134
+  },
+  {
    "url": "https://www.electionreturns.pa.gov/scripts/Details.json",
    "status": 200,
    "ctype": "application/json",
    "bytes": 1997
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 45588
   },
   {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
@@ -57,46 +51,22 @@
    "bytes": 963
   },
   {
-   "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
+   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
    "status": 200,
-   "ctype": "application/json",
-   "bytes": 696
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
-   "status": 403,
-   "ctype": "text/html",
-   "bytes": 855
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
-   "status": 403,
-   "ctype": "text/html",
-   "bytes": 855
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 45588
   },
   {
    "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
    "status": 200,
    "ctype": "application/json",
-   "bytes": 696
+   "bytes": 676
   },
   {
    "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
    "status": 200,
    "ctype": "application/json",
-   "bytes": 696
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
-   "status": 200,
-   "ctype": "application/json",
-   "bytes": 696
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
-   "status": 200,
-   "ctype": "application/json",
-   "bytes": 696
+   "bytes": 676
   }
  ],
  "pages": {
@@ -104,10 +74,15 @@
    "status": 200,
    "url": "https://www.electionreturns.pa.gov/",
    "selects": null,
-   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.27% (Votes: 2,984,475)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.44% (Votes: 1,903,424)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.30% (Votes: 64,157)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
+   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.28% (Votes: 2,987,878)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.42% (Votes: 1,904,545)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.30% (Votes: 64,234)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
+  },
+  "Senator in the General Assembly": {
+   "status": 200,
+   "url": "https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
+   "selects": [],
+   "text_start": ""
   }
  },
- "js_methods": {},
  "office_links": [
   {
    "t": "2019 Special Election 12th Congressional District",
@@ -163,9 +138,8 @@
   "GOV"
  ],
  "log": [
-  "no link named 'Senator in the General Assembly'",
-  "no link named 'Representative in the General Assembly'",
-  "no link named 'Representative in Congress'",
-  "no link named 'Governor'"
+  "no link named 'Representative in the General Assembly' on https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
+  "no link named 'Representative in Congress' on https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1",
+  "no link named 'Governor' on https://www.electionreturns.pa.gov/General/OfficeResults?officeId=12&ElectionID=117&ElectionType=G&IsActive=1"
  ]
 }
