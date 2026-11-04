@@ -101,37 +101,11 @@ jobs:
           # Results summary page
           get "https://www.multistate.us/elections/results/pennsylvania-2026" multistate_pa_2026.html
           ls -la out
-
-      - name: Compute district-to-county shares from shapes
-        run: |
-          pip install --quiet geopandas==1.0.1 pyogrio==0.10.0 shapely==2.0.6 pandas==2.2.3
-          python - <<'EOF'
-          import json, os
-          import geopandas as gpd
-          out = {}
-          try:
-              cty = gpd.read_file('zip://out/tl_2024_us_county.zip')
-              cty = cty[cty.STATEFP == '42'][['NAME', 'geometry']].to_crs(5070)
-              for kind, f, col in [('SD', 'tl_2024_42_sldu.zip', 'SLDUST'), ('HD', 'tl_2024_42_sldl.zip', 'SLDLST'), ('PA', 'tl_2024_42_cd119.zip', 'CD119FP')]:
-                  d = gpd.read_file('zip://out/' + f).to_crs(5070)
-                  d = d[d[col].str.isdigit()]
-                  ov = gpd.overlay(d[[col, 'geometry']], cty, how='intersection', keep_geom_type=True)
-                  ov['a'] = ov.geometry.area
-                  tot = d.set_index(col).geometry.area
-                  for (dist, name), a in ov.groupby([col, 'NAME'])['a'].sum().items():
-                      share = a / tot[dist]
-                      if share >= 0.001:
-                          out.setdefault(f'{kind}-{int(dist)}', []).append([name, round(float(share), 4)])
-              for k in out:
-                  out[k].sort(key=lambda x: -x[1])
-          except Exception as e:
-              out = {'error': repr(e)}
-          json.dump(out, open('out/district_counties_from_shapes.json', 'w'), indent=1)
-          print(len(out), 'districts')
-          EOF
           rm -f out/*.zip
+          find out -name 'census_*_st*.txt' ! -name '*_st42.txt' -delete
 
       - uses: actions/upload-artifact@v4
+        if: always()
         with:
           name: reference-sources
           path: out/
