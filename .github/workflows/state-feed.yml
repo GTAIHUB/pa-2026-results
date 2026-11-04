@@ -1,10 +1,10 @@
 name: State returns feed
 
-# Reads unofficial returns from electionreturns.pa.gov every 15 minutes
+# Reads unofficial returns from electionreturns.pa.gov every 30 minutes
 # and saves them to data/state.json for the PA Election Desk site.
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '7,37 * * * *'
   workflow_dispatch:
     inputs:
       save_raw:

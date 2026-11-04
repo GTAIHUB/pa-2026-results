@@ -263,23 +263,9 @@ def fetch():
             # The office links live in the site's "Offices" menu and run JavaScript instead of
             # opening a URL, so click them inside the page the way a visitor would. No direct
             # requests to the site's data calls: its bot protection refuses those (HTTP 403).
-            # Office results pages have their own addresses. Open them like a visitor following a
-            # link and give them time to load. This does not hide the browser or work around the
-            # site's bot protection: if the site declines to serve a page, the run records that.
-            for name, oid in OFFICES:
-                try:
-                    url = f'{BASE}/General/OfficeResults?officeId={oid}&ElectionID={ELECTION_ID}&ElectionType=G&IsActive=1'
-                    r = page.goto(url, wait_until='networkidle', timeout=60_000)
-                    try:
-                        page.wait_for_function('document.body && document.body.innerText.length > 800', timeout=25_000)
-                    except Exception:
-                        log.append(f'{name}: page stayed blank after 25 s (likely refused by the site\'s bot protection)')
-                    page.wait_for_timeout(2000)
-                    t = page.evaluate('document.body ? document.body.innerText : ""')
-                    sel = page.evaluate('''() => [...document.querySelectorAll('select')].map(s => ({id: s.id, name: s.name, n: s.options.length, first: [...s.options].slice(0, 8).map(o => o.text + '=' + o.value)}))''')
-                    pages[name] = {'status': r.status if r else None, 'url': page.url, 'text': t[:20000], 'selects': sel}
-                except Exception as e:
-                    log.append(f'office page failed {name}: {type(e).__name__}: {e}'[:300])
+            # The legislative and congressional results pages (/General/OfficeResults) answer
+            # automated browsers with HTTP 403 (checked Nov. 4, 2026), so this reader does not
+            # request them. It reads only the homepage: governor and statewide reporting.
         browser.close()
     return caps, pages, status, detail, log
 
@@ -334,6 +320,7 @@ def main():
         'status_detail': detail,
         'site_status_text': flag,
         'site_updated_text': upd,
+        'coverage': 'Governor and statewide reporting only. The state site refuses automated access to legislative and congressional pages, so those counts come from news reports.',
         'precincts': reporting,
         'race_count': len(races),
         'races': races,
