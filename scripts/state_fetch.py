@@ -30,9 +30,6 @@ MAX_PAGES = 14            # office pages to open per run
 MAX_RAW_BYTES = 4_000_000  # per saved response
 
 # The site's summary call as used by its own pages ("undefined" = the active election).
-API_GUESSES = [
-    '/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1',
-]
 # Office pages on the state site, opened by clicking their names (the links are JavaScript, not URLs).
 OFFICE_NAMES = ['Senator in the General Assembly', 'Representative in the General Assembly', 'Representative in Congress', 'Governor']
 OFFICE_RX = re.compile(r'(general assembly|representative in congress|governor|state senat|state house|congress)', re.I)
@@ -261,45 +258,29 @@ def fetch():
             status, detail = 'blocked', f'The state site answered {home_status} and showed: {text[:200]!r}'
 
         if status == 'ok':
-            for g in API_GUESSES:
-                try:
-                    r = page.evaluate('''async (u) => { const r = await fetch(u, {headers: {Accept: 'application/json, text/plain, */*'}});
-                                          return {status: r.status, ctype: r.headers.get('content-type') || '', body: await r.text()}; }''', BASE + g)
-                    caps.append({'url': BASE + g, 'status': r['status'], 'ctype': r['ctype'], 'body': r['body']})
-                except Exception as e:
-                    log.append(f'api guess failed {g}: {e}')
-
-            links = page.evaluate('''() => [...document.querySelectorAll('a[href]')].map(a => ({t: (a.innerText || '').trim().slice(0, 120), h: a.href}))''')
+            links = page.evaluate('''() => [...document.querySelectorAll('a[href]')].map(a => ({t: (a.innerText || a.textContent || '').trim().slice(0, 120), h: a.href}))''')
             pages['home']['links'] = links[:300]
-            # Which data calls does the site's own code know about? (for troubleshooting)
-            try:
-                srcs = page.evaluate('''() => [...document.scripts].map(s => s.src).filter(Boolean)''')
-                found = {}
-                for src in srcs[:30]:
-                    if not src.startswith(BASE):
-                        continue
-                    js = page.evaluate('async (u) => (await fetch(u)).text()', src)
-                    for m in re.finditer(r'methodName=([A-Za-z]+)', js):
-                        found.setdefault(m.group(1), js[max(0, m.start() - 160):m.end() + 200])
-                pages['home']['js_methods'] = found
-            except Exception as e:
-                log.append(f'script scan failed: {e}')
+            # The office links live in the site's "Offices" menu and run JavaScript instead of
+            # opening a URL, so click them inside the page the way a visitor would. No direct
+            # requests to the site's data calls: its bot protection refuses those (HTTP 403).
             for name in OFFICE_NAMES:
                 try:
-                    page.goto(BASE + '/', wait_until='networkidle', timeout=60_000)
-                    page.wait_for_timeout(1500)
-                    loc = page.get_by_text(name, exact=True).first
-                    if loc.count() == 0:
-                        log.append(f'no link named {name!r}')
+                    clicked = page.evaluate('''(name) => {
+                        const a = [...document.querySelectorAll('a')].find((x) => (x.textContent || '').trim() === name);
+                        if (!a) return false;
+                        a.click();
+                        return true;
+                    }''', name)
+                    if not clicked:
+                        log.append(f'no link named {name!r} on {page.url}')
                         continue
-                    loc.click(timeout=15_000)
                     page.wait_for_load_state('networkidle', timeout=60_000)
-                    page.wait_for_timeout(2500)
+                    page.wait_for_timeout(3000)
                     t = page.evaluate('document.body ? document.body.innerText : ""')
-                    sel = page.evaluate('''() => [...document.querySelectorAll('select')].map(s => ({id: s.id, name: s.name, n: s.options.length, first: [...s.options].slice(0, 6).map(o => o.text + '=' + o.value)}))''')
+                    sel = page.evaluate('''() => [...document.querySelectorAll('select')].map(s => ({id: s.id, name: s.name, n: s.options.length, first: [...s.options].slice(0, 8).map(o => o.text + '=' + o.value)}))''')
                     pages[name] = {'status': 200, 'url': page.url, 'text': t[:20000], 'selects': sel}
                 except Exception as e:
-                    log.append(f'office page failed {name}: {e}')
+                    log.append(f'office page failed {name}: {type(e).__name__}: {e}'[:300])
         browser.close()
     return caps, pages, status, detail, log
 
@@ -383,7 +364,6 @@ def main():
         'detail': detail,
         'responses': [{'url': c['url'], 'status': c['status'], 'ctype': c['ctype'], 'bytes': len(c['body'] or '')} for c in caps],
         'pages': {k: {'status': v.get('status'), 'url': v.get('url'), 'selects': v.get('selects'), 'text_start': (v.get('text') or '')[:3000]} for k, v in pages.items()},
-        'js_methods': (pages.get('home') or {}).get('js_methods'),
         'office_links': [ln for ln in (pages.get('home') or {}).get('links', []) if OFFICE_RX.search(ln.get('t') or '')][:60],
         'records_found': len(records),
         'races_found': sorted(races.keys()),
