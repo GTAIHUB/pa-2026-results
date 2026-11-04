@@ -85,19 +85,38 @@ def main():
     cs = cs.to_crs(EQ_AREA)
     cs['area'] = cs.geometry.area
 
-    # Philadelphia neighborhoods (optional)
-    hoods = None
+    # City neighborhoods (optional): Philadelphia and Pittsburgh are each one municipality
+    def load_hoods(path_or_url, local):
+        g = gpd.read_file(get(path_or_url, local) if path_or_url.startswith('http') else path_or_url).to_crs(EQ_AREA)
+        cols = [c for c in g.columns if c != 'geometry' and g[c].dtype == object]
+        name_col = next((c for c in cols if c.lower() in ('mapname', 'listname', 'hood', 'neighborhood', 'name')), None) or \
+            next((c for c in cols if 'hood' in c.lower() or 'name' in c.lower()), None)
+        g = g[[name_col, 'geometry']].rename(columns={name_col: 'hood'})
+        g['harea'] = g.geometry.area
+        return g
+    hoods = {}
     try:
-        p = get('https://raw.githubusercontent.com/azavea/geo-data/master/Neighborhoods_Philadelphia/Neighborhoods_Philadelphia.geojson',
-                f'{W}/phl_hoods.geojson')
-        hoods = gpd.read_file(p).to_crs(EQ_AREA)
-        name_col = next(c for c in ('mapname', 'MAPNAME', 'listname', 'LISTNAME', 'name', 'NAME') if c in hoods.columns)
-        hoods = hoods[[name_col, 'geometry']].rename(columns={name_col: 'hood'})
-        hoods['harea'] = hoods.geometry.area
-        print('Philadelphia neighborhoods:', len(hoods))
+        hoods['Philadelphia'] = load_hoods('https://raw.githubusercontent.com/opendataphilly/odp-data-storage/master/philadelphia-neighborhoods/philadelphia-neighborhoods.geojson', f'{W}/phl_hoods.geojson')
+        print('Philadelphia neighborhoods:', len(hoods['Philadelphia']))
     except Exception as e:
         print('Philadelphia neighborhoods unavailable:', e)
-        hoods = None
+    try:
+        base_url = 'https://services1.arcgis.com/YZCmUqbcsUpOKfj7/ArcGIS/rest/services'
+        svc = json.load(urllib.request.urlopen(urllib.request.Request(base_url + '?f=json', headers=UA), timeout=60))
+        names = [x['name'] for x in svc.get('services', []) if 'eighborhood' in x['name'] and x.get('type') == 'FeatureServer']
+        print('Pittsburgh neighborhood services:', names[:8])
+        for nm in names:
+            try:
+                url = f'{base_url}/{nm}/FeatureServer/0/query?where=1%3D1&outFields=*&outSR=4326&f=geojson'
+                g = load_hoods(url, f'{W}/pgh_{nm}.geojson')
+                if 60 <= len(g) <= 120:  # Pittsburgh has about 90 neighborhoods
+                    hoods['Pittsburgh'] = g
+                    print('Pittsburgh neighborhoods:', nm, len(g))
+                    break
+            except Exception as e:
+                print('  skip', nm, e)
+    except Exception as e:
+        print('Pittsburgh neighborhoods unavailable:', e)
 
     out = {}
     for kind, col in (('SD', 'SLDUST'), ('HD', 'SLDLST'), ('PA', 'CD119FP')):
@@ -105,7 +124,7 @@ def main():
         d = d[d[col].str.isdigit()][[col, 'geometry']]
         ov = gpd.overlay(d, cs[['NAME', 't', 'county', 'pop', 'area', 'geometry']], how='intersection', keep_geom_type=True)
         ov['part_area'] = ov.geometry.area
-        ov['share'] = ov.part_area / ov.area
+        ov['share'] = ov['part_area'] / ov['area']  # ov.area would be the geometry's area, not the column
         for dist, g in ov.groupby(col):
             rid = f'{kind}-{int(dist)}'
             tot = g.part_area.sum()
@@ -120,12 +139,16 @@ def main():
                 places.append({'n': r.NAME, 't': r.t, 'c': r.county, 'share': round(float(min(r.share, 1.0)), 3), 'pop': est})
             places.sort(key=lambda p: (-(p['pop'] or 0), -p['share']))
             entry = {'counties': counties, 'places': places}
-            if hoods is not None and any(p['n'] == 'Philadelphia' for p in places):
+            for city, hg in hoods.items():
+                if not any(p['n'] == city for p in places):
+                    continue
                 geom = d[d[col] == dist].geometry.iloc[0]
-                hh = hoods[hoods.intersects(geom)].copy()
-                hh['in'] = hh.geometry.intersection(geom).area / hh.harea
+                hh = hg[hg.intersects(geom)].copy()
+                hh['in'] = hh.geometry.intersection(geom).area / hh['harea']
                 hh = hh[hh['in'] >= 0.25].sort_values('in', ascending=False)
-                entry['neighborhoods'] = [str(x) for x in hh.hood.tolist()]
+                names = [str(x).strip() for x in hh.hood.tolist() if str(x).strip()]
+                if names:
+                    entry.setdefault('neighborhoods', {})[city] = names
             out[rid] = entry
         print(kind, 'districts:', sum(1 for k in out if k.startswith(kind + '-')))
 
