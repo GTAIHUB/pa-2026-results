@@ -52,21 +52,36 @@ def main():
     cs = cs[cs.ALAND > 0].merge(cty, on='COUNTYFP', how='left')
     # 2020 Census population by county subdivision (public API, no key needed for one call)
     pop = {}
-    try:
-        url = ('https://api.census.gov/data/2020/dec/pl?get=P1_001N&for=county%20subdivision:*'
-               '&in=state:42&in=county:*')
+    try:  # Census population estimates for every municipality (static file, no key)
+        import csv, io
+        url = 'https://www2.census.gov/programs-surveys/popest/datasets/2020-2024/cities/totals/sub-est2024.csv'
         req = urllib.request.Request(url, headers=UA)
-        rows = json.load(urllib.request.urlopen(req, timeout=120))
-        h = rows[0]
-        for r in rows[1:]:
-            d = dict(zip(h, r))
-            pop[d['county'] + d['county subdivision']] = int(d['P1_001N'])
-        print('population rows:', len(pop))
-    except Exception as e:  # rank by land area instead
-        print('population lookup failed, ranking by area:', e)
+        raw = urllib.request.urlopen(req, timeout=180).read().decode('latin-1')
+        for r in csv.DictReader(io.StringIO(raw)):
+            if r.get('STATE') == '42' and r.get('SUMLEV') == '061':
+                v = r.get('POPESTIMATE2024') or r.get('ESTIMATESBASE2020') or ''
+                if v.isdigit():
+                    pop[r['COUNTY'] + r['COUSUB']] = int(v)
+        print('population rows (popest 2024):', len(pop))
+    except Exception as e:
+        print('population estimates failed:', e)
+    if not pop:
+        try:
+            url = ('https://api.census.gov/data/2020/dec/pl?get=P1_001N&for=county%20subdivision:*'
+                   '&in=state:42%20county:*')
+            req = urllib.request.Request(url, headers=UA)
+            body = urllib.request.urlopen(req, timeout=120).read().decode('utf-8', 'replace')
+            rows = json.loads(body)
+            h = rows[0]
+            for r in rows[1:]:
+                d = dict(zip(h, r))
+                pop[d['county'] + d['county subdivision']] = int(d['P1_001N'])
+            print('population rows (2020 Census):', len(pop))
+        except Exception as e:
+            print('population lookup failed, ranking by area:', e)
     cs['key'] = cs.COUNTYFP + cs.COUSUBFP
     cs['pop'] = cs.key.map(pop)
-    cs['t'] = cs.NAMELSAD.str.replace(cs.NAME, '', regex=False).str.strip()
+    cs['t'] = [str(full).replace(str(short), '', 1).strip() for full, short in zip(cs.NAMELSAD, cs.NAME)]
     cs = cs.to_crs(EQ_AREA)
     cs['area'] = cs.geometry.area
 
