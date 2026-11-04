@@ -14,7 +14,7 @@ on:
       task:
         description: 'What to run'
         type: choice
-        options: [state-count, fetch-sources]
+        options: [state-count, fetch-sources, district-places]
         default: state-count
 
 permissions:
@@ -27,7 +27,7 @@ concurrency:
 
 jobs:
   read-state-site:
-    if: github.event_name == 'schedule' || inputs.task != 'fetch-sources'
+    if: github.event_name == 'schedule' || inputs.task == 'state-count' || inputs.task == ''
     runs-on: ubuntu-latest
     timeout-minutes: 12
     steps:
@@ -116,5 +116,29 @@ jobs:
           git add reference
           if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
           git commit -m "Reference sources: Census district-to-county files and candidate lists"
+          for i in 1 2 3; do git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 7; done
+          exit 1
+
+  district-places:
+    # One-time helper: which counties and municipalities each district covers.
+    if: github.event_name == 'workflow_dispatch' && inputs.task == 'district-places'
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install map tools
+        run: pip install geopandas==1.0.1 pyogrio==0.10.0 shapely==2.0.6 pandas==2.2.3
+      - name: Build district places
+        run: python scripts/build_places.py
+      - name: Save to the repository
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reference/district_places.json
+          if git diff --cached --quiet; then echo "Nothing new."; exit 0; fi
+          git commit -m "Reference: counties and municipalities by district (Census TIGER 2024)"
           for i in 1 2 3; do git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0; sleep 7; done
           exit 1
