@@ -1,0 +1,2217 @@
+[
+ {
+  "id": "GOV-josh-shapiro",
+  "race_id": "GOV",
+  "name": "Josh Shapiro",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "Governor since 2023; age 53; Montgomery County. Served three terms in the state House and six years as attorney general. Running mate: Lt. Gov. Austin Davis.",
+  "platform": "Abortion access; legalizing recreational marijuana; an 'all of the above' energy approach including solar, wind, oil and gas; tighter data center standards; public school funding and economic development; LGBTQ rights.",
+  "endorsements": null,
+  "money": "Raised tens of millions and had over 34 times Garrity's cash on hand in June. Top donors include Michael Bloomberg, IBEW Local 98's committee, Greater PA Carpenters PAC, Democracy PAC II (started by George Soros) and Christian Larsen. Put $10 million of campaign money into flipping congressional seats and the state Senate.",
+  "notes": "Senate Republicans blocked his minimum wage, gun and LGBTQ nondiscrimination priorities; budgets passed late; critics cite his executive orders and a shifting data center stance. Often mentioned as a possible 2028 presidential candidate.",
+  "sources": [
+   {
+    "name": "Spotlight PA governor guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"
+   },
+   {
+    "name": "Philadelphia Inquirer",
+    "url": "https://www.inquirer.com/politics/election/live/election-2026-results-pa-nj-senate-house-updates-20261104.html"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "GOV-stacy-garrity",
+  "race_id": "GOV",
+  "name": "Stacy Garrity",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "State treasurer since 2021, re-elected in 2024; age 62; Bradford County. Former vice president of government affairs at Global Tungsten & Powders; retired Army Reserve colonel with three deployments and two Bronze Stars. Running mate: attorney Jason Richey.",
+  "platform": "Pro-life with exceptions for rape, incest and the life of the mother; opposes recreational marijuana; a special session on energy costs, lower utility taxes and more natural gas production; a pause on data centers.",
+  "endorsements": null,
+  "money": "Raised almost $5.4 million Sept. 15 to Oct. 19, much tied to the skill games industry. Top donors include University City Housing Co. (Michael Karp), Keystone Honor PAC, Bob Asher and PA Future Fund, and skill games founder Michael Pace.",
+  "notes": "Questioned 2020 election results at a 2022 rally. Drew scrutiny for a $45 million Israel Bonds purchase, a $500 million loan program during the 2025 budget impasse (she denies it was political) and a reported $33,500 flight from Pace.",
+  "sources": [
+   {
+    "name": "Spotlight PA governor guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "GOV-ken-krawchuk",
+  "race_id": "GOV",
+  "name": "Ken Krawchuk",
+  "party": "L",
+  "party_name": "Libertarian",
+  "role": "Challenger",
+  "background": "Founded an IT consulting firm; works as a 'business architect' for pharmaceutical, insurance and financial firms; Abington. Running mate: educator John Thomas.",
+  "platform": "Privatize schools; end school property taxes; phase out the state income tax; end mail ballots; expand voter ID; decriminalize drugs.",
+  "endorsements": null,
+  "money": null,
+  "notes": "The only third-party candidate on the November ballot.",
+  "sources": [
+   {
+    "name": "Spotlight PA governor guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/josh-shapiro-stacy-garrity-pennsylvania-governor-election-guide-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-6-eileen-hartnett-albillar",
+  "race_id": "SD-6",
+  "name": "Eileen Hartnett Albillar",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Bucks County clerk of courts since 2024; licensed social worker with nearly 30 years in government and nonprofit work; Warrington Township supervisor 2018-2023; age 52; lives in Warrington.",
+  "platform": "Raise the minimum wage to a livable wage; more public school funding; long-term SEPTA funding; lower energy costs and hold utilities accountable for fees; restore bipartisanship.",
+  "endorsements": "EMILY's List, Planned Parenthood Action PAC, American Federation of Teachers, Philadelphia Federation of Teachers, League of Conservation Voters, Sierra Club and Bucks County Democrats, among others.",
+  "money": "Backed by the Senate Democratic campaign committee, which spent about $12 million on Republican-held seats June 8 to Oct. 19 (no per-race figure published).",
+  "notes": "Farry's lawyer sent her campaign a cease-and-desist letter calling her 'data senator' ad defamatory. She pressed Farry to drop his co-sponsorship of SB 933, which would expand automated license plate readers.",
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-sixth-district-voter-guide/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   },
+   {
+    "name": "Philadelphia Inquirer",
+    "url": "https://www.inquirer.com/politics/election/frank-farry-eileen-hartnett-albillar-bucks-county-campaign-ad-cease-and-desist-20260925.html"
+   },
+   {
+    "name": "Northeast Times",
+    "url": "https://northeasttimes.com/2026/09/04/bucks-county-s-6th-senate-district-race-could-tip-the-pennsylvania-senate/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-6-frank-farry",
+  "race_id": "SD-6",
+  "name": "Frank Farry",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State senator since 2023; state House 2008-2022; fire chief of the Langhorne-Middletown Fire Company for 26 years; age 53; Langhorne.",
+  "platform": "Says he authored or co-authored 55 bills that became law. Backed PACE/PACENet expansion, no-cost follow-up breast imaging and pushback on PECO rate hikes. Supports annual minimum wage increases, a youth activities tax credit, open primaries and long-term SEPTA funding, though he voted against a House SEPTA bill in 2025.",
+  "endorsements": "AFL-CIO, IBEW Locals 98 and 269, Teamsters PA Conference, Pennsylvania State Education Association, Bucks County FOP Lodge 53 and the Pennsylvania Professional Firefighters Association, among others.",
+  "money": "One of three GOP senators who received $7.2 million combined from PA Education Choice Fund (Aug. to mid-Oct.), whose only donor is the Jeff Yass-funded Students First. Also significant Senate Republican committee support.",
+  "notes": "Sent the cease-and-desist letter over Hartnett Albillar's 'data senator' ad.",
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-sixth-district-voter-guide/"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   },
+   {
+    "name": "Philadelphia Inquirer",
+    "url": "https://www.inquirer.com/politics/election/frank-farry-eileen-hartnett-albillar-bucks-county-campaign-ad-cease-and-desist-20260925.html"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-14-nick-miller",
+  "race_id": "SD-14",
+  "name": "Nick Miller",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "State senator since 2023; from Allentown. Republicans targeted the seat; Harris won the district by less than a point in 2024.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Wikipedia: Pa. Senate",
+    "url": "https://en.wikipedia.org/wiki/Pennsylvania_State_Senate"
+   },
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-14-omy-maldonado",
+  "race_id": "SD-14",
+  "name": "Omy Maldonado",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Tech consultant.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-16-mark-pinsley",
+  "race_id": "SD-16",
+  "name": "Mark Pinsley",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Lehigh County controller. Lost this seat to Pat Browne in 2018 and to Coleman in 2022 (54.2% to 45.8%); won the 2026 Democratic primary over Bradley Merkl-Gump.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": "Backed by the Senate Democratic campaign committee (no per-race figure published).",
+  "notes": "Declared victory late on election night with a 2,637-vote lead.",
+  "sources": [
+   {
+    "name": "Ballotpedia",
+    "url": "https://ballotpedia.org/Pennsylvania_State_Senate_District_16"
+   },
+   {
+    "name": "Bucks County Herald",
+    "url": "https://www.buckscountyherald.com/news/election/merkl-gump-concedes-pa-senate-democratic-primary-pinsley-to-face-coleman/article_608b19a7-2b3a-414a-ba31-6f25c0c971e1.html"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   },
+   {
+    "name": "Lehigh Valley Public Media",
+    "url": "https://www.lehighvalleypublicmedia.org/news/elections/pinsley-declares-victory-in-16th-district-senate-race/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-16-jarrett-coleman",
+  "race_id": "SD-16",
+  "name": "Jarrett Coleman",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State senator since 2023; airline pilot and former Parkland School Board member who unseated longtime Sen. Pat Browne in the 2022 Republican primary.",
+  "platform": "Spotlight PA describes him as a conservative critic of Gov. Shapiro.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Armchair Lehigh Valley",
+    "url": "https://armchairlehighvalley.substack.com/p/jarrett-coleman-emerges-on-top-of"
+   },
+   {
+    "name": "Ballotpedia",
+    "url": "https://ballotpedia.org/Pennsylvania_State_Senate_District_16"
+   },
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-24-chris-thomas",
+  "race_id": "SD-24",
+  "name": "Chris Thomas",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Former executive director of the Montgomery County Democratic Committee; former Philadelphia middle school math and science teacher; volunteer firefighter; lives in Perkiomenville. Geology degree (Akron) and environmental policy master's (Drexel).",
+  "platform": "Affordability (groceries, utilities, fuel, housing); health care costs and access; school funding and child care; strict data center regulation; a ban on surveillance pricing; insurance pre-authorization reform.",
+  "endorsements": "Pennsylvania Working Families Party, PSEA, Planned Parenthood, Conservation Voters, States WIN, 314 Action, Run for Something and building-trades locals, among 22.",
+  "money": "Backed by the Senate Democratic campaign committee (no per-race figure published).",
+  "notes": null,
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-24th-district-voter-guide/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-24-tracy-pennycuick",
+  "race_id": "SD-24",
+  "name": "Tracy Pennycuick",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State senator since 2023; elected to the state House (147th) in 2020. Army combat medic and Army Reserve aviation; ran an aviation consulting business; directed Montgomery County's Office of Veteran Affairs; Harleysville.",
+  "platform": "Government efficiency and affordability, public safety, helping seniors age in place. Touts a 2024 law on AI-generated child sexual abuse material and Act 52 of 2025, which removed costs for diagnostic breast exams.",
+  "endorsements": "Pennsylvania Chamber of Business and Industry, Pennsylvania Manufacturers' Association PAC, Gun Owners of America, Pennsylvania Pro-Life Federation and state trooper and FOP lodges, among 12.",
+  "money": "One of three GOP senators who received $7.2 million combined from the Yass-funded PA Education Choice Fund (Aug. to mid-Oct.); significant Senate Republican committee support.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-24th-district-voter-guide/"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-24-michael-schonewolf-jr",
+  "race_id": "SD-24",
+  "name": "Michael Schonewolf Jr.",
+  "party": "G",
+  "party_name": "Green",
+  "role": "Challenger",
+  "background": "Sanitation worker at Phoenixville Hospital; lives in Skippack. Now identifies as a communist.",
+  "platform": "Oppose data center construction; $25 minimum wage; cap or freeze energy bills; shut down ICE detention facilities; pledges to take no AI-industry money.",
+  "endorsements": "None listed in WHYY's guide.",
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-24th-district-voter-guide/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-36-tom-jones",
+  "race_id": "SD-36",
+  "name": "Tom Jones",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "State representative since 2023; former East Donegal Township supervisor; ran a landscaping business for decades; church elder; Freedom Caucus member.",
+  "platform": "Low taxes; school alternatives including vouchers; proof of citizenship to vote; parental consent for school materials deemed sexually explicit; Second Amendment; sports teams by sex at birth. Backed a six-week abortion ban in his first run. This race: health care costs, jobs, term limits, opposition to unregulated data centers.",
+  "endorsements": null,
+  "money": "Received $1.45 million from Commonwealth Children's Choice Fund, which got $5.5 million from the Yass-funded Students First (Spotlight PA, Nov. 2). Significant Senate Republican committee support.",
+  "notes": "In September, Jones disputed Malone's ads saying he took money from a 'Philadelphia billionaire' (Jeff Yass). His campaign attacked Malone over 2006-07 blog posts.",
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/09/james-malone-tom-jones-lancaster-pennsylvania-senate-democratic-trifecta-elections/"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-36-james-malone",
+  "race_id": "SD-36",
+  "name": "James Malone",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "State senator since a March 2025 special election upset in a district Trump won by 15 points; former part-time mayor of East Petersburg; software developer.",
+  "platform": "Opposes unregulated data centers; cost-cutting and bipartisan compromise; backed the Working Pennsylvanians Tax Credit, law enforcement funding, expanded Sunday hunting and a minimum wage increase.",
+  "endorsements": "Gov. Josh Shapiro.",
+  "money": "Benefited heavily from the Senate Democratic campaign committee (no amount published).",
+  "notes": "Voted on his first day to ban transgender athletes from girls' and women's sports, angering Lancaster Stands Up, which had backed him. His campaign says the old blog posts Jones attacked condemned an extremist group.",
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/09/james-malone-tom-jones-lancaster-pennsylvania-senate-democratic-trifecta-elections/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-38-lindsey-williams",
+  "race_id": "SD-38",
+  "name": "Lindsey Williams",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "State senator; age 43; West View. Harris won the district by 10 points in 2024.",
+  "platform": "Prime sponsor of the Transit for All PA funding package; $15+ minimum wage indexed to inflation; regulated marijuana legalization; SB 724, requiring data center community benefit agreements and ratepayer protections.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   },
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-38-thomas-west",
+  "race_id": "SD-38",
+  "name": "Thomas West",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Clothing store owner; age 50; Highland Park. Lost a 2025 bid for the Republican nomination for Pittsburgh mayor.",
+  "platform": "Did not answer PublicSource's candidate questionnaire.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-40-brian-wrightson",
+  "race_id": "SD-40",
+  "name": "Brian Wrightson",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Owns a company that manages communications infrastructure and broadband expansion; background in telecom, emergency management and public safety.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": "Backed by the Senate Democratic campaign committee (no per-race figure published).",
+  "notes": "A September State Navigate poll had Brown ahead 47-44.",
+  "sources": [
+   {
+    "name": "Branch voter guide",
+    "url": "https://branch.vote/races/2026-pennsylvania-general-election--pa-state-state-senator-pa-state-senate-40/candidates/brian-wrightson"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   },
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-40-rosemary-brown",
+  "race_id": "SD-40",
+  "name": "Rosemary Brown",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State senator since 2023; state House 2011-2022; chairs the Senate Community, Economic and Recreational Development Committee; Middle Smithfield Township.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": "One of three GOP senators who received $7.2 million combined from the Yass-funded PA Education Choice Fund (Aug. to mid-Oct.).",
+  "notes": null,
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Rosemary_Brown_(American_politician)"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-46-camera-bartolotta",
+  "race_id": "SD-46",
+  "name": "Camera Bartolotta",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State senator (Monongahela). Survived a 2026 Republican primary in which millions in outside money attacked her.",
+  "platform": "Backs SB 1345, letting towns impose local data center moratoriums; voted to remove special data center tax breaks; says SB 991 would steer data centers to remote brownfields.",
+  "endorsements": null,
+  "money": "Campaign spent $1.2 million June 9 to Oct. 19; the Senate Republican committee's biggest beneficiary.",
+  "notes": "Called Borello a 'far-left community organizer and environmental extremist.'",
+  "sources": [
+   {
+    "name": "Axios Pittsburgh",
+    "url": "https://www.axios.com/local/pittsburgh/2026/08/24/jodi-borello-data-centers-pennsylvania-senate"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "SD-46-jodi-borello",
+  "race_id": "SD-46",
+  "name": "Jodi Borello",
+  "party": "I",
+  "party_name": "Independent",
+  "role": "Challenger",
+  "background": "Former organizer at the Center for Coalfield Justice; South Franklin Township; has switched between Republican and independent registration.",
+  "platform": "A state data center moratorium until regulations pass; higher minimum wage; end tax breaks for large corporations; stronger worker protections. Says she would not caucus with either party.",
+  "endorsements": null,
+  "money": "Campaign spent $628,000 May 22 to Oct. 19. Received at least $420,000 Sept. 11 to Oct. 15 from PAC for America's Future, PA United PAC and Rural People Rising (funded partly by the Working Families Party PAC), plus $10,000 from Sen. Katie Muth (D).",
+  "notes": null,
+  "sources": [
+   {
+    "name": "Axios Pittsburgh",
+    "url": "https://www.axios.com/local/pittsburgh/2026/08/24/jodi-borello-data-centers-pennsylvania-senate"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-12-brandon-dukes",
+  "race_id": "HD-12",
+  "name": "Brandon Dukes",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "Won the August 2026 special election in a district Trump won by 18 points; construction loan administrator; lost a 2025 Cranberry Township supervisor race by 119 votes.",
+  "platform": "Public school funding; raise the minimum wage; same-day registration and open primaries.",
+  "endorsements": null,
+  "money": "House Democrats gave $110,000 on Aug. 3, 2026, plus earlier union and caucus support.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "WESA",
+    "url": "https://www.wesanews.org/politics-government/2026-08-10/state-house-special-butler-timko-dukes"
+   },
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-12-scott-timko",
+  "race_id": "HD-12",
+  "name": "Scott Timko",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Retired Air Force captain who works as a pilot; lost the August special election to Dukes.",
+  "platform": "Self-described 'fierce conservative'; taxpayer-funded school vouchers; infrastructure; oil and gas drilling; skeptical of data centers in Butler County.",
+  "endorsements": null,
+  "money": "Largely self-funded (about $76,000 spent as of June); the state Republican Party spent more than $50,000 on mailers for him in the special election.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "WESA",
+    "url": "https://www.wesanews.org/politics-government/2026-08-10/state-house-special-butler-timko-dukes"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-13-madelyn-alvarino",
+  "race_id": "HD-13",
+  "name": "Madelyn Alvarino",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Former public school teacher, businesswoman and caregiver.",
+  "platform": "Household costs, public school funding, health care access, protecting affordable public water.",
+  "endorsements": "Gov. Josh Shapiro.",
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "MyChesCo",
+    "url": "https://www.mychesco.com/a/news/shapiro-backs-alvarino-in-chester-county-house-race/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-13-john-lawrence",
+  "race_id": "HD-13",
+  "name": "John Lawrence",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative since 2011.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "MyChesCo",
+    "url": "https://www.mychesco.com/a/news/shapiro-backs-alvarino-in-chester-county-house-race/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-16-rob-matzie",
+  "race_id": "HD-16",
+  "name": "Rob Matzie",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-16-john-costanza",
+  "race_id": "HD-16",
+  "name": "John Costanza",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-18-k-c-tomlinson",
+  "race_id": "HD-18",
+  "name": "K.C. Tomlinson",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-18-bryan-allen",
+  "race_id": "HD-18",
+  "name": "Bryan Allen",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-28-jeremy-shaffer",
+  "race_id": "HD-28",
+  "name": "Jeremy Shaffer",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative; age 49; Pine.",
+  "platform": "Did not answer PublicSource's candidate questionnaire.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-28-jeremy-ferderber",
+  "race_id": "HD-28",
+  "name": "Jeremy Ferderber",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Vice president at Frankferd Farms Foods; age 48; Richland.",
+  "platform": "Rethink regional transit planning; involve state police in immigration matters only with a state judge's criminal warrant; $15 minimum wage as a start; regulated adult-use marijuana; enforceable data center guardrails and repeal of their sales tax exemption.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Criticizes Shaffer for not voting for HB 1834 on data centers.",
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-40-natalie-mihalek",
+  "race_id": "HD-40",
+  "name": "Natalie Mihalek",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative seeking a fifth term; won by 14 points in 2022 and 21 in 2024.",
+  "platform": "Did not answer PublicSource's candidate questionnaire.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-40-jon-lloyd",
+  "race_id": "HD-40",
+  "name": "Jon Lloyd",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Works in technology; age 45; Bethel Park.",
+  "platform": "More stable state transit funding; bar state employees from helping federal immigration agents; phase the minimum wage to $15 over three years; open primaries and earlier mail-ballot processing; marijuana legalization.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-41-brett-miller",
+  "race_id": "HD-41",
+  "name": "Brett Miller",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-41-brad-chambers",
+  "race_id": "HD-41",
+  "name": "Brad Chambers",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-44-valerie-gaydos",
+  "race_id": "HD-44",
+  "name": "Valerie Gaydos",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative seeking a fifth term; age 59; Edgeworth; won by 10 points in 2022 and 8 in 2024.",
+  "platform": "Supported this year's bipartisan transit aid compromise; supports a careful minimum wage increase with stakeholder input; opposes marijuana legalization; supports pre-registration for 18-year-olds and Election Day morning mail-ballot processing.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-44-hadley-haas",
+  "race_id": "HD-44",
+  "name": "Hadley Haas",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Community advocate; age 54; Glen Osborne; rematch with Gaydos.",
+  "platform": "New transit funding including public-private partnerships and regulating skill games; no state help for federal immigration enforcement; $15 minimum wage; early voting and open primaries; marijuana legalization; statewide data center rules (HB 1834) and a 180-day local pause (HB 2496).",
+  "endorsements": null,
+  "money": "Named by Spotlight PA among Democrats who benefited from PAC for America's Future, which gave nearly $7.8 million to Pa. legislative candidates in 2026.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "PublicSource voter guide",
+    "url": "https://www.publicsource.org/pittsburgh-voter-guide-2026-midterms/"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-45-brittany-bloam",
+  "race_id": "HD-45",
+  "name": "Brittany Bloam",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Open seat",
+  "background": "Running for the seat held by Democrat Anita Astorino Kulik.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-45-james-julius",
+  "race_id": "HD-45",
+  "name": "James Julius",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Open seat",
+  "background": "Running for the seat held by Democrat Anita Astorino Kulik.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-72-frank-burns",
+  "race_id": "HD-72",
+  "name": "Frank Burns",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "Conservative Democrat who has held a Johnstown-area district that Trump won by more than 31 points in 2024.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": "House Democrats' committee sent about $1.6 million to his race.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-72-phil-rice",
+  "race_id": "HD-72",
+  "name": "Phil Rice",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Army veteran.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-88-sara-agerton",
+  "race_id": "HD-88",
+  "name": "Sara Agerton",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Open seat",
+  "background": "Ran for the seat of retiring Republican Rep. Sheryl Delozier in a fast-growing West Shore district Trump won by less than a point.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": "Named by Spotlight PA among Democrats who benefited from PAC for America's Future.",
+  "notes": "abc27 reports an apparent win that would flip the seat.",
+  "sources": [
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   },
+   {
+    "name": "abc27",
+    "url": "https://www.abc27.com/election/sarah-agertons-apparent-win-flips-pennsylvania-88th-house-district-seat/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-88-jeff-clark",
+  "race_id": "HD-88",
+  "name": "Jeff Clark",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Open seat",
+  "background": "Ran for the seat of retiring Republican Rep. Sheryl Delozier.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-118-jim-haddock",
+  "race_id": "HD-118",
+  "name": "Jim Haddock",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-118-john-lombardo",
+  "race_id": "HD-118",
+  "name": "John Lombardo",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-121-jessica-mcclay",
+  "race_id": "HD-121",
+  "name": "Jessica McClay",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Open seat",
+  "background": "Running for the seat held by Democrat Eddie Day Pashinski.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-121-mike-harostock",
+  "race_id": "HD-121",
+  "name": "Mike Harostock",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Open seat",
+  "background": "Running for the seat held by Democrat Eddie Day Pashinski.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-131-meriam-sabih",
+  "race_id": "HD-131",
+  "name": "Meriam Sabih",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-131-milou-mackenzie",
+  "race_id": "HD-131",
+  "name": "Milou Mackenzie",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-137-jeff-warren",
+  "race_id": "HD-137",
+  "name": "Jeff Warren",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Northampton County Council member; two terms on Easton City Council; former Hanover Township supervisor; 13 years as an aide to state Sen. Lisa Boscola; outreach director at CASA SHaW, a foster-care nonprofit; Penn State and Kutztown graduate.",
+  "platform": "Says the incumbent sided with warehouse developers; wants an advocate for 'working folks, families, children.'",
+  "endorsements": null,
+  "money": "House Democrats' committee ran ads backing him.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "WFMZ",
+    "url": "https://www.wfmz.com/news/area/lehighvalley/northampton-county/jeff-warren-announces-candidacy-for-pennsylvania-s-137th-house-district/article_85ac824b-a519-4496-aab7-b8e5cca995a4.html"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-137-joe-emrick",
+  "race_id": "HD-137",
+  "name": "Joe Emrick",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-142-joe-hogan",
+  "race_id": "HD-142",
+  "name": "Joe Hogan",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative since 2023; age 38; Langhorne. Former program director at the Bucks County Redevelopment Authority and aide to former U.S. Rep. Mike Fitzpatrick; newly commissioned JAG officer in the Pennsylvania Army National Guard; Penn State and Temple Law.",
+  "platform": "School funding and constituent services; a utility-cost rebate for seniors and people with disabilities; a youth activities tax credit; a physical health tax credit up to $1,000; regulatory reform, child care and housing costs.",
+  "endorsements": "IAFF Local 22, FOP Lodge 40, PA Realtors PAC, UFCW 1776.",
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-142nd-district-voter-guide/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-142-kristin-egan",
+  "race_id": "HD-142",
+  "name": "Kristin Egan",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Public school English teacher for more than 20 years; former chief union negotiator in Neshaminy School District; elected Neshaminy school board member; age 45; Langhorne.",
+  "platform": "Fair school funding; raise the minimum wage; environmental protection; police and EMS; cost-of-living relief; child care and housing; property tax relief for retirees.",
+  "endorsements": "AFT Pennsylvania, AFL-CIO, Sierra Club, Planned Parenthood PAC, EMILY's List, Everytown for Gun Safety and Bucks County Democrats, among about 22.",
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-142nd-district-voter-guide/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-143-shelby-labs",
+  "race_id": "HD-143",
+  "name": "Shelby Labs",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-143-tim-hayes",
+  "race_id": "HD-143",
+  "name": "Tim Hayes",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-143-chris-gambino",
+  "race_id": "HD-143",
+  "name": "Chris Gambino",
+  "party": "I",
+  "party_name": "Independent",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-144-brian-munroe",
+  "race_id": "HD-144",
+  "name": "Brian Munroe",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "Holds a district Trump won in 2024; an August State Navigate poll had him ahead by 12 points.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-144-mike-murphy",
+  "race_id": "HD-144",
+  "name": "Mike Murphy",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA races to watch",
+    "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-147-margaret-burke",
+  "race_id": "HD-147",
+  "name": "Margaret Burke",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Molecular pathologist with a Cornell biology degree, a Ph.D. from SUNY Stony Brook and a Cornell MBA; formerly in the pharmaceutical business; Lower Salford Township.",
+  "platform": "Affordability; health care access, especially for children, families and people with disabilities; public schools and special education.",
+  "endorsements": "U.S. Rep. Madeleine Dean.",
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "North Penn Now",
+    "url": "https://northpennnow.com/news/2026/jan/15/scientist-dr-margaret-burke-announces-run-for-pa-house-147th-district-seat"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-147-donna-scheuren",
+  "race_id": "HD-147",
+  "name": "Donna Scheuren",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative since 2023, in her second term.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Donna_Scheuren"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-160-elizabeth-moro",
+  "race_id": "HD-160",
+  "name": "Elizabeth Moro",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Small business owner (Centreville Place cafe and market) and real estate agent; author; age 53; Chadds Ford. Lost to Williams in 2024.",
+  "platform": "Affordability; health care access after the Crozer Health collapse; school funding; affordable housing; a data center moratorium.",
+  "endorsements": "Chester County and Delco Democrats, EMILY's List, Planned Parenthood Pennsylvania Advocates, Pennsylvania AFL-CIO, PSEA-PACE, Sierra Club and Everytown, among about 20.",
+  "money": "Backed by House Democrats' committee ads and by PAC for America's Future.",
+  "notes": null,
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-160th-district-voter-guide/"
+   },
+   {
+    "name": "Spotlight PA campaign finance",
+    "url": "https://www.spotlightpa.org/news/2026/10/campaign-finance-pennsylvania-legislature-2026-election-transparency-elections/"
+   },
+   {
+    "name": "Spotlight PA dark money report",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-election-spending-dark-money-jeff-yass-pac-for-americas-future-elections/"
+   }
+  ],
+  "depth": "detailed",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-160-craig-williams",
+  "race_id": "HD-160",
+  "name": "Craig Williams",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "State representative since 2021; age 61; Concord Township. Marine Corps combat pilot in the Gulf War; former federal prosecutor and PECO assistant general counsel. Lost a 2008 U.S. House race and the 2024 GOP primary for attorney general.",
+  "platform": "Opposes tax increases and 'wasteful spending'; veterans; public safety and crime; addiction.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Led an unsuccessful 2024 effort to impeach Philadelphia District Attorney Larry Krasner.",
+  "sources": [
+   {
+    "name": "WHYY voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-160th-district-voter-guide/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-170-martina-white",
+  "race_id": "HD-170",
+  "name": "Martina White",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Holds a Northeast Philadelphia seat Trump carried by 15 points.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Northeast Times",
+    "url": "https://northeasttimes.com/?p=165071"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-170-rob-gurtcheff-ii",
+  "race_id": "HD-170",
+  "name": "Rob Gurtcheff II",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Northeast Times",
+    "url": "https://northeasttimes.com/?p=165071"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-187-rachel-cuevas",
+  "race_id": "HD-187",
+  "name": "Rachel Cuevas",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Won the 2026 Democratic primary.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "LehighValleyNews",
+    "url": "https://www.lehighvalleynews.com/elections/cuevas-apparent-winner-of-democratic-nomination-over-whitcomb-in-187th-state-house-race"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "HD-187-gary-day",
+  "race_id": "HD-187",
+  "name": "Gary Day",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA",
+    "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-1-bob-harvie",
+  "race_id": "PA-1",
+  "name": "Bob Harvie",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Bucks County commissioner since 2020; former Falls Township supervisor and high school social studies teacher.",
+  "platform": "Taxes, affordability and jobs; a data center moratorium.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Filed a defamation suit against a Republican super PAC over claims about an FBI investigation and a relationship.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-1-brian-fitzpatrick",
+  "race_id": "PA-1",
+  "name": "Brian Fitzpatrick",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2017; former federal prosecutor and FBI agent; described as a moderate who often distances himself from Trump.",
+  "platform": "Taxes, affordability and jobs.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-2-brendan-boyle",
+  "race_id": "PA-2",
+  "name": "Brendan Boyle",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "In Congress since 2015; former state representative; ranking member of the House Budget Committee.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Has teased a 2028 U.S. Senate run.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-2-jessica-arriaga",
+  "race_id": "PA-2",
+  "name": "Jessica Arriaga",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Operating room technician and Republican ward leader in North Philadelphia.",
+  "platform": "Safer neighborhoods and lower costs.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-3-chris-rabb",
+  "race_id": "PA-3",
+  "name": "Chris Rabb",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Open seat",
+  "background": "State representative since 2017; Democratic Socialists of America member who won a closely watched primary.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Running for the seat Dwight Evans left.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-3-dennis-mahoney",
+  "race_id": "PA-3",
+  "name": "Dennis Mahoney",
+  "party": "I",
+  "party_name": "Independent",
+  "role": "Open seat",
+  "background": "South Philadelphia resident; former Food for the Hungry staffer and Penn Fels Institute fellow.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-4-madeleine-dean",
+  "race_id": "PA-4",
+  "name": "Madeleine Dean",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "In Congress since 2019; Appropriations and Foreign Affairs committees; former state representative.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-4-aurora-stuski",
+  "race_id": "PA-4",
+  "name": "Aurora Stuski",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "West Norriton insurance and estate appraisal business owner; chairs the West Norriton Republican Committee.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-5-mary-gay-scanlon",
+  "race_id": "PA-5",
+  "name": "Mary Gay Scanlon",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "In Congress since a 2018 special election; Judiciary and Rules committees.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-5-nick-manganaro",
+  "race_id": "PA-5",
+  "name": "Nick Manganaro",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Former Wall Street bond trader and BlackRock risk manager.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-6-chrissy-houlahan",
+  "race_id": "PA-6",
+  "name": "Chrissy Houlahan",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "In Congress since 2019; Armed Services and Intelligence committees; Air Force veteran.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-6-marty-young",
+  "race_id": "PA-6",
+  "name": "Marty Young",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "West Point graduate, Army infantry officer and later Army chaplain.",
+  "platform": "Affordability, public safety and health care.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-7-bob-brooks",
+  "race_id": "PA-7",
+  "name": "Bob Brooks",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "President of the Pennsylvania Professional Fire Fighters Association.",
+  "platform": "Medicare for All; a higher minimum wage; ending corporate PAC money.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Mackenzie attacked him over a settled lawsuit with his mother-in-law about an unpaid loan. Hakeem Jeffries and Josh Shapiro rallied for him.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-7-ryan-mackenzie",
+  "race_id": "PA-7",
+  "name": "Ryan Mackenzie",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2025; state representative for 12 years.",
+  "platform": "Accused Democrats of seeking to repeal Trump-era tax cuts.",
+  "endorsements": null,
+  "money": null,
+  "notes": "House Speaker Mike Johnson campaigned with him.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-8-paige-cognetti",
+  "race_id": "PA-8",
+  "name": "Paige Cognetti",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Scranton mayor; first elected as an independent in 2019.",
+  "platform": "End the sales tax exemption for data center developers; tax breaks, health care reform, lower utility prices.",
+  "endorsements": null,
+  "money": null,
+  "notes": "A Spotlight PA report said some corporate PAC money reaches her campaign indirectly.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-8-rob-bresnahan",
+  "race_id": "PA-8",
+  "name": "Rob Bresnahan",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2025 after defeating Matt Cartwright; former construction company CEO.",
+  "platform": "Introduced the Local Control Protection Act on data centers; tax breaks, health care reform, lower utility prices.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Politico reported he traded AI stock while promoting data centers.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-9-dan-meuser",
+  "race_id": "PA-9",
+  "name": "Dan Meuser",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In his fourth term; former Pennsylvania revenue secretary; Financial Services and Small Business committees.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-9-rachel-wallace",
+  "race_id": "PA-9",
+  "name": "Rachel Wallace",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Pottsville native; former staffer for Rep. Tim Holden and the State Department; former Biden budget office chief of staff.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-10-janelle-stelson",
+  "race_id": "PA-10",
+  "name": "Janelle Stelson",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Former WGAL news anchor; a registered Republican until 2023. Rematch of 2024, which Perry won by about 5,000 votes.",
+  "platform": "Repeal tariffs; make ACA subsidies permanent; restore federal abortion access.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-10-scott-perry",
+  "race_id": "PA-10",
+  "name": "Scott Perry",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2013; former House Freedom Caucus chair.",
+  "platform": "Says tariffs need patience; voted against extending ACA subsidies; opposes late-term abortion.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-11-lloyd-smucker",
+  "race_id": "PA-11",
+  "name": "Lloyd Smucker",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2017; former state senator; Ways and Means and Budget committees.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": "LancasterOnline reported he was well ahead in fundraising.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-11-nancy-mannion",
+  "race_id": "PA-11",
+  "name": "Nancy Mannion",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Former emergency room nurse and health care consultant; Manheim Township.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-12-summer-lee",
+  "race_id": "PA-12",
+  "name": "Summer Lee",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "In Congress since 2023; Judiciary and Education committees; Progressive Caucus executive board.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-12-james-hayes",
+  "race_id": "PA-12",
+  "name": "James Hayes",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Businessman and former Richmond Federal Reserve staffer; 2024 rematch.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-13-john-joyce",
+  "race_id": "PA-13",
+  "name": "John Joyce",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2019; Energy and Commerce Committee; co-chairs the GOP Doctors Caucus.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": "ABC27 reported a significant cash advantage.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-13-beth-farnham",
+  "race_id": "PA-13",
+  "name": "Beth Farnham",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Former Conewago Valley school board member; Adams County.",
+  "platform": "Reproductive freedom and gun safety.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-14-guy-reschenthaler",
+  "race_id": "PA-14",
+  "name": "Guy Reschenthaler",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2019; Appropriations Committee; Navy veteran.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-14-alan-bradstock",
+  "race_id": "PA-14",
+  "name": "Alan Bradstock",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Army veteran; former FBI special agent and KPMG auditor.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Continued campaigning after a cancer diagnosis, WTAE reported.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-15-glenn-gt-thompson",
+  "race_id": "PA-15",
+  "name": "Glenn \"GT\" Thompson",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2009, Pennsylvania's longest-serving House member; chairs the Agriculture Committee.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-15-ray-bilger",
+  "race_id": "PA-15",
+  "name": "Ray Bilger",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "More than 35 years in the Air Force; Penn State graduate.",
+  "platform": "Rural Pennsylvania.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-16-mike-kelly",
+  "race_id": "PA-16",
+  "name": "Mike Kelly",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Incumbent",
+  "background": "In Congress since 2011; Ways and Means Committee.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-16-justin-wagner",
+  "race_id": "PA-16",
+  "name": "Justin Wagner",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Challenger",
+  "background": "Automation engineer; Army veteran who deployed to Iraq.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-17-chris-deluzio",
+  "race_id": "PA-17",
+  "name": "Chris Deluzio",
+  "party": "D",
+  "party_name": "Democrat",
+  "role": "Incumbent",
+  "background": "In Congress since 2023; Naval Academy graduate and Iraq War veteran; Transportation and Armed Services committees.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": "Endorsed by the Working Families Party.",
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "partial",
+  "updated_at": "2026-11-04T13:11:49Z"
+ },
+ {
+  "id": "PA-17-tony-guy",
+  "race_id": "PA-17",
+  "name": "Tony Guy",
+  "party": "R",
+  "party_name": "Republican",
+  "role": "Challenger",
+  "background": "Beaver County sheriff since 2016; former state police sergeant.",
+  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "endorsements": null,
+  "money": null,
+  "notes": null,
+  "sources": [
+   {
+    "name": "Spotlight PA congressional guide",
+    "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   }
+  ],
+  "depth": "basic",
+  "updated_at": "2026-11-04T13:11:49Z"
+ }
+]

@@ -1,0 +1,54 @@
+name: State returns feed
+
+# Reads unofficial returns from electionreturns.pa.gov every 15 minutes
+# and saves them to data/state.json for the PA Election Desk site.
+on:
+  schedule:
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    inputs:
+      save_raw:
+        description: 'Save full copies of the data the state site loaded (for troubleshooting)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: state-feed
+  cancel-in-progress: false
+
+jobs:
+  read-state-site:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install headless browser
+        run: |
+          pip install playwright==1.47.0
+          python -m playwright install --with-deps chromium
+
+      - name: Read the state site
+        env:
+          SAVE_RAW: ${{ inputs.save_raw && '1' || '' }}
+        run: python scripts/state_fetch.py
+
+      - name: Save changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/state.json state
+          if git diff --cached --quiet; then echo "No changes."; exit 0; fi
+          git commit -m "State returns: $(date -u +%Y-%m-%dT%H:%MZ)"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep 7
+          done
+          exit 1
