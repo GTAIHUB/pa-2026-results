@@ -1,11 +1,12 @@
 {
  "source": "Pennsylvania Department of State, electionreturns.pa.gov (unofficial returns until certified)",
  "source_url": "https://www.electionreturns.pa.gov/",
- "checked_at": "2026-11-04T14:50:11Z",
+ "checked_at": "2026-11-04T14:54:19Z",
  "status": "ok",
  "status_detail": "",
  "site_status_text": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.",
  "site_updated_text": "",
+ "coverage": "Governor and statewide reporting only. The state site refuses automated access to legislative and congressional pages, so those counts come from news reports.",
  "precincts": {
   "message": "8,931 Out of 9,065 Districts (98.52%)  - IN PERSON BALLOT REPORTING ONLY",
   "reporting": 8931,
