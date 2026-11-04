@@ -1,0 +1,145 @@
+{
+ "status": "ok",
+ "detail": "",
+ "responses": [
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetElectionTesting?methodName=GetElectionDetail&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 3046
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 39134
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 183
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetDashboardMessage?countyName=&methodName=GetDashboardMessage&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 441
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 45588
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetOfficeNames?countyName=&methodName=GetOfficeNames&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 1490
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/scripts/Details.json",
+   "status": 200,
+   "ctype": "application/json",
+   "bytes": 1997
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 2051
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/Scripts/Counties.json",
+   "status": 200,
+   "ctype": "application/json",
+   "bytes": 963
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
+   "status": 200,
+   "ctype": "application/json",
+   "bytes": 680
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/Get?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 403,
+   "ctype": "text/html",
+   "bytes": 855
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/Get?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 403,
+   "ctype": "text/html",
+   "bytes": 855
+  }
+ ],
+ "pages": {
+  "home": {
+   "status": 200,
+   "url": "https://www.electionreturns.pa.gov/",
+   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.27% (Votes: 2,984,475)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.44% (Votes: 1,903,424)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.30% (Votes: 64,157)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
+  },
+  "2019 Special Election 12th Congressional District": {
+   "status": null,
+   "url": "https://www.electionreturns.pa.gov/#",
+   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.27% (Votes: 2,984,475)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.44% (Votes: 1,903,424)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.30% (Votes: 64,157)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
+  }
+ },
+ "office_links": [
+  {
+   "t": "2019 Special Election 12th Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2018 Special Election 15th Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2018 Special Election 7th Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2018 Special Election 18th Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2016 Special Election 2nd Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2010 Special Election 12th Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2005 Special Election 189th State House District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "2001 Special Election 9th Congressional District",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "Governor",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "Representative in Congress",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "Senator in the General Assembly",
+   "h": "https://www.electionreturns.pa.gov/#"
+  },
+  {
+   "t": "Representative in the General Assembly",
+   "h": "https://www.electionreturns.pa.gov/#"
+  }
+ ],
+ "records_found": 3,
+ "races_found": [
+  "GOV"
+ ],
+ "log": []
+}

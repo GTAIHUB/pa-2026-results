@@ -1,0 +1,1 @@
+{"url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection", "status": 200, "body": "\"[\\r\\n  {\\r\\n    \\\"ElectionID\\\": 117,\\r\\n    \\\"ElectionName\\\": \\\"2026 General Election\\\",\\r\\n    \\\"ElectionDate\\\": \\\"2026-11-03T00:00:00\\\",\\r\\n    \\\"ElectionType\\\": \\\"G\\\"\\r\\n  }\\r\\n]\""}
