@@ -664,8 +664,8 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Bensalem native; licensed funeral director and daughter of former state Sen. Robert Tomlinson. First elected in a March 2020 special election; reelected in 2020, 2022 and 2024 (55.5% in 2024). Served on the House Transportation Committee; Bensalem Weekly describes her as one of the more independent members of the Republican caucus.",
+  "platform": "Statewide tax relief programs and fiscal restraint; cites education funding increases and bipartisan work with Gov. Shapiro; voted for cyber charter reform (HB 2370); work with the governor on lowering energy prices; bills on package theft and drug dealing.",
   "endorsements": null,
   "money": null,
   "notes": null,
@@ -673,10 +673,14 @@
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Bensalem Weekly: Allen vs. Tomlinson comparison",
+    "url": "https://bensalemweekly.com/?p=10870"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T22:25:00Z"
  },
  {
   "id": "HD-18-bryan-allen",
@@ -685,19 +689,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Lifelong Bensalem resident. Elected to Bensalem Township Council in 2005, the first Democrat to win a seat there in more than 30 years. Chief of staff to state Rep. Tina Davis (HD-141) for more than 14 years; vice chair of the Bucks County Water & Sewer Authority.",
+  "platform": "Full public school funding under the Basic Education Funding Commission plan, which he says would ease property taxes; charter school funding reform; a phased $12 minimum wage indexed to inflation; adult-use cannabis legalization with revenue for schools, tax relief and policing, and expungement of low-level convictions; opposes utility rate hikes; lower prescription costs and protected reproductive health care access.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Defeated three-term Republican Rep. K.C. Tomlinson, a Republican-to-Democratic flip with an AP call (see race row).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Bensalem Weekly: Allen vs. Tomlinson comparison",
+    "url": "https://bensalemweekly.com/?p=10870"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-04T22:25:00Z"
  },
  {
   "id": "HD-28-jeremy-shaffer",
@@ -1341,19 +1349,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Incumbent",
-  "background": "Holds a district Trump won in 2024; an August State Navigate poll had him ahead by 12 points.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
+  "background": "Holds a district Trump won in 2024; an August State Navigate poll had him ahead by 12 points. Warminster resident; Navy veteran, former volunteer firefighter and EMT, and about 10 years as a Radnor Township police officer; Warminster supervisor (2016-2020) and Bucks County Clerk of Courts before winning the seat in 2022.",
+  "platform": "Banning PFAS in firefighting foam (his bill passed the House); limits on late fees after a death; health care, worker protections, cost of living and housing affordability; child social media protections and an expanded child tax credit; describes himself as a moderate.",
+  "endorsements": "About 20 groups listed by WHYY, including FOP Lodge 40, the Pennsylvania AFL-CIO, SEIU, AFT Pennsylvania, Planned Parenthood PA, Sierra Club, VoteVets, Clean Water Action and the DLCC Target Race program.",
   "money": null,
   "notes": null,
   "sources": [
    {
     "name": "Spotlight PA races to watch",
     "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   },
+   {
+    "name": "WHYY 144th District guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-144th-district-voter-guide/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-04T22:25:00Z"
  },
  {
   "id": "HD-144-mike-murphy",
