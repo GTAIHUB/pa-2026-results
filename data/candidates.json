@@ -139,11 +139,11 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Incumbent",
-  "background": "State senator since 2023; from Allentown. Republicans targeted the seat; Harris won the district by less than a point in 2024.",
+  "background": "State senator since January 2023; Allentown native, born about 1995. Penn State finance degree; master's degrees from the University of Pennsylvania (Fels Institute MPA and Master of Studies in Law). Former IBM project management consultant and part-time realtor; Allentown School Board member from 2019, vice president 2020-21. Won the 2022 Democratic primary by 48 votes and the general election over Republican Dean Browning. Republicans targeted the seat in 2026; Harris won the district by less than a point in 2024.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Elected chairman of the Senate Democrats' policy committee in 2024 (Wikipedia).",
   "sources": [
    {
     "name": "Wikipedia: Pa. Senate",
@@ -152,10 +152,14 @@
    {
     "name": "Spotlight PA races to watch",
     "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   },
+   {
+    "name": "Wikipedia: Nick Miller (politician)",
+    "url": "https://en.wikipedia.org/wiki/Nick_Miller_(politician)"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T15:52:00Z"
  },
  {
   "id": "SD-14-omy-maldonado",
@@ -882,19 +886,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Open seat",
-  "background": "Running for the seat held by Democrat Anita Astorino Kulik.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
-  "money": null,
+  "background": "Attorney in Robinson Township with a land-use practice and about 15 years in law; Elk County native; first-time candidate; parent of a public school student. B.A., Gettysburg College; J.D., University of Pittsburgh. Running for the open seat of retiring Democratic Rep. Anita Astorino Kulik.",
+  "platform": "Affordability without tax increases; streamlining development approvals and encouraging municipalities to allow accessory dwelling units; more state school funding so districts need not raise property taxes; supports HB 1834 (Rep. Matzie) to regulate data center growth and protect the power grid and energy costs (WESA).",
+  "endorsements": "Retiring Rep. Anita Kulik; Coraopolis Mayor Michael Dixon; SEIU, IBEW Local 5, IUPAT DC 57; Planned Parenthood Pennsylvania Advocates, Emily's List, Working Families Party, Run for Something (WESA primary guide).",
+  "money": "As of May 4, 2026: raised $127,924 (including a $7,207.83 loan from herself) and spent $86,545.35. Contributions included Represent PA ($20,000), Rep. Arvind Venkat's committee ($11,000), Emily's List ($10,000) and Sen. Nick Pisciottano's committee ($6,500); Working Families Party gave $18,759.23 in in-kind mailers (WESA). Primary-period figures; general-election reports not yet reviewed.",
   "notes": null,
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "WESA voter guide (primary)",
+    "url": "https://www.wesanews.org/wesa-voter-guide/2026-04-20/pa-state-house-45-bloam-catena"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-04T15:52:00Z"
  },
  {
   "id": "HD-45-james-julius",
@@ -1062,19 +1070,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Open seat",
-  "background": "Running for the seat held by Democrat Eddie Day Pashinski.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
+  "background": "Wilkes-Barre City Council member (elected 2024, council chair in 2026), age 51 at the May primary, North End resident. Earlier volunteered on city planning, fire/civil service and traffic panels; helped draft a food-truck ordinance passed in March 2026. Won the May Democratic primary with 61.89% over Michael Stadulis. Running for the open seat of retiring Democratic Rep. Eddie Day Pashinski.",
+  "platform": "Affordability for working Pennsylvanians, attracting high-paying union jobs, investing in schools and small businesses, expanding access to affordable health care, and supporting first responders (Times Leader).",
+  "endorsements": "Retiring Rep. Eddie Day Pashinski (DLCC).",
   "money": null,
-  "notes": null,
+  "notes": "The DLCC listed the race as a 'Spotlight Race' with donation links on its candidate page.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Times Leader (primary)",
+    "url": "https://www.timesleader.com/news/1742533/mcclay-secures-democratic-nomination-in-121st-district"
+   },
+   {
+    "name": "DLCC candidate page",
+    "url": "https://www.dlcc.org/candidates/jessica-mcclay/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-04T15:52:00Z"
  },
  {
   "id": "HD-121-mike-harostock",
