@@ -30,8 +30,8 @@ MAX_PAGES = 14            # office pages to open per run
 MAX_RAW_BYTES = 4_000_000  # per saved response
 
 # The site's summary call as used by its own pages ("undefined" = the active election).
-# Office pages on the state site, opened by clicking their names (the links are JavaScript, not URLs).
-OFFICE_NAMES = ['Senator in the General Assembly', 'Representative in the General Assembly', 'Representative in Congress', 'Governor']
+OFFICES = [('Senator in the General Assembly', 12), ('Representative in the General Assembly', 13), ('Representative in Congress', 11)]
+ELECTION_ID = os.environ.get('STATE_ELECTION_ID', '117')  # 2026 General Election on electionreturns.pa.gov
 OFFICE_RX = re.compile(r'(general assembly|representative in congress|governor|state senat|state house|congress)', re.I)
 BLOCK_RX = re.compile(r'(access denied|request blocked|unusual traffic|captcha|forbidden|not authorized)', re.I)
 COUNTIES = set('''adams allegheny armstrong beaver bedford berks blair bradford bucks butler cambria cameron carbon
@@ -263,22 +263,21 @@ def fetch():
             # The office links live in the site's "Offices" menu and run JavaScript instead of
             # opening a URL, so click them inside the page the way a visitor would. No direct
             # requests to the site's data calls: its bot protection refuses those (HTTP 403).
-            for name in OFFICE_NAMES:
+            # Office results pages have their own addresses. Open them like a visitor following a
+            # link and give them time to load. This does not hide the browser or work around the
+            # site's bot protection: if the site declines to serve a page, the run records that.
+            for name, oid in OFFICES:
                 try:
-                    clicked = page.evaluate('''(name) => {
-                        const a = [...document.querySelectorAll('a')].find((x) => (x.textContent || '').trim() === name);
-                        if (!a) return false;
-                        a.click();
-                        return true;
-                    }''', name)
-                    if not clicked:
-                        log.append(f'no link named {name!r} on {page.url}')
-                        continue
-                    page.wait_for_load_state('networkidle', timeout=60_000)
-                    page.wait_for_timeout(3000)
+                    url = f'{BASE}/General/OfficeResults?officeId={oid}&ElectionID={ELECTION_ID}&ElectionType=G&IsActive=1'
+                    r = page.goto(url, wait_until='networkidle', timeout=60_000)
+                    try:
+                        page.wait_for_function('document.body && document.body.innerText.length > 800', timeout=25_000)
+                    except Exception:
+                        log.append(f'{name}: page stayed blank after 25 s (likely refused by the site\'s bot protection)')
+                    page.wait_for_timeout(2000)
                     t = page.evaluate('document.body ? document.body.innerText : ""')
                     sel = page.evaluate('''() => [...document.querySelectorAll('select')].map(s => ({id: s.id, name: s.name, n: s.options.length, first: [...s.options].slice(0, 8).map(o => o.text + '=' + o.value)}))''')
-                    pages[name] = {'status': 200, 'url': page.url, 'text': t[:20000], 'selects': sel}
+                    pages[name] = {'status': r.status if r else None, 'url': page.url, 'text': t[:20000], 'selects': sel}
                 except Exception as e:
                     log.append(f'office page failed {name}: {type(e).__name__}: {e}'[:300])
         browser.close()
