@@ -786,19 +786,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "East Hempfield resident, 64 as of August 2025; Republican incumbent who won reelection in 2024 with 56% (WITF).",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Outraised Democrat Brad Chambers in 2024 (WITF); 2026 figures not yet found.",
+  "notes": "In 2025 he sought the Lancaster County GOP endorsement for the 36th Senate District special election and lost it to Josh Parsons (WITF).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "WITF",
+    "url": "https://www.witf.org/2025/08/20/democrat-brad-chambers-announces-early-second-bid-at-pa-house/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T15:13:03Z"
  },
  {
   "id": "HD-41-brad-chambers",
@@ -807,19 +811,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
-  "money": null,
-  "notes": null,
+  "background": "Columbia resident and labor administrator, 34 as of August 2025. Lost the 2024 race for this seat to Brett Miller, 44% to 56%, after knocking on more than 26,000 doors (WITF).",
+  "platform": "Affordable housing access, increased education funding and universal health care coverage (WITF, August 2025).",
+  "endorsements": "In 2024: Gov. Josh Shapiro, House Speaker Joanna McClinton and Majority Leader Matt Bradford. For 2026 he cited support from Sen. James Malone, Reps. Izzy Smith-Wade-El and Nikki Rivera, and Lancaster County Commissioner Alice Yoder (WITF, August 2025).",
+  "money": "No 2026 fundraising figures found yet. Miller outraised him in 2024 (WITF).",
+  "notes": "Announced his second bid on Aug. 20, 2025, the first Democrat to enter the race (WITF).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "WITF",
+    "url": "https://www.witf.org/2025/08/20/democrat-brad-chambers-announces-early-second-bid-at-pa-house/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-04T15:13:03Z"
  },
  {
   "id": "HD-44-valerie-gaydos",
@@ -1096,19 +1104,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
-  "money": null,
-  "notes": null,
+  "background": "Journalist by career; bachelor's degree from Rutgers University and graduate degree from Lehigh University. Lost the 2024 general election to Mackenzie, 42.7% to 57.2%, after winning that year's Democratic primary with 72.2%. Won the May 19, 2026 Democratic primary with 99.8%.",
+  "platform": "2026 priorities listed in her Ballotpedia candidate survey: lowering the cost of everyday essentials, public education, defending democracy, and economic growth that brings good-paying jobs while protecting the environment.",
+  "endorsements": "2026: three Sway voting groups (92% Club, Team BLUE PA Trifecta, Unburdening The Ballot), per Ballotpedia. In 2024 her survey listed PSEA, AFT PA, Planned Parenthood and the AFL-CIO; Ballotpedia did not independently confirm those.",
+  "money": "2024 campaign: about $145,342 raised and $132,387 spent (Ballotpedia). No 2026 totals found yet.",
+  "notes": "Rematch of 2024. PoliticsPA's 1:15 a.m. ET unofficial count had her ahead of Mackenzie 51.0% to 49.0%; no race call reported.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Ballotpedia: Meriam Sabih",
+    "url": "https://ballotpedia.org/Meriam_Sabih"
+   },
+   {
+    "name": "PoliticsPA",
+    "url": "https://politicspa.com/its-a-democratic-trifecta/154737/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-04T15:28:46Z"
  },
  {
   "id": "HD-131-milou-mackenzie",
@@ -1226,19 +1242,35 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Republican first elected in 2020, unseating Democrat Wendy Ullman with 51.5%; took office in 2021. Lives in Plumsteadville, Bucks County; Central Bucks High School West and Temple University (communications). Committees in 2023-24: Aging & Older Adult Services, Game & Fisheries, Transportation (chairs its Ports subcommittee). Won the 2026 Republican primary with 98.8%.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Prior cycles per Ballotpedia: 2024 raised $198,747, spent $104,477; 2022 raised $289,735, spent $112,175; 2020 raised $375,911. No 2026 totals found yet.",
+  "notes": "Opponents: Democrat Tim Hayes and Chris Gambino (Forward Independent Party). Hayes accused Labs of voting against a $15 minimum wage, data center guardrails (HB 1834), community solar (HB 504) and putting a reproductive-rights amendment on the ballot, and called her \"asleep at the wheel\" (Bucks County Beacon interview, May 2026; no response from Labs in that piece). Bucks County Herald reports Hayes apparently ahead by 64 votes on unofficial tallies; Labs had not conceded; no race call.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Ballotpedia: Shelby Labs",
+    "url": "https://ballotpedia.org/Shelby_Labs"
+   },
+   {
+    "name": "Wikipedia: Shelby Labs",
+    "url": "https://en.wikipedia.org/wiki/Shelby_Labs"
+   },
+   {
+    "name": "Bucks County Beacon: Tim Hayes interview",
+    "url": "https://buckscountybeacon.com/?p=44761"
+   },
+   {
+    "name": "Bucks County Herald",
+    "url": "https://www.buckscountyherald.com/news/election/two-gop-held-house-seats-flip-in-lower-bucks-a-third-in-upper-bucks-may/article_f3d2cfcc-afed-420f-a121-cbba2e13794f.html"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T15:28:46Z"
  },
  {
   "id": "HD-143-tim-hayes",
@@ -1247,19 +1279,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Army National Guard veteran, Dublin Borough Council president and environmental legislative manager; grew up in Bucks County (Bucks County Beacon).",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Wrote a Bucks County Beacon opinion piece about a state House bill on data center impacts on communities (Bucks County Beacon).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Bucks County Beacon (podcast episode page)",
+    "url": "https://buckscountybeacon.podbean.com/e/democrat-tim-hayes-wants-to-flip-a-bucks-county-state-house-seat-from-red-to-blue/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T15:13:03Z"
  },
  {
   "id": "HD-143-chris-gambino",
@@ -1465,19 +1501,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Won the 2026 Democratic primary.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "First run for public office. Previously worked in the health insurance industry and in human resources for Boston Beer Company and Amazon; volunteers with veterans programs through the Greater Lehigh Valley Chamber of Commerce. Won the 2026 Democratic primary over Geoffrey Whitcomb.",
+  "platform": "Raise taxes on the wealthiest residents to fund senior and health care programs, including tiered income tax rates (which would likely need a constitutional amendment, the outlet notes); apprenticeships between businesses and technical schools; local limits on data centers modeled on Lower Macungie Township's proposed ordinance (conditional use, noise, energy and water limits, 1,000-foot setbacks).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Said of data centers: \"If they cannot meet our standards, that means they are not good for our residents\" (Lehigh Valley Public Media, May 2026). PoliticsPA's 1:15 a.m. ET unofficial count had her ahead of incumbent Gary Day 51.0% to 49.0%; no race call reported.",
   "sources": [
    {
     "name": "LehighValleyNews",
     "url": "https://www.lehighvalleynews.com/elections/cuevas-apparent-winner-of-democratic-nomination-over-whitcomb-in-187th-state-house-race"
+   },
+   {
+    "name": "Lehigh Valley Public Media: Cuevas, Whitcomb primary",
+    "url": "https://www.lehighvalleypublicmedia.org/news/elections/cuevas-whitcomb-campaign-on-affordability-data-centers-in-187th-house-democratic-primary/"
+   },
+   {
+    "name": "PoliticsPA",
+    "url": "https://politicspa.com/its-a-democratic-trifecta/154737/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-04T15:28:46Z"
  },
  {
   "id": "HD-187-gary-day",
