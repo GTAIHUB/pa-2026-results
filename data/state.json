@@ -1,16 +1,22 @@
 {
  "source": "Pennsylvania Department of State, electionreturns.pa.gov (unofficial returns until certified)",
  "source_url": "https://www.electionreturns.pa.gov/",
- "checked_at": "2026-11-04T14:46:10Z",
+ "checked_at": "2026-11-04T14:48:32Z",
  "status": "ok",
  "status_detail": "",
  "site_status_text": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.",
  "site_updated_text": "",
+ "precincts": {
+  "message": "8,931 Out of 9,065 Districts (98.52%)  - IN PERSON BALLOT REPORTING ONLY",
+  "reporting": 8931,
+  "total": 9065,
+  "pct": 98.52
+ },
  "race_count": 1,
  "races": {
   "GOV": {
    "office": "Governor",
-   "district": "",
+   "district": "1",
    "candidates": [
     {
      "name": "JOSH SHAPIRO",
