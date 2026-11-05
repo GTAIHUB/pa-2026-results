@@ -601,8 +601,8 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "State representative since 2011.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Lifelong southern Chester County resident; lives in West Grove. Former account officer at J.P. Morgan Chase; business degree from Penn State. First elected in 2010. Committees listed in the profile: Appropriations, Agriculture and Rural Affairs, Government Oversight, Professional Licensure, Transportation and Rules.",
+  "platform": "Stated priorities in a FOX43 candidate profile: consolidating redundant government services and cutting waste; requiring legislators to submit to drug testing. Cites his Act 102 of 2018, which ended the possibility of domestic violence victims being required to financially support their convicted abuser.",
   "endorsements": null,
   "money": null,
   "notes": null,
@@ -610,10 +610,14 @@
    {
     "name": "MyChesCo",
     "url": "https://www.mychesco.com/a/news/shapiro-backs-alvarino-in-chester-county-house-race/"
+   },
+   {
+    "name": "FOX43 candidate profile (undated)",
+    "url": "https://www.fox43.com/article/news/politics/elections/republican-incumbent-john-lawrence-running-for-re-election-in-pa-state-house-district-13/521-df3c31fc-b3a7-498e-bbf9-2db2738ff5ec"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T01:40:00Z"
  },
  {
   "id": "HD-16-rob-matzie",
@@ -1169,19 +1173,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Lifelong Lehigh Valley resident; lives in Lower Saucon Township. Nazareth Area Senior High School graduate with an English degree from Cedar Crest College; taught locally and runs an interior design business. Was in her second House term in 2024 (Lehigh Valley News); sought a third term in 2026. Committees listed in 2024: Children and Youth; Education; Housing and Community Development; Human Services. Her son is a former state representative who ran for Congress in 2024.",
+  "platform": "Priorities listed on her campaign website, as summarized by Lehigh Valley News in 2024: education, controlling spending, supporting small business owners and veterans, and protecting children's health coverage through CHIP. 2026-specific platform not yet researched.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Lost to Democrat Meriam Sabih, a rematch of 2024; AP call reported Wednesday morning (Armchair Lehigh Valley).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Lehigh Valley News (Oct. 5, 2024)",
+    "url": "https://cms.lehighvalleynews.com/elections/state-rep-milou-mackenzie-challenger-wants-better-and-more-compassionate-decisions-in-harrisburg"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T01:40:00Z"
  },
  {
   "id": "HD-137-jeff-warren",
@@ -1598,19 +1606,27 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
+  "background": "Lives in Heidelberg Township; born in Baltimore; economics degree from Penn State (1990). Former executive assistant to Allentown Mayor William Heydt and director of administration at Service Electric Cable. Represented the 187th from 2009 to 2022, lost the 2022 Republican primary to Ryan Mackenzie after redistricting, then worked for state Sen. Jarrett Coleman before winning the seat back in 2024.",
+  "platform": "In 2024 he said his main advantage was knowing how to get things done in Harrisburg. Record cited by Armchair Lehigh Valley: sponsored a 2021 law strengthening job protections for military members called to active duty; chaired the Aging and Older Adult Services Committee; voted for a 20-week abortion ban, a permitless concealed-carry bill and Act 77 (no-excuse mail voting). 2026-specific platform not yet researched.",
+  "endorsements": "2024 race: National Federation of Independent Business; Pennsylvania Chamber of Business and Industry's ChamberPAC; 84% rating from the American Conservative Union (Armchair Lehigh Valley).",
   "money": null,
-  "notes": null,
+  "notes": "2024 finances: $20,105 cash on hand as of May 13, 2024, vs. $68,048 for Democrat Stefanie Rafes; spent nearly $187,000 in the 2022 primary. In 2026 he lost to Democrat Rachel Cuevas; AP call reported Wednesday morning (Armchair Lehigh Valley).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Armchair Lehigh Valley (Sept. 27, 2024)",
+    "url": "https://armchairlehighvalley.substack.com/p/in-187th-newcomer-faces-former-house"
+   },
+   {
+    "name": "Wikipedia: Gary Day (politician)",
+    "url": "https://en.wikipedia.org/wiki/Gary_Day_(politician)"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-05T01:40:00Z"
  },
  {
   "id": "PA-1-bob-harvie",
