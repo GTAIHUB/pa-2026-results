@@ -1844,19 +1844,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Former Wall Street bond trader and BlackRock risk manager.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
+  "background": "Retired financial professional whose career focused on research, product development and risk management, including consulting for multinational financial firms. Former Republican precinct committeeman; has lived in the district more than 25 years and grew up in Chester County.",
+  "platform": "Reducing government spending and federal debt, which he links to inflation; streamlining regulation to attract manufacturing and technology jobs; restricting undocumented immigration; honesty, transparency and accountability.",
+  "endorsements": "Delaware County GOP; Pennsylvania Young Republicans (as listed in his Ballotpedia survey).",
   "money": null,
   "notes": null,
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-5 2026",
+    "url": "https://ballotpedia.org/Pennsylvania's_5th_Congressional_District_election,_2026"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T04:29:21Z"
  },
  {
   "id": "PA-6-chrissy-houlahan",
@@ -1994,16 +1998,24 @@
   "background": "In his fourth term; former Pennsylvania revenue secretary; Financial Services and Small Business committees.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "FEC data as of Oct. 14, 2026: $2,129,641 raised, $2,133,498 spent, $29,791 cash on hand (Ballotpedia). By the May pre-primary report he had raised more than $1.475 million for the cycle (abc27).",
+  "notes": "abc27 reported in May that his campaign paid the Mar-a-Lago Club more than $20,000 in fundraising event fees and gave nearly $20,000 to other candidates and county Republican committees in April. Did not complete Ballotpedia's candidate survey.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-9 2026",
+    "url": "https://ballotpedia.org/Pennsylvania's_9th_Congressional_District_election,_2026"
+   },
+   {
+    "name": "abc27",
+    "url": "https://www.abc27.com/news/top-stories/dan-meuser-rachel-wallace-fundraising/amp/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T04:29:21Z"
  },
  {
   "id": "PA-9-rachel-wallace",
@@ -2012,19 +2024,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Pottsville native; former staffer for Rep. Tim Holden and the State Department; former Biden budget office chief of staff.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
-  "money": null,
+  "background": "Born and raised in Pottsville; lives in southern Schuylkill County. Worked for U.S. Rep. Tim Holden, then at the State Department, in the U.S. Senate and at the White House, where she was chief of staff for the Office of Management and Budget.",
+  "platform": "Health care (saving rural hospitals, ending prior authorization practices); cost of living, including electricity, housing and groceries; data centers, veterans, farmers, infrastructure and jobs. Her campaign claimed nearly 30,000 people in the area would lose insurance because of Meuser's votes (her claim).",
+  "endorsements": "Former U.S. Rep. Tim Holden (per her Ballotpedia survey).",
+  "money": "FEC data as of Oct. 14, 2026: $1,145,383 raised, $894,624 spent, $250,759 cash on hand (Ballotpedia). Had $497,478 raised for the cycle by the May pre-primary report (abc27).",
   "notes": null,
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-9 2026",
+    "url": "https://ballotpedia.org/Pennsylvania's_9th_Congressional_District_election,_2026"
+   },
+   {
+    "name": "abc27",
+    "url": "https://www.abc27.com/news/top-stories/dan-meuser-rachel-wallace-fundraising/amp/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-05T04:29:21Z"
  },
  {
   "id": "PA-10-janelle-stelson",
