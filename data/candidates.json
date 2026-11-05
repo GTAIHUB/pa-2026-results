@@ -1784,19 +1784,23 @@
   "party": "I",
   "party_name": "Independent",
   "role": "Open seat",
-  "background": "South Philadelphia resident; former Food for the Hungry staffer and Penn Fels Institute fellow.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
-  "money": null,
-  "notes": null,
+  "background": "Age 34, South Philadelphia; first-time candidate. About a decade of humanitarian and disaster-relief work, including hurricane responses in the U.S. and Puerto Rico and poverty work in 18 countries, through the Christian nonprofit Food for the Hungry; now runs his own firm, AOI Solutions; former Penn Fels Institute fellow. Has belonged to both major parties in the past.",
+  "platform": "Poverty, affordable housing and education, framed as bipartisan ('Let's build bridges and partnerships and bring results'). Said he would help form the first independent caucus in the U.S. House.",
+  "endorsements": "The Forward Party Victory Fund, a Philadelphia-based super PAC led by Craig Snyder, planned digital ads and text messages backing him (Inquirer).",
+  "money": "About $8,200 cash on hand in his most recent report as of Sept. 10; said he was not focused on raising large sums. Democrat Chris Rabb had about $21,000 on hand after raising and spending more than $1.3 million in the primary.",
+  "notes": "Only opponent to Democrat Chris Rabb in a heavily Democratic district; said he gathered about 19,000 signatures to qualify for the ballot.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Philadelphia Inquirer (Sept. 10, 2026)",
+    "url": "https://www.inquirer.com/politics/nation/3rd-district-election-dennis-mahoney-20260910.html"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-05T10:28:00Z"
  },
  {
   "id": "PA-4-madeleine-dean",
@@ -1830,8 +1834,8 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "West Norriton insurance and estate appraisal business owner; chairs the West Norriton Republican Committee.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "West Norriton resident and mother of three; founder and owner of AAS Appraisal Lab in King of Prussia; chairs the West Norriton Republican Committee. Calls herself a 'fierce Mamabear patriot.'",
+  "platform": "Lowering the tax burden on homeowners, protecting seniors from being forced out of their homes, preserving green space in West Norriton and community-centered education; says she believes in limited government and personal responsibility.",
   "endorsements": null,
   "money": null,
   "notes": null,
@@ -1839,10 +1843,14 @@
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Glenside Local",
+    "url": "https://glensidelocal.com/?p=72474"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T10:28:00Z"
  },
  {
   "id": "PA-5-mary-gay-scanlon",
@@ -2206,19 +2214,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Businessman and former Richmond Federal Reserve staffer; 2024 rematch.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Age 64, Shadyside; spent many years in economics, including six years at the Federal Reserve Bank of Richmond. Ran against Rep. Summer Lee in 2024 and drew 42% of the vote.",
+  "platform": "Strong support for Israel, tied to fighting antisemitism; backs the Nippon Steel-U.S. Steel deal; opposes 'open borders' policies; gun rights and fiscal conservatism; 'energy dominance' including nuclear power; emphasizes civility and consensus.",
   "endorsements": null,
-  "money": null,
+  "money": "Raised about $10,000 in 2025, per TribLive (Feb. 2026).",
   "notes": null,
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "TribLive (Feb. 27, 2026)",
+    "url": "https://triblive.com/news/politics-election/challengers-test-summer-lees-grip-on-congressional-seat-in-trump-era-midterms"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T10:28:00Z"
  },
  {
   "id": "PA-13-john-joyce",
