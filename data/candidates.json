@@ -931,19 +931,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Open seat",
-  "background": "Running for the seat held by Democrat Anita Astorino Kulik.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Founder and CEO of VISMO, a technology and artificial intelligence company; Robinson Township; degrees from Robert Morris University and an MBA from Carnegie Mellon. Ran unsuccessfully for HD-45 in 2024. Ran for the seat held by retiring Democrat Anita Astorino Kulik.",
+  "platform": "As stated on his campaign's voter-guide page: align workforce funding with employer needs and expand career and technical education; fair school funding with less reliance on property taxes; data center developers should pay infrastructure costs and disclose resource use and incentives; all-of-the-above energy; legal protection for 'preborn children'; decriminalize possession of small amounts of marijuana but oppose legalization; support Alina's Law on electronic monitoring under protection orders.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Positions are as the candidate described them to the Branch voter guide.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Branch voter guide (candidate's stated positions)",
+    "url": "https://branch.vote/races/2026-pennsylvania-general-election--pa-state-state-representative-pa-state-house-45/candidates/james-matthew-julius"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T02:33:45Z"
  },
  {
   "id": "HD-72-frank-burns",
@@ -1027,19 +1031,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Open seat",
-  "background": "Ran for the seat of retiring Republican Rep. Sheryl Delozier.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Air Force veteran (four years, E-4); former Harrisburg Bureau of Police officer; degrees from Harrisburg Area Community College, the Community College of the Air Force, Penn State Harrisburg and Shippensburg University. First run for office. Ran for the seat of retiring Republican Rep. Sheryl Delozier.",
+  "platform": "As stated on his campaign's voter-guide page: cut state spending and regulations; eliminate property taxes; oppose taxpayer funding for abortion providers including Planned Parenthood; eliminate the U.S. Department of Education; develop natural gas, coal and nuclear power; state safeguards on data center development; oppose new gun restrictions; term limits for state legislators; auditable voting systems with reliable mail and expanded early voting.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Positions are as the candidate described them to the Branch voter guide.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Branch voter guide (candidate's stated positions)",
+    "url": "https://branch.vote/races/2026-pennsylvania-general-election--pa-state-state-representative-pa-state-house-88/candidates/jeff-clark-1"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T02:33:45Z"
  },
  {
   "id": "HD-118-jim-haddock",
@@ -1123,19 +1131,27 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Open seat",
-  "background": "Running for the seat held by Democrat Eddie Day Pashinski.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Mayor of Bear Creek Village Borough since January 2026; executive vice president for business development and analytics at United One, an IT company that helps banks manage credit risk. First state legislative campaign. Ran for the seat of retiring Democratic Rep. Eddie Day Pashinski.",
+  "platform": "As stated on his campaign's voter-guide page: lower taxes for working families, seniors and small businesses; cut spending he calls wasteful; lower energy costs; oppose large tech companies building data centers across Northeastern Pennsylvania; fund police, firefighters and first responders; term limits for state representatives and members of Congress.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "WVIA reported Pashinski endorsed Democrat Jessica McClay for the seat.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "WVIA",
+    "url": "https://www.wvia.org/news/local/2026-02-13/with-pashinski-retiring-republicans-democrats-gear-up-for-stiff-121st-house-district-battle-in-luzerne-county"
+   },
+   {
+    "name": "Branch voter guide (candidate's stated positions)",
+    "url": "https://branch.vote/races/2026-pennsylvania-general-election--pa-state-state-representative-pa-state-house-121/candidates/mike-harostock"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T02:33:45Z"
  },
  {
   "id": "HD-131-meriam-sabih",
