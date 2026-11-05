@@ -1372,19 +1372,23 @@
   "party": "I",
   "party_name": "Independent",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Ran as an independent under the political body name 'Forward Independent'; says he consulted with the state Forward Party.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
+  "endorsements": "Pennsylvania Forward Party (Capital-Star).",
   "money": null,
-  "notes": null,
+  "notes": "Two local voters, represented by attorney Adam Bonin, challenged his nomination papers over signatures and the 'Forward Independent' name; Commonwealth Court Judge Lori Dumas ruled in August that he stays on the ballot. Gambino called the challenge political. Received 708 votes in the unofficial count (Bucks County Herald).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Pennsylvania Capital-Star (Aug. 26, 2026)",
+    "url": "https://penncapital-star.com/campaigns-elections/judge-allows-independent-candidate-to-remain-on-ballot-in-bucks-county-state-house-race/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T05:30:00Z"
  },
  {
   "id": "HD-144-brian-munroe",
@@ -1826,16 +1830,20 @@
   "background": "In Congress since a 2018 special election; Judiciary and Rules committees.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Raised $1,340,757 and spent $1,186,797, with $471,706 left, per FEC data as of Oct. 14, 2026 (Ballotpedia).",
+  "notes": "Unopposed in the May 19 Democratic primary; won the 2020, 2022 and 2024 general elections (65.2% in 2024). Race raters listed the seat as solid or safe Democratic (Ballotpedia).",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-5 2026",
+    "url": "https://ballotpedia.org/Pennsylvania's_5th_Congressional_District_election,_2026"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T05:30:00Z"
  },
  {
   "id": "PA-5-nick-manganaro",
@@ -1847,7 +1855,7 @@
   "background": "Retired financial professional whose career focused on research, product development and risk management, including consulting for multinational financial firms. Former Republican precinct committeeman; has lived in the district more than 25 years and grew up in Chester County.",
   "platform": "Reducing government spending and federal debt, which he links to inflation; streamlining regulation to attract manufacturing and technology jobs; restricting undocumented immigration; honesty, transparency and accountability.",
   "endorsements": "Delaware County GOP; Pennsylvania Young Republicans (as listed in his Ballotpedia survey).",
-  "money": null,
+  "money": "Raised $21,318 and spent $11,983, with $9,335 left, per FEC data as of Oct. 14, 2026 (Ballotpedia).",
   "notes": null,
   "sources": [
    {
@@ -1860,7 +1868,7 @@
    }
   ],
   "depth": "partial",
-  "updated_at": "2026-11-05T04:29:21Z"
+  "updated_at": "2026-11-05T05:30:00Z"
  },
  {
   "id": "PA-6-chrissy-houlahan",
