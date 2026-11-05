@@ -168,8 +168,8 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Tech consultant.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Tech consultant. Lehigh Valley native; Marine Corps veteran (eight years, two overseas deployments); undergraduate degree from the University of South Carolina Beaufort (2017) and MBA from Saint Joseph's University (2021); youth sports coach. He has said he briefly relied on unemployment benefits and Medicaid after leaving the military (WFMZ, from his campaign announcement).",
+  "platform": "Announced a campaign focused on affordability, responsible government and accountability in Harrisburg, and on letting families build stable lives without being overtaxed (WFMZ, Feb. 3, 2026, from his campaign's release).",
   "endorsements": null,
   "money": null,
   "notes": null,
@@ -177,10 +177,14 @@
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "WFMZ",
+    "url": "https://www.wfmz.com/news/area/lehighvalley/lehigh-valley-veteran-omy-maldonado-announces-run-for-14th-senatorial-district-seat/article_9b0e755d-408c-4b8e-9c0d-69f2153e5c51.html"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T07:25:00Z"
  },
  {
   "id": "SD-16-mark-pinsley",
@@ -981,19 +985,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Army veteran.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Army veteran: more than 20 years on active duty, with two Bronze Star Medals and the Combat Action Badge; former president and secretary of the Cambria County Fair. Also ran for this seat in 2014 (Ballotpedia).",
+  "platform": "Ballotpedia lists no 2026 campaign issues; he did not complete its 2026 candidate survey. In his 2014 run for the seat he campaigned on holding the line on taxes, curbing spending and borrowing, refusing legislative pay raises and cost-of-living adjustments, and shrinking state government.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Won the May 19, 2026 Republican primary with 98.2% of the vote (Ballotpedia). Ballotpedia had no 2026 campaign finance data for him yet.",
   "sources": [
    {
     "name": "Spotlight PA races to watch",
     "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   },
+   {
+    "name": "Ballotpedia",
+    "url": "https://ballotpedia.org/Philip_Rice"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T07:25:00Z"
  },
  {
   "id": "HD-88-sara-agerton",
@@ -2288,18 +2296,22 @@
   "party_name": "Republican",
   "role": "Incumbent",
   "background": "In Congress since 2009, Pennsylvania's longest-serving House member; chairs the Agriculture Committee.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "In his reelection announcement he cited services for veterans, local economic development, career and technical education, and advocacy for farmers and family farms as the first Pennsylvanian in over 150 years to chair the House Agriculture Committee; he highlighted the Whole Milk for Healthy Kids Act, signed in January 2026 (Williamsport Sun-Gazette, Feb. 27, 2026).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "The Sun-Gazette described him as a steadfast ally of President Trump's second-term agenda, citing congressional records showing his votes matched the president's priorities 100% of the time. He had no Republican primary challenger as of his February announcement.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Williamsport Sun-Gazette",
+    "url": "https://www.sungazette.com/news/top-news/2026/02/rep-gt-thompson-announces-campaign-for-reelection/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T07:25:00Z"
  },
  {
   "id": "PA-15-ray-bilger",
