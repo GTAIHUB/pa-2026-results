@@ -27,16 +27,16 @@
    "bytes": 1490
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 39134
-  },
-  {
    "url": "https://www.electionreturns.pa.gov/scripts/Details.json",
    "status": 200,
    "ctype": "application/json",
    "bytes": 1997
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 39134
   },
   {
    "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
