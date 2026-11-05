@@ -622,19 +622,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "State representative since 2009 (first elected 2008). Previously a state Senate staff member for 14 years, mayor of Ambridge, and an on-air personality and program director at WMBA Radio. Serves as House Democratic Caucus chair (majority caucus chairman). Degrees from the Community College of Beaver County and Point Park University.",
+  "platform": "His House biography lists health insurance access for small businesses, water and environmental protection alongside energy development, broadband and 5G expansion, data privacy and economic development; he championed the Shell ethane cracker plant and sports wagering legislation. In 2024 he cited his seniority as a way to bring projects to Beaver County (CBS Pittsburgh).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "In his 2024 race, Matzie said a conservative Harrisburg group, the Commonwealth Leaders Fund, was financing attacks by his then-challenger; that is his accusation, reported by CBS Pittsburgh in October 2024. No 2026 spending reporting found yet.",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Pa. House Democrats: Matzie biography",
+    "url": "https://pahouse.com/Matzie/About/Biography"
+   },
+   {
+    "name": "CBS Pittsburgh (Oct. 2024)",
+    "url": "https://www.cbsnews.com/amp/pittsburgh/news/pennsylvania-state-house-16th-district-race"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T00:25:00Z"
  },
  {
   "id": "HD-16-john-costanza",
@@ -1207,19 +1215,27 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Republican state representative since 2011, seeking an eighth term in 2026. Former teacher in the Stroudsburg, Pleasant Valley and Lower Moreland school districts; served on the Salisbury Township commissioners and the Upper Nazareth supervisors. Chaired the House Commerce Committee (as of 2024). Lycoming College and Kutztown University graduate.",
+  "platform": "Said he favors a commonsense approach to lowering inflation and taxes and has never voted to raise taxes; introduced a 2024 bill requiring a voter referendum for large warehouse projects, which did not get a committee vote and was not reintroduced in 2025. Voting record noted by Armchair Lehigh Valley (2024): votes to restrict abortion, for Act 77 mail voting, and a 94% Gun Owners of America rating.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Combined spending in the 2022 and 2024 races for this seat was $2.2 million, per state filings cited by LehighValleyNews. In May 2024 he had $143,081 cash on hand to his then-challenger's $395,038. 2026 figures not yet found.",
+  "notes": "District was evenly split by party registration after redistricting; he won by 2.3 points in 2022 and 3.3 points in 2024. His 2026 challenger, Northampton County Commissioner Jeff Warren, accused him of \"buddying up with warehouse developers\" (Warren's accusation, July 2025).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "LehighValleyNews / Lehigh Valley Public Media (July 2025)",
+    "url": "https://www.lehighvalleypublicmedia.org/news/bethlehem/northampton-county-commissioner-to-run-for-state-rep-joe-emricks-seat/"
+   },
+   {
+    "name": "Armchair Lehigh Valley (Oct. 2024)",
+    "url": "https://armchairlehighvalley.substack.com/p/in-137th-incumbent-republican-in"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-05T00:25:00Z"
  },
  {
   "id": "HD-142-joe-hogan",
@@ -1420,19 +1436,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Incumbent",
-  "background": "State representative since 2023, in her second term.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "State representative since January 2023, in her second term. Former manufacturer's representative; served three terms on the Souderton Area School Board, as a Lower Salford Township supervisor and on the Lower Salford sewer authority. The College of New Jersey graduate.",
+  "platform": "Describes herself as pro-business, favoring deregulation, lower taxes and job creation. On data centers in 2026 she said: \"protect local control. Require data centers to provide their own power,\" and said her \"no\" vote on a data center bill was about where final authority would lie (Patch).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Won in 2022 over Alexandra Wisser, 54.2% to 44.8%, and in 2024 by about 7,000 votes. Patch reports Republicans had held the seat for 67 years. In 2026 she trails Democrat Margaret Burke by about 200 votes in unofficial counts with no call; her response disputed Burke's data center messaging and did not concede (Patch, 1:13 p.m. ET Nov. 4).",
   "sources": [
    {
     "name": "Wikipedia",
     "url": "https://en.wikipedia.org/wiki/Donna_Scheuren"
+   },
+   {
+    "name": "Patch (Nov. 4, 2026)",
+    "url": "https://patch.com/pennsylvania/lansdale/margaret-burke-flips-montcos-147th-district-historic-razor-thin-defeat-donna"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T00:25:00Z"
  },
  {
   "id": "HD-160-elizabeth-moro",
