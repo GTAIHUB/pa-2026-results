@@ -1880,16 +1880,20 @@
   "background": "In Congress since 2019; Armed Services and Intelligence committees; Air Force veteran.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "FEC figures compiled by Ballotpedia as of Oct. 14, 2026: $2,086,891 raised, $1,344,776 spent, $4,147,728 cash on hand. Republican Marty Young: $459,245 raised. Ballotpedia lists $105 in outside spending supporting her (API PA Votes, Sierra Club Independent Action).",
+  "notes": "Unopposed in the May 19 Democratic primary. Defeated Republican Marty Young; Ballotpedia shows 63.9% (184,007 votes) to 36.1% (104,082). All four major raters had the race Solid or Safe Democratic.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-6 election, 2026",
+    "url": "https://ballotpedia.org/Pennsylvania's_6th_Congressional_District_election,_2026"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T06:27:51Z"
  },
  {
   "id": "PA-6-marty-young",
@@ -2240,16 +2244,20 @@
   "background": "In Congress since 2019; Appropriations Committee; Navy veteran.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "FEC figures compiled by Ballotpedia as of Oct. 14, 2026: $5,037,695 raised, $4,873,670 spent, $713,105 cash on hand.",
+  "notes": "Unopposed in the May 19 Republican primary (52,583 votes). General election opponent: Democrat Alan Bradstock.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-14 election, 2026",
+    "url": "https://ballotpedia.org/Pennsylvania's_14th_Congressional_District_election,_2026"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T06:27:51Z"
  },
  {
   "id": "PA-14-alan-bradstock",
@@ -2324,16 +2332,20 @@
   "background": "In Congress since 2011; Ways and Means Committee.",
   "platform": "Not yet researched. The monitor fills this in as reporting allows.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "FEC figures compiled by Ballotpedia as of Oct. 14, 2026: $1,414,935 raised, $1,418,430 spent, $1,039,192 cash on hand. Democrat Justin Wagner: $247,119 raised, $62,854 cash on hand. Ballotpedia lists no outside spending for or against Kelly.",
+  "notes": "Unopposed in the May 19 Republican primary (44,236 votes). Cook Political Report, Decision Desk, Inside Elections and Sabato's Crystal Ball all rated the race Solid or Safe Republican through Oct. 27.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Ballotpedia: PA-16 election, 2026",
+    "url": "https://ballotpedia.org/Pennsylvania%27s_16th_Congressional_District_election,_2026"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T06:27:51Z"
  },
  {
   "id": "PA-16-justin-wagner",
