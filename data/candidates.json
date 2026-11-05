@@ -2152,19 +2152,23 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Former emergency room nurse and health care consultant; Manheim Township.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Registered nurse for more than 40 years and a consultant for several hospitals; Manheim Township. Holds a master's from the University of Maryland-Baltimore and a doctorate of nursing practice from Waynesburg University, after graduating from Salem State University (PoliticsPA).",
+  "platform": "At her 2025 campaign launch she said she opposed the HR1 bill that Rep. Lloyd Smucker supported, describing it as \"stripping healthcare and nutrition benefits to those with need,\" and criticized cuts to science and health care funding and what she called divisive political rhetoric (PoliticsPA).",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "Filed paperwork in July 2025 as the second Democrat in the race, after Sarah Klimm (PoliticsPA). PoliticsPA's launch report gave no fundraising totals.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "PoliticsPA: Mannion files paperwork to challenge Smucker",
+    "url": "https://politicspa.com/pa-11-mannion-files-paperwork-to-challenge-smucker/142068/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T09:25:00Z"
  },
  {
   "id": "PA-12-summer-lee",
@@ -2382,19 +2386,27 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Challenger",
-  "background": "Automation engineer; Army veteran who deployed to Iraq.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Greenville native living in Mercer County; senior automation engineer in the life sciences industry for 15 years. Army veteran who served in South Korea and at Fort Hood and deployed to Iraq during Operation Iraqi Freedom; attended ITT Technical Institute and Youngstown State University (Meadville Tribune).",
+  "platform": "Platform described as centered on working-class economic concerns, universal health insurance and opposition to what he calls \"constant wars\" (Legis1).",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Raised $19,278 through the end of the first quarter of 2026, with $13,735 cash on hand, per City & State Pennsylvania as cited by Legis1. Rep. Mike Kelly raised just over $125,000 in January-March 2026 and had carried more than $1.1 million cash on hand into the cycle (Legis1, citing the Pennsylvania Capital-Star).",
+  "notes": "Registered his federal campaign committee in October 2025 (Legis1).",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Meadville Tribune: Greenville native announces congressional candidacy",
+    "url": "https://www.meadvilletribune.com/news/greenville-native-announces-congressional-candidacy/article_7b48a298-9c03-5aed-8e71-edef983793c0.html"
+   },
+   {
+    "name": "Legis1: PA-16 campaign funding",
+    "url": "https://legis1.com/news/pa-16-campaign-funding-todays-congressional"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-05T09:25:00Z"
  },
  {
   "id": "PA-17-chris-deluzio",
@@ -2424,18 +2436,22 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Beaver County sheriff since 2016; former state police sergeant.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Beaver County sheriff; lives in Hopewell; formerly with the Pennsylvania State Police (WESA). Has appeared at Trump rallies and in ads attacking former U.S. Sen. Bob Casey (WESA).",
+  "platform": "WESA describes him as a long-time vocal supporter of MAGA policies, especially on immigration. His campaign message, as quoted by WESA: supporting \"an America First Agenda\" and seeking to \"stop the America-hating left in their tracks.\" He did not answer WESA's candidate questionnaire.",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Raised $7,931.66 and spent $58.90 as of March 31, 2026, per FEC figures cited by WESA.",
+  "notes": "Faced Jesse James Vodvarka in the Republican primary. WESA reported that Republican groups showed little sign of investing in the effort to unseat Rep. Chris Deluzio.",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "WESA voter guide: PA-17 Republican primary",
+    "url": "https://www.wesanews.org/wesa-voter-guide/2026-04-20/pa-us-house-17th-district-guy-vodvarka"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "detailed",
+  "updated_at": "2026-11-05T09:25:00Z"
  }
 ]
