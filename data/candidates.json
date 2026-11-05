@@ -659,8 +659,8 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Originally from Beaver County and lives in Center Township; University of Pittsburgh communications graduate; co-owns Cesina's Sausage Co. in Aliquippa and has a background in sales management; has raised six children.",
+  "platform": "Lower taxes and costs and attract jobs and investment; a legal way for civic, veterans and community groups to keep receiving skill-game revenue; fully fund public schools while allowing school choice and backing the Educational Improvement Tax Credit; local control over data centers, with disclosure of their impacts, coverage of their costs and community benefits; supports an Article V convention resolution limited to congressional term limits.",
   "endorsements": null,
   "money": null,
   "notes": null,
@@ -668,10 +668,14 @@
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "Branch Politics candidate profile",
+    "url": "https://branch.vote/races/2026-pennsylvania-general-election--pa-state-state-representative-pa-state-house-16/candidates/john-costanza"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T08:25:00Z"
  },
  {
   "id": "HD-18-k-c-tomlinson",
@@ -1089,19 +1093,27 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "Luzerne County councilman from Pittston; full-time firefighter/EMT for the City of Pittston and captain of the Pittston City Volunteer Fire Department; member of Greater Pittston Regional ambulance; Pittston Area High School and Penn State graduate (campaign announcement, Feb. 2026).",
+  "platform": "Named affordability, public safety, and accessible health care and prescription drugs as priorities; also keeping taxes low, infrastructure, family-sustaining jobs and small businesses; describes himself as a bipartisan official who will not simply follow a partisan agenda.",
   "endorsements": null,
   "money": null,
-  "notes": null,
+  "notes": "His announcement says he helped secure more than $100 million for local landmark and green space projects and over $10 million for first responders as a county councilman; these are his campaign's claims. Lost the 2022 Republican primary for this seat to James May (FOX56).",
   "sources": [
    {
     "name": "Spotlight PA",
     "url": "https://www.spotlightpa.org/news/2026/11/pennsylvania-legislature-control-election-results-elections/"
+   },
+   {
+    "name": "The Dallas Post (campaign announcement)",
+    "url": "https://www.mydallaspost.com/news/191625/john-lombardo-announces-campaign-for-state-representative"
+   },
+   {
+    "name": "FOX56 (2022 primary)",
+    "url": "https://int.fox56.com/news/local/james-may-unofficially-defeats-john-lombardo-in-republican-primary-for-118th-district"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T08:25:00Z"
  },
  {
   "id": "HD-121-jessica-mcclay",
@@ -1430,19 +1442,23 @@
   "party": "R",
   "party_name": "Republican",
   "role": "Challenger",
-  "background": "Not yet researched. The monitor fills this in as reporting allows.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
-  "endorsements": null,
+  "background": "Nurse who has worked at the Veterans Affairs Medical Center in Philadelphia; earlier worked as a truck driver, in store management, at the U.S. Postal Service and in computer repair (associate's degree in electronic engineering). His campaign says he served on a national disaster emergency management team and deployed to Puerto Rico after Hurricane Maria in 2017.",
+  "platform": "Cost of living through what his website calls \"common-sense fiscal discipline\"; education; public safety and support for police and first responders; lower health care costs; job growth; state grant funding for community needs; ending political gridlock.",
+  "endorsements": "None listed on his campaign website (WHYY, Sept. 2026).",
   "money": null,
-  "notes": null,
+  "notes": "Did not respond to WHYY News's interview request for its voter guide.",
   "sources": [
    {
     "name": "Spotlight PA races to watch",
     "url": "https://www.spotlightpa.org/news/2026/09/races-to-watch-pennsylvania-house-senate-2026-midterm-election-elections/"
+   },
+   {
+    "name": "WHYY 144th District voter guide",
+    "url": "https://whyy.org/articles/election-2026-pennsylvania-senate-144th-district-voter-guide/"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T08:25:00Z"
  },
  {
   "id": "HD-147-margaret-burke",
