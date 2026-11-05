@@ -1777,8 +1777,8 @@
   "party": "D",
   "party_name": "Democrat",
   "role": "Incumbent",
-  "background": "In Congress since 2019; Appropriations and Foreign Affairs committees; former state representative.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "background": "In Congress since 2019; Appropriations and Foreign Affairs committees. Glenside native; La Salle University graduate and Widener's Delaware Law School; taught English at La Salle and practiced law; Abington Township commissioner, then state representative from a 2012 special election for about six and a half years (Branch Politics).",
+  "platform": "Universal pre-K and school funding, opposes closing the Education Department, co-led the America's College Promise Act for two free community-college years; opposes tax cuts for the wealthy and the President's tariffs; supports a higher federal minimum wage and collective bargaining; protect and expand Medicare and Medicaid, opposes the 'One Big Beautiful Bill' Medicaid cuts; path to citizenship and reinstating DACA; Toxic PFAS Control Act; gun bills including the Undetectable Firearms Modernization Act (Branch Politics candidate profile).",
   "endorsements": null,
   "money": null,
   "notes": null,
@@ -1786,10 +1786,14 @@
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "Branch Politics candidate profile",
+    "url": "https://branch.vote/races/2026-pennsylvania-general-election--pa-state-us-representative-pa-congressional-4/candidates/madeleine-dean-cunnane"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T03:40:00Z"
  },
  {
   "id": "PA-4-aurora-stuski",
@@ -2114,18 +2118,26 @@
   "party_name": "Democrat",
   "role": "Incumbent",
   "background": "In Congress since 2023; Judiciary and Education committees; Progressive Caucus executive board.",
-  "platform": "Not yet researched. The monitor fills this in as reporting allows.",
+  "platform": "Progressive Caucus member seeking a third term; highlights transit and infrastructure funding (train lines, transit expansion, Parkway East repairs) and says $2.7 billion in federal funds reached the district over four years; pressed the Justice Department to release unredacted Epstein files; sought scrutiny of DOGE data use; joined Pittsburgh protests against ICE agents (TribLive, Feb. 2026).",
   "endorsements": null,
-  "money": null,
-  "notes": null,
+  "money": "Raised about $1.13 million in 2025, roughly 50 times primary rival Adam Forgie's $26,000; Republican James Hayes raised about $10,000 that year (TribLive, Feb. 2026). AIPAC and an affiliated super PAC spent heavily against her in 2022 but had not backed anyone in this race as of February (TribLive).",
+  "notes": "Her Gaza response drew criticism: she condemned the Hamas attacks but said lawmakers must do more about the war's impact on Palestinians, and voted against a pro-Israel resolution in 2023 (TribLive). AP called her reelection on election night (AP via Burnaby Now).",
   "sources": [
    {
     "name": "Spotlight PA congressional guide",
     "url": "https://www.spotlightpa.org/news/2026/09/pennsylvania-2026-congressional-election-guide-tossup-districts-elections/"
+   },
+   {
+    "name": "TribLive: Challengers test Summer Lee's grip",
+    "url": "https://triblive.com/news/politics-election/challengers-test-summer-lees-grip-on-congressional-seat-in-trump-era-midterms"
+   },
+   {
+    "name": "AP race call (via Burnaby Now)",
+    "url": "https://www.burnabynow.com/politics/ap-race-call-democrat-summer-lee-wins-reelection-to-us-house-in-pennsylvanias-12th-congressional-district-9764665"
    }
   ],
-  "depth": "basic",
-  "updated_at": "2026-11-04T13:11:49Z"
+  "depth": "partial",
+  "updated_at": "2026-11-05T03:40:00Z"
  },
  {
   "id": "PA-12-james-hayes",
