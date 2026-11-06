@@ -3,12 +3,6 @@
  "detail": "",
  "responses": [
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 183
-  },
-  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetElectionTesting?methodName=GetElectionDetail&electionid=undefined&electiontype=undefined&isactive=undefined",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -39,6 +33,12 @@
    "bytes": 1997
   },
   {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 183
+  },
+  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -60,7 +60,7 @@
    "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
    "status": 200,
    "ctype": "application/json",
-   "bytes": 696
+   "bytes": 700
   }
  ],
  "pages": {
@@ -68,7 +68,7 @@
    "status": 200,
    "url": "https://www.electionreturns.pa.gov/",
    "selects": null,
-   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.42% (Votes: 3,012,086)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.28% (Votes: 1,908,361)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.29% (Votes: 64,526)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
+   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.42% (Votes: 3,012,100)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.28% (Votes: 1,908,391)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.29% (Votes: 64,528)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
   }
  },
  "office_links": [
