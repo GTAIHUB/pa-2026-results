@@ -3,10 +3,10 @@
  "detail": "",
  "responses": [
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetElectionTesting?methodName=GetElectionDetail&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
-   "bytes": 3046
+   "bytes": 183
   },
   {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
@@ -27,6 +27,12 @@
    "bytes": 45588
   },
   {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetElectionTesting?methodName=GetElectionDetail&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 3046
+  },
+  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetOfficeNames?countyName=&methodName=GetOfficeNames&electionid=undefined&electiontype=undefined&isactive=undefined",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -37,12 +43,6 @@
    "status": 200,
    "ctype": "application/json",
    "bytes": 1997
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 183
   },
   {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
