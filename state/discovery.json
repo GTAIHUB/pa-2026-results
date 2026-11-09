@@ -15,12 +15,6 @@
    "bytes": 441
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 183
-  },
-  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetOfficeNames?countyName=&methodName=GetOfficeNames&electionid=undefined&electiontype=undefined&isactive=undefined",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -31,6 +25,12 @@
    "status": 200,
    "ctype": "application/json; charset=utf-8",
    "bytes": 39134
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 45588
   },
   {
    "url": "https://www.electionreturns.pa.gov/scripts/Details.json",
@@ -45,10 +45,10 @@
    "bytes": 2058
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
-   "bytes": 45588
+   "bytes": 183
   },
   {
    "url": "https://www.electionreturns.pa.gov/Scripts/Counties.json",
@@ -60,7 +60,7 @@
    "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
    "status": 200,
    "ctype": "application/json",
-   "bytes": 700
+   "bytes": 696
   }
  ],
  "pages": {
@@ -68,7 +68,7 @@
    "status": 200,
    "url": "https://www.electionreturns.pa.gov/",
    "selects": null,
-   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.43% (Votes: 3,013,695)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.27% (Votes: 1,908,640)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.29% (Votes: 64,549)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
+   "text_start": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.\n\nOfficial results will be clearly marked as such on the site after counties complete the certification process.  \n\nCommonwealth of Pennsylvania\nElection Results\nHome\nReports \nElections \nCounties \nOffices \nOther Links\nTuesday, November 3, 2026\n2026 General Election (Unofficial Returns)\nStatewide\nFilter by county\n\n\n\n\n\nResults displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots. \n\nOfficial results will be clearly marked as such on the site after counties complete the certification process. \n\n\n\n\nUnofficial Results\nGovernor\nBy County \nBy Vote Method \nJOSH SHAPIRO (DEM)\nRunningmate: DAVIS, AUSTIN\n60.43% (Votes: 3,013,771)\nSTACY GARRITY (REP)\nRunningmate: RICHEY, JASON L\n38.27% (Votes: 1,908,690)\nKEN KRAWCHUK (LIB)\nRunningmate: THOMAS, JOHN C\n1.29% (Votes: 64,555)\nPRIVACY POLICY SECURITY POLICY AGENCIES\nCOPYRIGHT © 2026 COMMONWEALTH OF PENNSYLVANIA. ALL RIGHTS RESERVED.\nDisclaimer: Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail, and provisional ballots. Official results will be clearly marked as such on the site after counties complete the certification process."
   }
  },
  "office_links": [
