@@ -1,7 +1,7 @@
 {
  "source": "Pennsylvania Department of State, electionreturns.pa.gov (unofficial returns until certified)",
  "source_url": "https://www.electionreturns.pa.gov/",
- "checked_at": "2026-11-09T16:37:50Z",
+ "checked_at": "2026-11-09T17:55:28Z",
  "status": "ok",
  "status_detail": "",
  "site_status_text": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.",
@@ -23,27 +23,27 @@
      "name": "JOSH SHAPIRO",
      "party": "D",
      "party_name": "DEM",
-     "votes": 3014144,
+     "votes": 3014406,
      "pct": 60.43
     },
     {
      "name": "STACY GARRITY",
      "party": "R",
      "party_name": "REP",
-     "votes": 1908967,
+     "votes": 1909071,
      "pct": 38.27
     },
     {
      "name": "KEN KRAWCHUK",
      "party": "L",
      "party_name": "LIB",
-     "votes": 64574,
+     "votes": 64582,
      "pct": 1.29
     }
    ],
    "counties": 0,
-   "total_votes": 4987685,
-   "margin_votes": 1105177,
+   "total_votes": 4988059,
+   "margin_votes": 1105335,
    "leader": "JOSH SHAPIRO",
    "leader_party": "D"
   }
