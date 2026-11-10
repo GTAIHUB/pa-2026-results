@@ -3,16 +3,16 @@
  "detail": "",
  "responses": [
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 183
-  },
-  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetElectionTesting?methodName=GetElectionDetail&electionid=undefined&electiontype=undefined&isactive=undefined",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
    "bytes": 3046
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 39134
   },
   {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetDashboardMessage?countyName=&methodName=GetDashboardMessage&electionid=undefined&electiontype=undefined&isactive=undefined",
@@ -27,10 +27,10 @@
    "bytes": 1490
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetLatestElection?methodName=GetLatestElection",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
-   "bytes": 45588
+   "bytes": 183
   },
   {
    "url": "https://www.electionreturns.pa.gov/scripts/Details.json",
@@ -39,10 +39,10 @@
    "bytes": 1997
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetAllElections?methodName=GetAllElections",
+   "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
-   "bytes": 39134
+   "bytes": 45588
   },
   {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
@@ -60,7 +60,7 @@
    "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
    "status": 200,
    "ctype": "application/json",
-   "bytes": 672
+   "bytes": 696
   }
  ],
  "pages": {
