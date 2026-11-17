@@ -9,12 +9,6 @@
    "bytes": 3046
   },
   {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetOfficeNames?countyName=&methodName=GetOfficeNames&electionid=undefined&electiontype=undefined&isactive=undefined",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 1490
-  },
-  {
    "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetDashboardMessage?countyName=&methodName=GetDashboardMessage&electionid=undefined&electiontype=undefined&isactive=undefined",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -25,6 +19,12 @@
    "status": 200,
    "ctype": "application/json; charset=utf-8",
    "bytes": 183
+  },
+  {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GetOfficeNames?countyName=&methodName=GetOfficeNames&electionid=undefined&electiontype=undefined&isactive=undefined",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 1490
   },
   {
    "url": "https://www.electionreturns.pa.gov/scripts/Details.json",
@@ -39,6 +39,12 @@
    "bytes": 39134
   },
   {
+   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
+   "status": 200,
+   "ctype": "application/json; charset=utf-8",
+   "bytes": 2061
+  },
+  {
    "url": "https://www.electionreturns.pa.gov/api/Reports/GetElectionList",
    "status": 200,
    "ctype": "application/json; charset=utf-8",
@@ -49,12 +55,6 @@
    "status": 200,
    "ctype": "application/json",
    "bytes": 963
-  },
-  {
-   "url": "https://www.electionreturns.pa.gov/api/ElectionReturn/GET?methodName=GetSummaryData&electionid=undefined&electiontype=undefined&isactive=1",
-   "status": 200,
-   "ctype": "application/json; charset=utf-8",
-   "bytes": 2061
   },
   {
    "url": "https://www.electionreturns.pa.gov/Built-with-the-For-hopence-Hurleysurfecting-the-?d=www.electionreturns.pa.gov",
