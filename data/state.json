@@ -1,7 +1,7 @@
 {
  "source": "Pennsylvania Department of State, electionreturns.pa.gov (unofficial returns until certified)",
  "source_url": "https://www.electionreturns.pa.gov/",
- "checked_at": "2026-11-19T13:18:15Z",
+ "checked_at": "2026-11-19T14:32:43Z",
  "status": "ok",
  "status_detail": "",
  "site_status_text": "Results displayed are unofficial and for informational purposes only. Counties provide these unofficial results as they tally votes cast via in-person, mail-in, and provisional ballots.",
@@ -23,7 +23,7 @@
      "name": "JOSH SHAPIRO",
      "party": "D",
      "party_name": "DEM",
-     "votes": 3039711,
+     "votes": 3039717,
      "pct": 60.56
     },
     {
@@ -42,8 +42,8 @@
     }
    ],
    "counties": 0,
-   "total_votes": 5019048,
-   "margin_votes": 1125366,
+   "total_votes": 5019054,
+   "margin_votes": 1125372,
    "leader": "JOSH SHAPIRO",
    "leader_party": "D"
   }
